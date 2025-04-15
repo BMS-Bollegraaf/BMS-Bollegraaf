@@ -75,21 +75,21 @@ All patching activities must follow the Change Management Procedure, including:
 | [[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]] | Evaluate patch urgency and risk   |
 | Asset Owners                           | Coordinate downtime for patching  |
 | [[Functions/IT Manager\|IT Manager]]                         | Periodically review compliance    |
-|                                        |                                   |
+
 ## **5.  COMPLIANCE AND ENFORCEMENT**
 Failure to comply with this policy may result in increased security risk, data breaches, or disciplinary actions in line with the organization's policies.
 ## **6. REVIEW AND UPDATES**
 This policy shall be reviewed annually or after a major security incident or significant infrastructure change.
 ## **7. RELATED DOCUMENTS  
 
-| Proces                                        |     |
-| --------------------------------------------- | --- |
-| Change Management Procedure                   |     |
-| [[IT/PO (Policies)/ISMS-PO-SEC-007 Malware Protection Policy\|ISMS-PO-SEC-007 Malware Protection Policy]] |     |
-| Configuration Management Policy               |     |
-| Vulnerability Management Procedure            |     |
-| Information Security Policy                   |     |
-|                                               |     |
+| Proces                                        |
+| --------------------------------------------- |
+| Change Management Procedure                   |
+| [[IT/PO (Policies)/ISMS-PO-SEC-007 Malware Protection Policy\|ISMS-PO-SEC-007 Malware Protection Policy]] |
+| Configuration Management Policy               |
+| Vulnerability Management Procedure            |
+| Information Security Policy                   |
+
 
 
 

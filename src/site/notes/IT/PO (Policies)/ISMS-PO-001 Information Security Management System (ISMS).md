@@ -57,13 +57,13 @@ Information security objectives will be established and reviewed regularly. Thes
 Failure to comply with this policy may result in disciplinary action and will be treated according to HR and information security procedures.
 ## 7. RELATED DOCUMENTS  
 
-| Proces                                                             |     |
-| ------------------------------------------------------------------ | --- |
-| Risk Management Procedure                                          |     |
-| [[IT/PO (Policies)/ISMS-PO-IT-012 IT Asset Management Policy\|ISMS-PO-IT-012 IT Asset Management Policy]]                      |     |
-| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                          |     |
-| [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |     |
-| [[IT/PR (Procedures)/ISMS-PR-IT-004 IT Asset Management Procedure\|ISMS-PR-IT-004 IT Asset Management Procedure]]                   |     |
+| Proces                                                             |
+| ------------------------------------------------------------------ |
+| Risk Management Procedure                                          |
+| [[IT/PO (Policies)/ISMS-PO-IT-012 IT Asset Management Policy\|ISMS-PO-IT-012 IT Asset Management Policy]]                      |
+| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                          |
+| [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |
+| [[IT/PR (Procedures)/ISMS-PR-IT-004 IT Asset Management Procedure\|ISMS-PR-IT-004 IT Asset Management Procedure]]                   |
 
 
 
