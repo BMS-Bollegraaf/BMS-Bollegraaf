@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-003-information-classification-and-handling-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-003-information-classification-and-handling-policy/","tags":["information","classification","policy"]}
 ---
 
  **Effective Date:** 21-03-2025  
@@ -7,8 +7,8 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 
 
 ---
 ## **Table of Contents**  
@@ -42,7 +42,7 @@ All information shall be classified into one of the following categories:
 | Internal Use   | Information intended for internal operations. Limited sharing. (e.g., internal memos, procedures)  |
 | Public         | Information approved for public distribution. (e.g., press releases, published reports             |
 ### 3.2 Labelling of Information
-- Classified documents and digital files must be clearly labeled with the appropriate classification.
+- Classified documents and digital files must be clearly labelled with the appropriate classification.
 - Email subject lines and document headers/footers should reflect classification (e.g., `[Confidential]`).
 - Physical assets (e.g., files, printouts) must be marked accordingly.
 ### 3.3 Handling and Access
@@ -57,7 +57,6 @@ All information shall be classified into one of the following categories:
 ### 3.5 Disposal
 - Confidential and Internal documents must be securely shredded or digitally wiped before disposal.
 - Electronic media must follow the Secure Disposal Procedure (A.8.8).
-
 ## 4. RESPONSIBILITIES
 
 | **Role**       | **Responsibility**                                                        |
@@ -66,15 +65,12 @@ All information shall be classified into one of the following categories:
 | Users          | Handle information according to its classificationthreats                 |
 | IT /security   | Implement technical controls to support classification handlingconfigured |
 | [[Functions/IT Manager\|IT Manager]] | Oversee classification compliance and training                            |
-
 ## **5. TRAINING AND AWARENESS**  
 All users must undergo regular training on information classification and handling, especially during onboarding and annually.
-
 ## **6. COMPLIANCE**  
 Misuse or mishandling of classified information may result in disciplinary or legal action
 ## **7. REVIEW AND UPDATE**
 This policy shall be reviewed **annually**, or after significant changes in the regulatory, business, or IT environment.
-
 ## 8. RELATED DOCUMENTS  
 
 | Proces                                                        |     |
@@ -83,20 +79,6 @@ This policy shall be reviewed **annually**, or after significant changes in the 
 | Data Retention Policy                                         |     |
 | Secure Disposal Procedure                                     |     |
 | [[IT/PO (Policies)/ISMS-PO-001 Information Security Management System (ISMS)\|ISMS-PO-001 Information Security Management System (ISMS)]] |     |
-|                                                               |     |
-|                                                               |     |
-
-## **10. RELATED NORMS AND STANDARDS
-
-
-
-| Management standards                                                |                                                 |                                                            |
-| ------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-|                                                                     |                                                 |                                                            |
-|                                                                     |                                                 |                                                            |
-
-
-
 
 
 

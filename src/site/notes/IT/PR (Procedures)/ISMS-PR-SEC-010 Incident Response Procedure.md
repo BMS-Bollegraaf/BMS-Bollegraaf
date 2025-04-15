@@ -74,7 +74,6 @@ This procedure applies to:
 - Document lessons learned
 - Update relevant policies, controls, or training materials
 - Review response performance and process gaps
-
 ## 5. ROLES AND RESPONSIBILITIES**
 
 | Role               | Responsibility                                               |
@@ -89,13 +88,11 @@ Maintain the **Incident Log** with:
 - Unique ID, date/time, description, severity
 - Steps taken, resolution, recovery time
 - Approvals and RCA summary
-
 ## **7. TESTING AND REVIEW**
 - Incident response plans must be **tested at least annually** through:
     - Simulated incidents (tabletop exercises)
     - Real incident postmortems
 - Procedure must be reviewed **annually** or after a major incident.
-
 ## **8. RELATED NORMS AND STANDARDS**
 
 | Proces                                                             |

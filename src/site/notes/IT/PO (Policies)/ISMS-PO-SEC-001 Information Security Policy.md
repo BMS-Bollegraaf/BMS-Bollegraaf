@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-001-information-security-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-001-information-security-policy/","tags":["information","security","policy"]}
 ---
 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 
 
 ---
 ## **Table of Contents**  

@@ -74,7 +74,7 @@ To define roles, responsibilities, and acceptable practices for delivering IT su
 - All remote support sessions require **user consent** and are **logged**
 - Privileged actions (e.g., elevated admin tasks) are performed only by authorized personnel
 - Changes to systems follow the **[[IT/PR (Procedures)/ISMS-PR-IT-002 Change Management Procedure\|ISMS-PR-IT-002 Change Management Procedure]]**
-## **9. MONITORING & REPORTING
+## **9. MONITORING & REPORTING**
 - Support activity is monitored for:
     - SLA compliance
     - Ticket trends
