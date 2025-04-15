@@ -14,7 +14,7 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
+3. [POLICY STATEMENT](#policy-statement)  
 4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
 5. [DMARC RECORD REQUIREMENTS](#dmarc)  
 6. [RESPONSIBILITIES](#responsibilities)  
