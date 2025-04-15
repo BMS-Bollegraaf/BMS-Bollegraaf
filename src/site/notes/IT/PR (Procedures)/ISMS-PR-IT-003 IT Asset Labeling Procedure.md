@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-003-it-asset-labeling-procedure/"}
 ---
 
- 
+
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  

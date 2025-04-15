@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-010-data-restoration-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-010-data-restoration-procedure/","tags":["restore","procedure"]}
 ---
 
- 
-**Effective Date:** 21-03-2025  
+ **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
@@ -11,19 +10,19 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 8.12, 5.25, 5.31
-**Tags:** #policy #compliance  #security #dmarc #email
-
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [WHEN TO TRIGGER A RESTORE](#when-to-trigger-a-restore)  
+4. [REQUESTING A DATA RESTORE](#requesting-a-data-restore)  
+5. [RESTORE EXECUTION PROCESS](#restore-execution-process)  
+6. [RESTORE AND ACCESS CONTROL](#restore-and-access-control)  
+7. [LOGGING AND DOCUMENTATION](#logging-and-documentation)  
+8. [TESTING AND VALIDATION](#testing-and-validation)
+9. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
+10. [REVIEW AND MAINTANCE](#review-and-maintance)
 ---
 ## **1. PURPOSE**  
 To provide a clear and secure process for restoring data from backups in the event of accidental deletion, data corruption, system failure, or other business disruptions.

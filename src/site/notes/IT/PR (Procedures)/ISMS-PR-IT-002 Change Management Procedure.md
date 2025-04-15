@@ -1,31 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-002-change-management-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-002-change-management-procedure/","tags":["Change","procedure"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]] / [[Functions/IT Manager\|IT Manager]]
-**Classification:**
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.32, 5.36, 5.33, 8.25
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [TYPE OF CHANGES](#type-of-changes)  
+4. [CHANGE LIFECYCLE](#change-of-lifecycle)  
+5. [EMERGENCY CHANGE PROTOCOL](#emergency-change-protocol)  
+6. [DOCUMENTS REQUIREMENTS](#documents-requirements)  
+7. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+8. [AUDIT & REVIEW](#audit-review) 
+9. [RELATED DOCUMENTS](#related-documents)
 
 ---
-
 ## **1. PURPOSE**  
 To ensure that all changes to IT systems, infrastructure, and applications are **requested, assessed, approved, implemented, and reviewed** in a controlled and secure manner, reducing risk of service disruption or security impact.
 ## **2. SCOPE**
@@ -97,7 +94,7 @@ Every change record must include:
     - Failed vs successful changes
     - Emergency change trends
 - Annual policy review or after any major incident
-## **9. RELATED DOCUMENTS
+## **9. RELATED DOCUMENTS**
 
 | [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                            |     |
 | -------------------------------------------------------------------- | --- |

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-001-incident-management-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-001-incident-management-procedure/","tags":["incident","procedure"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
@@ -10,7 +9,7 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 5.24, 5.25, 5.26, 5.27
-**Tags:** #policy #compliance  #security #dmarc #email
+
 
 ---
 ## **Table of Contents**  
