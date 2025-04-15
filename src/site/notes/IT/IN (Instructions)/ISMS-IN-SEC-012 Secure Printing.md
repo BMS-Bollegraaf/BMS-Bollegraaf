@@ -12,12 +12,12 @@
 
 ---
 ## **Table of Contents**  
-1. [WHY IT MATTERS](#purpose)  
-2. [SECURE PRINTING: WHAT YOU MUST DO](#scope)  
-3. [IF SOMETHING GOES WRONG](#policy statement)  
-4. [WHAT NOT TO DO](#roles-and-responsibilities)  
-5. [NEED HELP?](#dmarc)  
-6. [RELATED DOCUMENTS](#responsibilities)  
+1. [WHY IT MATTERS](#why-it-matters)  
+2. [SECURE PRINTING: WHAT YOU MUST DO](#secure-printing)  
+3. [IF SOMETHING GOES WRONG](#if-something-goes-wrong)  
+4. [WHAT NOT TO DO](#what-not-to-do)  
+5. [NEED HELP?](#need-help)  
+6. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. WHY IT MATTERS**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/city-html/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/city-html/"}
 ---
 
 
