@@ -16,15 +16,14 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+3. [POLICY STATEMENT](#policy-statement)  
+4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)   
+7. [RELATED DOCUMENTS](#related-documents)   
+8. [RELATED DOCUMENTS](#appendices) 
+9. [RELATED NORMS AND STANDARDS](#appendices) 
+10. [DEFINITIES](#DEFINITIES) 
 
 ---
 
@@ -66,7 +65,7 @@ This policy applies to:
 
 
 
-## **6. ROLES AND RESPONSIBILITIES**
+## **4. ROLES AND RESPONSIBILITIES**
 
 | **Role**                  | **Responsibility**                                       |
 | ------------------------- | -------------------------------------------------------- |

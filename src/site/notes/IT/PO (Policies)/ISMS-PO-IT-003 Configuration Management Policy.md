@@ -7,7 +7,9 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 
 
 ---
 ## **Table of Contents**  
@@ -69,17 +71,14 @@ This policy applies to:
 | [[Functions/System Owners\|System Owners]]                                       | Approve configuration changes affecting their assets      |
 | [[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]] / [[Functions/IT Manager\|IT Manager]] | Review configuration standards and perform audits         |
 | Developers (if applicable)                              | Follow secure configuration and deployment practices      |
-
 ## **5. COMPLIANCE**  
 Failure to comply may lead to system outages, vulnerabilities, audit findings, or disciplinary action.
-
 ## **6. REVIEW**  
 This policy must be reviewed **annually** or following:
 
 - Major system or infrastructure changes
 - Internal or external audit recommendations
 - Security incidents or configuration breaches
-
 ## 7. RELATED DOCUMENTS  
 
 | Proces                                      |     |
@@ -90,17 +89,6 @@ This policy must be reviewed **annually** or following:
 | Incident Response Procedure                 |     |
 | [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]   |     |
 | System Hardening Standards                  |     |
-## 8. RELATED NORMS AND STANDARDS
-
-| Management standards |     |     |
-| -------------------- | --- | --- |
-|                      |     |     |
-|                      |     |     |
-
-
-
-
-
 
 
 
