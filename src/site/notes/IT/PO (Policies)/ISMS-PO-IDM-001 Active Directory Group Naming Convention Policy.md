@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["catridges","policy"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["policy"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,7 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[IT/IT\|IT]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
@@ -50,7 +49,6 @@ All AD group names **must follow this format**:
 - `DEV-EMM-IT-SharePoint-F-M365`
     
 - `TST-VEE-HR-VPN-RW-SG`
-
 
 ## **4. ADDITIONAL GUIDELINES**
 - Use **uppercase letters** for consistency.
