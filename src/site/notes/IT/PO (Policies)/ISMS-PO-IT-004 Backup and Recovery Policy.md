@@ -1,18 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-004-backup-and-recovery-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-004-backup-and-recovery-policy/","tags":["Backup","recovery","policy"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
-
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 5.30, 5.31, 8.13
 
 ---
-
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
@@ -26,7 +24,6 @@
 10. [DEFINITIES](#DEFINITIES) 
 
 ---
-
 ## **1. PURPOSE**  
 To ensure that critical data and systems can be recovered in the event of data loss, system failure, or disaster, and to maintain the availability and integrity of organizational information.
 
@@ -93,16 +90,6 @@ This policy must be reviewed **annually** or after:
 | [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |     |
 | [[IT/PO (Policies)/ISMS-PO-IT-005 Patch Management Policy\|ISMS-PO-IT-005 Patch Management Policy]]                          |     |
 | [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                          |     |
-## 8. RELATED NORMS AND STANDARDS
-
-| This policy supports **ISO/IEC 27001:2022** controls such as: |     |
-| ------------------------------------------------------------- | --- |
-| 5.30 – ICT continuity planning                                |     |
-| 8.13 – Information backup                                     |     |
-| 5.31 – ICT readiness for business continuity                  |     |
-
-
-
 
 
 
