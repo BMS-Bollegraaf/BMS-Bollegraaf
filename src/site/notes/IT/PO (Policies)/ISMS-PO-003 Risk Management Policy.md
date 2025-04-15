@@ -21,7 +21,6 @@
 7. [COMPLIANCE](#compliance)  
 8. [REVIEW AND MAINTENANCE](#review-and-maintenance)  
 9. [RELATED DOCUMENTS](#related-documents)  
-
 ---
 ## **1. PURPOSE**  
 To define the principles and framework for managing information security risks in order to protect organizational assets, meet compliance requirements, and support continuous improvement of the ISMS.
