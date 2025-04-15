@@ -14,12 +14,15 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [BC/DR FRAMEWORK OVERVIEW](#BC-DR-framework-overview)  
+4. [KEY COMPONENTS](#key-components)  
+5. [ACTIVATION CRITERIA](#activation-criteria)  
+6. [TESTING & REVIEW](#testing-review)  
+7. [ROLES AND RESPONSIBILITY](#roles-and-responsibilities)  
+8. [COMMUNICATION DURING DISRUPTION](#communication-during-disruption)
+9. [COMPLIANCE](#compliance)
+10. [REVIEW](#review)
+11. [RELATED DOCUMENTS](#related-documents)
 ---
 ## **1. PURPOSE**  
 To ensure that the organization can maintain or rapidly resume critical operations in the event of a disaster, cyberattack, system failure, or other business disruption.
@@ -33,7 +36,7 @@ Focuses on maintaining essential services with minimal disruption.
 #### 3.2 Disaster Recovery (DR)
 Focuses on restoring IT systems, applications, and data following a major disruption.
  
- ## **4. KEY COMPONENTS**
+## **4. KEY COMPONENTS**
 #### 4.1 Business Impact Analysis (BIA)
 - Identify critical processes and Recovery Time Objectives (RTOs) / Recovery Point Objectives (RPOs)
 - Classify systems and dependencies by priority leve
