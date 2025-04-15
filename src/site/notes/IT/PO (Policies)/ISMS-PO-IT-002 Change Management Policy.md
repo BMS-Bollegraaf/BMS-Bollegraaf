@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-002-change-management-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-002-change-management-policy/","tags":["policy","Change"]}
 ---
 
  
@@ -8,8 +8,6 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
-
 
 ---
 ## **Table of Contents**  

@@ -3,25 +3,11 @@
 ---
 
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
-
-
-| Proces           | Data Protection    |
-| ---------------- | ------------------ |
-| Document         | IT Security Policy |
-| Scope            | Security           |
-| Revision         | 0.1                |
-| Status           | Concept            |
-| Reason of Change | Setup              |
-| Owner            | Vincent Sanders    |
-| Verified by      |                    |
-| Authorized by    |                    |
 
 ---
 ## **Table of Contents**  

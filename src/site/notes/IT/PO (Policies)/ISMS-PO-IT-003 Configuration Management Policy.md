@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-003-configuration-management-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-003-configuration-management-policy/","tags":["policy"]}
 ---
-
 
  
 **Effective Date:** 21-03-2025  
@@ -9,27 +8,12 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
-
-
-| Proces           | Data Protection                 |
-| ---------------- | ------------------------------- |
-| Document         | Configuration Management Policy |
-| Scope            | IT                              |
-| Revision         | 0.1                             |
-| Status           | Concept                         |
-| Reason of Change | Setup                           |
-| Owner            | Vincent Sanders                 |
-| Verified by      |                                 |
-| Authorized by    |                                 |
-
 
 ---
-
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
+3. [POLICY STATEMENT](#policy-statement)  
 4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
 5. [DMARC RECORD REQUIREMENTS](#dmarc)  
 6. [RESPONSIBILITIES](#responsibilities)  
@@ -38,7 +22,6 @@
 9. [RELATED DOCUMENTS](#appendices) 
 10. [RELATED NORMS AND STANDARDS](#appendices) 
 11. [DEFINITIES](#DEFINITIES) 
-
 ---
 
 ## **1. PURPOSE**  
