@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-001-information-security-management-system-isms/","tags":["policy"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-001-information-security-management-system-isms/","tags":["policy","security","ISMS"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** 
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 
 
 ---
 ## **Table of Contents**  
