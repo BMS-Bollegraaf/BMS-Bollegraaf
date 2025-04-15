@@ -7,9 +7,9 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[HR/HR\|HR]]
-**Related Documents:**
+
 **ISO/IEC 27001 Controls:** 6.3, 5.10, 5.1, 5.37
-**Tags:** #policy #compliance  #security #dmarc #email
+
 
 ---
 ## **Table of Contents**  

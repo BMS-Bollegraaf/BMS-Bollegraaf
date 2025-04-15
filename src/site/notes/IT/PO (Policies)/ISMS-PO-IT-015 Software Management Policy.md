@@ -7,9 +7,9 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Related Documents:**
+
 **ISO/IEC 27001 Controls:** 5.9, 5.10, 8.9, 8.28, 8.8
-**Tags:** #policy #compliance  #security #dmarc #email
+
 
 ---
 ## **Table of Contents**  

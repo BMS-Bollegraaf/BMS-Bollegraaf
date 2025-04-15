@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-009-it-maintenance-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-009-it-maintenance-policy/","tags":["policy","maintenance"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,7 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.31, 5.32, 8.9
-
 
 ---
 ## **Table of Contents**  

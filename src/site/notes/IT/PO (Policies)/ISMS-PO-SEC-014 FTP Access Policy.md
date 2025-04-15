@@ -1,17 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-014-ftp-access-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-014-ftp-access-policy/","tags":["policy","FTP"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Classification:**
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-**Tags:** 
 
 ---
 ## **Table of Contents**  
