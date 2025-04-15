@@ -1,27 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-007-cloud-security-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-007-cloud-security-policy/","tags":["policy","cloud","security"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 5.23, 5.10, 8.1, 8.27
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+3. [POLICY STATEMENT](#policy-statements)  
+4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
@@ -86,23 +83,3 @@ This policy must be reviewed **annually** or after:
 | [[IT/PO (Policies)/ISMS-PO-SEC-008 Logging and Monitoring Policy\|ISMS-PO-SEC-008 Logging and Monitoring Policy]] |
 | Vendor Management Policy                          |
 | Data Classification & Handling Policy             |
-## 8. RELATED NORMS AND STANDARDS
-
-| This policy addresses how cloud environments (IaaS, PaaS, SaaS) are securely managed and used, and supports **ISO/IEC 27001:2022** controls such as: |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5.23 – Information security for use of cloud services                                                                                                |
-| 8.1 – Access control                                                                                                                                 |
-| 5.10 – Acceptable use of information and assets                                                                                                      |
-| 8.27 – Security in development and support processes                                                                                                 |
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,29 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-008-it-system-testing-and-validation-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-008-it-system-testing-and-validation-policy/","tags":["policy","testing","validation"]}
 ---
 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 5.23, 5.25, 8.29, 8.30
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+3. [POLICY STATEMENT](#policy-statement)  
+4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+5. [COMPLIANCE](#compliance)  
+6. [REGISTRATION](#registration)  
+7. [RELATED DOCUMENTS](#appendices) 
+
+
 
 ---
-
 ## **1. PURPOSE**  
 To ensure all new or modified IT systems, applications, and platforms undergo formal testing and validation before being deployed into production, thereby reducing security, performance, and functional risks.
 ## **2. SCOPE**
@@ -65,7 +64,7 @@ This policy applies to:
 - Any third parties involved in testing must follow this policy and sign an NDA.
 - Testing providers must meet security requirements defined in the **Third-Party Security Policy**.
 
-## **4. RESPONSIBILITIES**
+## **4. ROLES AND RESPONSIBILITIES**
 
 | **Role**                               | **Responsibility**                               |
 | -------------------------------------- | ------------------------------------------------ |
@@ -92,15 +91,6 @@ This policy must be reviewed **annually** or when:
 | [[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]    |     |
 | Release & Deployment Checklist                     |     |
 | UAT Sign-Off Form                                  |     |
-## **8. Controls**
-
-| This policy ensures that all new or updated IT systems, applications, and services are properly tested before going live — aligning with the principles of **ISO/IEC 27001:2022**, particularly |     |     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| 8.29 – Security testing in development and acceptance                                                                                                                                           |     |     |
-| 5.23 – Information security for the use of cloud services                                                                                                                                       |     |     |
-| 5.25 – Assessment and decision on information security events                                                                                                                                   |     |     |
-| 8.30 – Outsourced development (if applicable)                                                                                                                                                   |     |     |
-
 
 
 
