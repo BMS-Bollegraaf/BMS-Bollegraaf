@@ -19,9 +19,6 @@
 5. [COMPLIANCE](#compliance)  
 6. [REVIEW](#review)   
 7. [RELATED DOCUMENTS](#related-documents)   
-8. [RELATED DOCUMENTS](#appendices) 
-9. [RELATED NORMS AND STANDARDS](#appendices) 
-10. [DEFINITIES](#DEFINITIES) 
 
 ---
 ## **1. PURPOSE**  
