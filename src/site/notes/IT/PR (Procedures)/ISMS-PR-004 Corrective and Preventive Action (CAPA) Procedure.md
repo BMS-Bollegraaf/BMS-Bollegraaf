@@ -8,9 +8,8 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  

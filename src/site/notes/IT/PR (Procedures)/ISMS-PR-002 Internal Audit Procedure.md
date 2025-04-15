@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/","tags":["procedure","audit"]}
 ---
 
  
@@ -8,8 +8,8 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
-**Tags:** #policy #compliance  #security #dmarc #email
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 
 
 ---
 ## **Table of Contents**  
