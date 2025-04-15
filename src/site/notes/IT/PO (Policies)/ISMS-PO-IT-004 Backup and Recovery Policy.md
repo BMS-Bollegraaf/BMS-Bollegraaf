@@ -65,7 +65,7 @@ This policy applies to:
 | ------------------------- | -------------------------------------------------------- |
 | [[Functions/IT Engineer\|IT Engineer]]           | Execute, monitor, and test backups and restores          |
 | [[Functions/System Owners\|System Owners]]         | Define RTO/RPO and validate recovery capabilities        |
-| ISMS Manager              | Ensure compliance with backup policy and audit readiness |
+| [[Functions/ISMS Manager\|ISMS Manager]]          | Ensure compliance with backup policy and audit readiness |
 | [[Functions/Third-Party Providers\|Third-Party Providers]] | Adhere to contractual backup and security requirements   |
 |                           |                                                          |
 ## **5. COMPLIANCE**  
