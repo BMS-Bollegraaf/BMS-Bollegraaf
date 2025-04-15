@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["catridges","policy"]}
 ---
 
  
@@ -8,8 +8,7 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[IT/IT\|IT]]
-**Classification:** 
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 **Tags:** #policy #compliance  #security #dmarc #email
 
@@ -17,12 +16,12 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [NAMING CONVENTION STRUCTURE](#policy statement)  
-4. [ADDITIONAL GUIDELINES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [NAMING CONVENTION STRUCTURE](#namiing-convention-structure)  
+4. [ADDITIONAL GUIDELINES](#additional-guidelines)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
+8. [CONTROLS](#controle)  
 
 ---
 ## **1. PURPOSE**  
@@ -78,7 +77,7 @@ Non-compliant AD group names may be renamed or removed to maintain directory int
 | Proces |
 | ------ |
 |        |
--
+
 
 
 

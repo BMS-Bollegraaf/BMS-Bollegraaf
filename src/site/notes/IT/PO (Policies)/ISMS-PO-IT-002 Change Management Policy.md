@@ -7,7 +7,9 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 8.9, 5.31, 5.32, 5.23
 
 ---
 ## **Table of Contents**  
@@ -15,13 +17,9 @@
 2. [SCOPE](#scope)  
 3. [POLICY STATEMENT](#policy statement)  
 4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
@@ -31,7 +29,7 @@ This policy applies to:
 - All changes to production systems, networks, applications, configurations, and infrastructure
 - All employees, contractors, and vendors involved in making or approving changes  
  
- ## **3. POLICY STATEMENTS** 
+## **3. POLICY STATEMENTS** 
  
  #### 3.1 Change Classification
 Changes must be categorized as:
@@ -86,15 +84,6 @@ This policy shall be reviewed **annually** or after:
 | Risk Assessment Procedure                       |     |
 | [[IT/PO (Policies)/ISMS-PO-SEC-001 Information Security Policy\|ISMS-PO-SEC-001 Information Security Policy]] |     |
 |                                                 |     |
-## **8. RELATED NORMS AND STANDARDS**
-
-| This supports **ISO/IEC 27001:2022** controls such as |     |     |
-| ----------------------------------------------------- | --- | --- |
-| 8.9 – Configuration management                        |     |     |
-| 5.31 – ICT readiness for business continuity          |     |     |
-| 5.32 – Change management                              |     |     |
-| 5.23 – Information security in project management     |     |     |
-
 
 
 
