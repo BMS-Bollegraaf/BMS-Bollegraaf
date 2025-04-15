@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["catridges","policy"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
@@ -16,7 +15,7 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [NAMING CONVENTION STRUCTURE](#namiing-convention-structure)  
+3. [NAMING CONVENTION STRUCTURE](#naming-convention-structure)  
 4. [ADDITIONAL GUIDELINES](#additional-guidelines)  
 5. [COMPLIANCE](#compliance)  
 6. [REVIEW](#review)  
@@ -71,14 +70,6 @@ All AD group names **must follow this format**:
 Exceptions to this policy must be reviewed and approved by the IAM team and documented in the AD Exceptions Register.
 ## **7. ENFORCEMENT**  
 Non-compliant AD group names may be renamed or removed to maintain directory integrity and audit readiness.
-
-## **8.RELATED DOCUMENTS
-
-| Proces |
-| ------ |
-|        |
-
-
 
 
 
