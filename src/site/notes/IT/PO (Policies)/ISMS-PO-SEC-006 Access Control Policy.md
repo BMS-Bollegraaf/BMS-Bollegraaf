@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-006-access-control-policy/","tags":["policy","access","control"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-006-access-control-policy/","tags":["policy","access","control"]}
 ---
 
  **Effective Date:** 21-03-2025  

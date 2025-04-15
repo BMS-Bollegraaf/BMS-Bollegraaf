@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/","tags":["procedure","disaster"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/","tags":["procedure","disaster"]}
 ---
 
 **Effective Date:** 21-03-2025  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-012-it-asset-management-policy/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-012-it-asset-management-policy/"}
 ---
 
 **Effective Date:** 21-03-2025  

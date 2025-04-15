@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-011-email-and-communication-policy/","tags":["policy","email","communication"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-011-email-and-communication-policy/","tags":["policy","email","communication"]}
 ---
 
  **Effective Date:** 21-03-2025  

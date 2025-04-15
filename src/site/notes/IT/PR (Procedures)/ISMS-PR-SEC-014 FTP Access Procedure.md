@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-014-ftp-access-procedure/","tags":["FTP","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-014-ftp-access-procedure/","tags":["FTP","procedure"]}
 ---
 
 

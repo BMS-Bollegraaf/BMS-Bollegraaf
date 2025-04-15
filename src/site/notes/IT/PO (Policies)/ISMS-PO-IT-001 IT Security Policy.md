@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-001-it-security-policy/","tags":["policy","security"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-001-it-security-policy/","tags":["policy","security"]}
 ---
 
 **Effective Date:** 21-03-2025  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pdf-to-obsidian/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/pdf-to-obsidian/"}
 ---
 
 <!DOCTYPE html>

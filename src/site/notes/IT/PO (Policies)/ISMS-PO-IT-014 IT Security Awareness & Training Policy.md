@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-014-it-security-awareness-and-training-policy/","tags":["policy","training","security","awareness"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-014-it-security-awareness-and-training-policy/","tags":["policy","training","security","awareness"]}
 ---
 
  **Effective Date:** 21-03-2025  

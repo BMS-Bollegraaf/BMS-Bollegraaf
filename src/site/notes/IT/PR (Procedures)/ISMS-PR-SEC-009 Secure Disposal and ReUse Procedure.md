@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-009-secure-disposal-and-re-use-procedure/","tags":["procedure","disposal"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-009-secure-disposal-and-re-use-procedure/","tags":["procedure","disposal"]}
 ---
 
 **Effective Date:** 21-03-2025  

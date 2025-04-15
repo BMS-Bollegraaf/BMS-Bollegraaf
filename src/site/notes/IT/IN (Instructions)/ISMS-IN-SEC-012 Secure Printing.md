@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-012-secure-printing/","tags":["Instruction","printing"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-012-secure-printing/","tags":["Instruction","printing"]}
 ---
 
 **Effective Date:** 21-03-2025  
