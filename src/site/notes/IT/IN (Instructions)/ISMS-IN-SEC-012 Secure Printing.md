@@ -60,7 +60,7 @@ Printed documents can contain **confidential, personal, or sensitive information
 - ❌ Don’t let others collect your printouts
 - ❌ Don’t discard sensitive material in regular bins
 - ❌ Don’t print confidential info from personal devices or public Wi-Fi
-## **5. NEED HELP?
+## **5. NEED HELP?**
 
 If you're unsure contact [[Functions/IT Support\|IT Support]]
 ## **6. RELATED DOCUMENTS**  
