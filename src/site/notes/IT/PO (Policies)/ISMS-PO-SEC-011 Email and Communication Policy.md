@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-011-email-and-communication-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-011-email-and-communication-policy/","tags":["policy","email","communication"]}
 ---
 
- 
-**Effective Date:** 21-03-2025  
+ **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Classification:** Internal
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 **Tags:** 
 
@@ -17,11 +15,11 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+3. [ACCEPTABLE USE](#acceptable-use)  
+4. [SECURITY REQUIREMENTS](#security-requirements)  
 5. [COMPLIANCE](#dmarc)  
 6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
+7. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)   
 8. [CONTROLS](#registrations)  
 
 ---
@@ -41,7 +39,7 @@ This policy applies to:
 | Chat/Messaging (e.g., Teams)  | Internal collaboration, quick exchanges, team updates                      |
 | Video Conferencing            | Scheduled meetings, interviews, remote training                            |
 | Mobile Messaging (if allowed) | Emergency communication or field ops (approved apps only)                  |
- ## **4. SECURITY REQUIREMENTS**
+## **4. SECURITY REQUIREMENTS**
 #### 4.1 Email Security
 - **Company email accounts** must be used for all business communication
 - Email access must be protected with **MFA**
