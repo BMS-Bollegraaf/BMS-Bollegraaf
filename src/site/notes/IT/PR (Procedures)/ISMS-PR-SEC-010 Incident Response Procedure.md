@@ -8,7 +8,7 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**ISO/IEC 27001 Controls:** 
+**ISO/IEC 27001 Controls:** 5.24, 5.25, 5.26, 5.27
 
 ---
 ## **Table of Contents**  
@@ -32,7 +32,7 @@ This procedure applies to:
 - All employees, contractors, and third parties
 - All information systems, networks, cloud services, and physical devices
 - Any suspected or confirmed security event or incident involving the confidentiality, integrity, or availability of information assets  
- ## **3. DEFINITIONS**
+## **3. DEFINITIONS**
 
 | Term                      | Description                                                                 |
 | ------------------------- | --------------------------------------------------------------------------- |
@@ -48,7 +48,7 @@ This procedure applies to:
     - Unauthorized access attempts
     - Malware infections
     - Data breaches or data loss
-    - Unusual system behavior or outages
+    - Unusual system behaviour or outages
 #### 4.2 Logging & Classification
 - All reported incidents must be logged in the **Incident Register**.
 - Incidents are classified based on:
@@ -63,7 +63,7 @@ This procedure applies to:
 #### 4.4 Containment
 - Immediate steps taken to prevent further damage (e.g., disconnect system, revoke access, isolate device
 #### 4.5 Eradication & Recovery
-- Remove the threat (e.g., malware cleanup, patching)
+- Remove the threat (e.g., malware clean-up, patching)
 - Restore systems from backups if needed
 - Verify full functionality and integrity before returning systems to production
 #### 4.6 Notification & Escalation
@@ -106,15 +106,6 @@ Maintain the **Incident Log** with:
 | [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |
 | Incident Log Template / Root Cause Analysis Template               |
 |                                                                    |
-## 9. CONTROLS
-
-| This procedure supports **ISO/IEC 27001:2022** requirements, particularly |
-| ------------------------------------------------------------------------- |
-| 5.24 – Information security incident management                           |
-| 5.25 – Assessment and decision on information security events             |
-| 5.26 – Response to information security incidents                         |
-| 5.27 – Learning from information security incidents                       |
-
 
 
 

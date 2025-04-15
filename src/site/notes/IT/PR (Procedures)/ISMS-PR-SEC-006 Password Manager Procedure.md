@@ -8,7 +8,6 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]] / [[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:**
 **ISO/IEC 27001 Controls:** 8.3, 8.4, 5.10, 5.36
 
 ---
