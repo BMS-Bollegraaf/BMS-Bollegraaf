@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/","tags":["procedure","disaster"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
@@ -15,7 +14,7 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
+3. [POLICY STATEMENTS](#policy-statement)  
 4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
 5. [COMPLIANCE](#dmarc)  
 6. [REVIEW](#responsibilities)  
