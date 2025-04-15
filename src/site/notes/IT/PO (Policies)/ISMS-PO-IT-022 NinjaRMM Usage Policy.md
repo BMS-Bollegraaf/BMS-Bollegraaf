@@ -18,11 +18,16 @@
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
 3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+4. [ACCESS CONTROL REQUIREMENTS](#access-control-requirements)  
+5. [SECURITY & CONFIGURATION STANDARDS](#security-configuration-standards)  
+6. [SCRIPTING AND AUTOMATION](#scripting-and-automation)  
+7. [MONITORING AND LOGGING](#monitoring-and-logging)  
+8. [CHANGE & INCIDENT INTEGRATION](#change-incident-integration)
+9. [DEPROVISONING](#deprovioning)
+10. [ACCEPTABLE USE](#acceptable-use)
+11. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
+12. [REVIEW AND MAINTENANCE](#review-and-maintenance)
+13. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  
@@ -30,7 +35,7 @@ To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for 
 ## **2. SCOPE**
 To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for system monitoring, patch management, endpoint control, and remote support activities.
  
- ## **3. POLICY STATEMENTS** 
+## **3. POLICY STATEMENTS** 
  NinjaRMM may be used for:
 - System health and performance monitoring
 - Security patch and software deployment
@@ -71,7 +76,7 @@ To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for 
 - Any major automation or agent config changes must follow **[[IT/PR (Procedures)/ISMS-PR-IT-002 Change Management Procedure\|ISMS-PR-IT-002 Change Management Procedure]]**
 - Security alerts are to be linked with **[[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]**
 - RMM can be used to **quarantine or isolate compromised assets**
-## 9. DEPROVISONING**
+## **9. DEPROVISONING**
 - RMM access is revoked:  
     - Within 24 hours of role or employment termination
     - If non-compliance or policy breach is detected
@@ -87,7 +92,7 @@ To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for 
 - Unapproved monitoring of users
 - Unsanctioned access to data or credentials
 
-## 11.ROLES AND RESPONSIBILITIES
+## **11.ROLES AND RESPONSIBILITIES**
 
 | Role              | Responsibility                           |
 | ----------------- | ---------------------------------------- |
