@@ -14,11 +14,11 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
+3. [POLICY STATEMENTS](#policy-statement)  
 4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
 8. [CONTROLS](#registrations)  
 
 ---

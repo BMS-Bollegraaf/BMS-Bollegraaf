@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-010-incident-response-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-010-incident-response-procedure/","tags":["incident","response","procedure"]}
 ---
 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
-**Last Updated:** 21-03-2025  
+**Last Updated:** 15-04-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
@@ -14,15 +14,12 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy-statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+3. [DEFINITIONS](#definitions)  
+4. [RESPONSIBILITIES](#responsibilities)  
+5. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+6. [DOCUMENTATION AND EVIDENCE](#documentation-and-evidence)  
+7. [TESTING AND REVIEW](#testing-and-review)  
+8. [RELATED DOCUMENTS](#related-dodcuments)  
 
 ---
 ## **1. PURPOSE**  
@@ -93,7 +90,7 @@ Maintain the **Incident Log** with:
     - Simulated incidents (tabletop exercises)
     - Real incident postmortems
 - Procedure must be reviewed **annually** or after a major incident.
-## **8. RELATED NORMS AND STANDARDS**
+## **8. RELATED DOCUMENTS**
 
 | Proces                                                             |
 | ------------------------------------------------------------------ |
