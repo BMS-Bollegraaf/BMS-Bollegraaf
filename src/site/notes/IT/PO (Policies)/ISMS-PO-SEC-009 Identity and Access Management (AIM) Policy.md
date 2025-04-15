@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-009-identity-and-access-management-aim-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-009-identity-and-access-management-aim-policy/","tags":["policy","AIM","Identity"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -7,21 +7,18 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name] 
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.3, 8.4, 5.10
-**Tags:** #policy #compliance  #security #dmarc #email
-
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
+3. [POLICY STATEMENTS](#policy-statement)  
 4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
