@@ -14,15 +14,13 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+3. [POLICY STATEMENT](#policy-statement)  
+4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+5. [COMPLIANCE](#compliance)  
+6. [MONITORING AND LOGGING](#monitoring-and-logging)  
+7. [REVIEW AND UPDATES](#review-and-updates)  
+8. [RELATED DOCUMENTS](#related-documents) 
+
 
 ---
 
@@ -34,7 +32,7 @@ This policy applies to:
 - All employees, contractors, consultants, vendors, and third parties
 - All systems, applications, networks, cloud services, and physical facilities handling organizational data  
  
- ## **3. POLICY STATEMENT** 
+## **3. POLICY STATEMENT** 
  ### 3.1 Access Control Principles
 - Access must be based on the principles of **least privilege** and **need-to-know**.
 - All access to information systems must be **authorized**, **documented**, and **reviewed periodically**
