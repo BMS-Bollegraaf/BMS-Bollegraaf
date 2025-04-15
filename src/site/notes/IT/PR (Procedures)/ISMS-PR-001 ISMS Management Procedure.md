@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-001-isms-management-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-001-isms-management-procedure/","tags":["procedure","ISMS"]}
 ---
 
  
@@ -10,17 +10,16 @@
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 4-10, 5.1, 5.36
-**Tags:** #policy #compliance  #security #dmarc #ISMS
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
+3. [PROCEDURE OVERVIEW](#procedure-overview)  
+4. [KEY RECORDS AND OUTPUTS](#key-records-and-outputs)  
+5. [ROLES AND RESPONSIBILITIES](#roles-and-responsobilities)  
+6. [REVIEW AND MAINTANCE](#review-and-maintance)  
+7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
@@ -28,7 +27,7 @@ To define the organization’s approach to implementing, operating, monitoring, 
 ## **2. SCOPE**
 This procedure applies to all business units, personnel, and activities within the scope of the ISMS, as defined in the **ISMS Scope Statement**.
  
- ## **3. PROCEDURE OVERVIEW**
+## **3. PROCEDURE OVERVIEW**
  
  #### 3.1 Establish the ISMS
 - Identify context, interested parties, and information security requirements.
@@ -52,7 +51,7 @@ This procedure applies to all business units, personnel, and activities within t
 - Initiate corrective and preventive actions.
 - Update documentation and records as needed.
 - Review changes in internal or external issues that may impact the ISMS.
- ## **4. KEY RECORDS AND OUTPUTS**
+## **4. KEY RECORDS AND OUTPUTS**
 - ISMS Policy and Scope Document
 - Risk Assessment Report
 - Statement of Applicability (SoA)
