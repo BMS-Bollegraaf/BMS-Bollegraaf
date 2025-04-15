@@ -8,14 +8,10 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/Facilities Manager\|Facilities Manager]] [[Functions/ISMS Manager\|ISMS Manager]]
-**Classification:** Internal
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 7.1, 7.2, 7.3, 7.4, 7.7
-**Tags:** #policy #compliance  #security #dmarc #email
-
 
 ---
-
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  

@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-003-it-asset-labeling-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-003-it-asset-labeling-procedure/","tags":["procedure","assets"]}
 ---
-
 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
@@ -11,7 +10,6 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 5.9, 5.10, 5.11, 8.10, 5.36
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
