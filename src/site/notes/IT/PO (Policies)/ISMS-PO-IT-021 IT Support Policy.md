@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-021-it-support-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-021-it-support-policy/","tags":["policy","Supportdesk"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -8,9 +8,7 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:**
-**Related Documents:**
 **ISO/IEC 27001 Controls:** 
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
