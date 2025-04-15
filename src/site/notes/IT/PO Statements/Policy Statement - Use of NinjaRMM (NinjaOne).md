@@ -2,14 +2,12 @@
 {"dg-publish":true,"permalink":"/it/po-statements/policy-statement-use-of-ninja-rmm-ninja-one/","tags":["statement","RMM","NinjaOne","NinjaRMM"]}
 ---
 
- 
-**Effective Date:** 21-03-2025  
+ **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:**
 **ISO/IEC 27001 Controls:** 5.10, 8.1, 8.23, 5.25, 5.31
 
 ---
