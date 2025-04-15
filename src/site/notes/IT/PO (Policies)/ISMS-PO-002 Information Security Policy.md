@@ -44,7 +44,7 @@ The following objectives guide our ISMS:
 - Foster a security-aware culture among employees and partners
 ## **5. GOVERNANCE AND COMMITMENT**
 - **Top Management** ensures adequate resources, leadership, and accountability for ISMS success
-- The **[[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]]*** is responsible for ISMS implementation and coordination
+- The **[[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]]** is responsible for ISMS implementation and coordination
 - **All personnel** must adhere to security policies and report potential risks or incidents
 ## **6. POLICY COMPLIANCE**
 Non-compliance with this policy may result in:
