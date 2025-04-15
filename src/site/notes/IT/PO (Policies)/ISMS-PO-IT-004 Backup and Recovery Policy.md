@@ -67,7 +67,6 @@ This policy applies to:
 | [[Functions/System Owners\|System Owners]]         | Define RTO/RPO and validate recovery capabilities        |
 | [[Functions/ISMS Manager\|ISMS Manager]]          | Ensure compliance with backup policy and audit readiness |
 | [[Functions/Third-Party Providers\|Third-Party Providers]] | Adhere to contractual backup and security requirements   |
-|                           |                                                          |
 ## **5. COMPLIANCE**  
 Non-compliance may result in loss of critical data, business disruption, or regulatory violations, and will be subject to disciplinary or contractual penalties.
 
@@ -80,13 +79,13 @@ This policy must be reviewed **annually** or after:
 
 ## 7. RELATED DOCUMENTS  
 
-| Proces                                                             |     |
-| ------------------------------------------------------------------ | --- |
-| Business Continuity Plan (BCP)                                     |     |
-| Disaster Recovery Plan (DRP)                                       |     |
-| [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |     |
-| [[IT/PO (Policies)/ISMS-PO-IT-005 Patch Management Policy\|ISMS-PO-IT-005 Patch Management Policy]]                          |     |
-| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                          |     |
+| Proces                                                             |
+| ------------------------------------------------------------------ |
+| Business Continuity Plan (BCP)                                     |
+| Disaster Recovery Plan (DRP)                                       |
+| [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |
+| [[IT/PO (Policies)/ISMS-PO-IT-005 Patch Management Policy\|ISMS-PO-IT-005 Patch Management Policy]]                         |
+| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                          |
 
 
 

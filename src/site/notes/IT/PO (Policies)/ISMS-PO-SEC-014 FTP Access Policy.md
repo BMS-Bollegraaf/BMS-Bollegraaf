@@ -17,12 +17,14 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [POLICY STATEMENTS](#policy-statement)  
+4. [REQUEST & APPROVAL PROCESS](#request-approval-process)  
+5. [SECURITY CONTROLS](#security-controls)  
+6. [MONITORING & LOGGING](#monitoring-logging)  
+7. [THIRD-PARTY FTP ACCESS](#third-party-ftp-access)  
+8. [VIOLATIONS](#violations)
+9. [REVIEW & MAINTENANCE](#review-maintenance)
+10. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  
@@ -87,7 +89,6 @@ This policy will be reviewed **annually**, or after:
 - A file transfer breach or misconfiguration
 - Implementation of new FTP/SFTP platforms or processes
 - Changes in supplier relationships involving file sharing
-
 ## **10. RELATED DOCUMENTS**
 
 | Proces                                              |
