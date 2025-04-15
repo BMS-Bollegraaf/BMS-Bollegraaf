@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-002-information-security-policy/","tags":["policy"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-002-information-security-policy/","tags":["policy","information","security"]}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
