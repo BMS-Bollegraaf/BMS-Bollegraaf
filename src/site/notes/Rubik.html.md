@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rubik-html/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/rubik-html/"}
 ---
 
 
