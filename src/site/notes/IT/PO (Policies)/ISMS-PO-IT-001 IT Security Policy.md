@@ -30,12 +30,12 @@ This policy applies to:
 - All employees, contractors, and third-party users who access organizational IT resources
 - On-premise, cloud, and hybrid infrastructure
  
-## **3. POLICY OBJECTIVES 
+## **3. POLICY OBJECTIVES** 
 - Protect information processed by IT systems from loss, unauthorized access, modification, or disclosure
 - Ensure availability and integrity of IT services
 - Maintain compliance with applicable legal, regulatory, and contractual requirements
 - Define technical and administrative controls required to protect IT systems
-## **4. POLICY STATEMENTS
+## **4. POLICY STATEMENTS**
 
 #### 4.1 IT Asset Management
 - All hardware and software assets must be inventoried, tagged, and tracked.
