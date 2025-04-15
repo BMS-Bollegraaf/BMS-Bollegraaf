@@ -56,7 +56,7 @@ DR/BC plans are activated when:
 - Data integrity is compromised
 - Physical premises are inaccessible
 ## **6. TESTING & REVIEW**  
--BC/DR plans must be tested **at least annually**:
+- BC/DR plans must be tested **at least annually**:
     - Tabletop exercises
     - Partial failover tests
     - Full recovery simulations (if feasible)
