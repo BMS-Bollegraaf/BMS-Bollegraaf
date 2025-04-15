@@ -16,8 +16,8 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [DEFINITIONS](#policy statement)  
-4. [PROCEDURE STEPS](#roles-and-responsibilities)  
+3. [DEFINITIONS](#definitions)  
+4. [PROCEDURE STEPS](procedure-steps)  
 5. [COMPLIANCE](#dmarc)  
 6. [REVIEW](#responsibilities)  
 7. [RELATED DOCUMENTS](#compliance)  
