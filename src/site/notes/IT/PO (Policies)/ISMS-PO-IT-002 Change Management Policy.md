@@ -15,8 +15,8 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
+3. [POLICY STATEMENT](#policy-statement)  
+4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
 5. [COMPLIANCE](#compliance)  
 6. [REVIEW](#review)  
 7. [RELATED DOCUMENTS](#related-documents)  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bms/","tags":["gardenEntry"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/bms/","tags":["gardenEntry"]}
 ---
 
 # BMS
