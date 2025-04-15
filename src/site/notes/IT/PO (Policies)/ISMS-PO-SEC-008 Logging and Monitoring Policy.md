@@ -2,23 +2,23 @@
 {"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-008-logging-and-monitoring-policy/"}
 ---
 
-
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 8.15, 8.16, 5.36, 5.25
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
+3. [POLICY STATEMENTS](#policy-statements)  
+4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+5. [COMPLIANCE](#compliance)  
+6. [REGISTRATION](#registration)  
+7. [RELATED DOCUMENTS](#related-documents)  
 8. [REGISTRATION](#registrations)  
 9. [RELATED DOCUMENTS](#appendices) 
 10. [RELATED NORMS AND STANDARDS](#appendices) 
@@ -95,14 +95,6 @@ This policy must be reviewed **annually**, or upon:
 | [[IT/PO (Policies)/ISMS-PO-SEC-003 Information Classification and Handling Policy\|ISMS-PO-SEC-003 Information Classification and Handling Policy]] |
 | [[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]                    |
 | System-Specific Logging Configuration Guidelines                   |
-## 8. RELATED NORMS AND STANDARDS
-
-| Management standards                                                          |
-| ----------------------------------------------------------------------------- |
-| 8.15 – Logging                                                                |
-| 8.16 – Monitoring activities                                                  |
-| 5.36 – Compliance with policies, rules and standards for information security |
-| 5.25 – Assessment and decision on information security events                 |
 
 
 
