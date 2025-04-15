@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/","tags":["procedure","disaster"]}
 ---
 
  
@@ -9,9 +9,7 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:**
 **ISO/IEC 27001 Controls:** 5.31, 8.2, 5.26, 5.27
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
@@ -24,7 +22,6 @@
 7. [RELATED DOCUMENTS](#compliance)  
 8. [CONTROLS](#registrations)  
 ---
-
 ## **1. PURPOSE**  
 To ensure that the organization can maintain or rapidly resume critical operations in the event of a disaster, cyberattack, system failure, or other business disruption.
 ## **2. SCOPE**

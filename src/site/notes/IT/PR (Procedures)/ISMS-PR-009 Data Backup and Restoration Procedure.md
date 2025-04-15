@@ -1,29 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-009-data-backup-and-restoration-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-009-data-backup-and-restoration-procedure/","tags":["procedure","Backup","restore"]}
 ---
 
-
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
-**Classification:**
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.12, 5.31, 5.25
-**Tags:** #policy #Backup
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [BACKUP TYPES AND FREQUENCIES](#backup-types-and-frequencies)  
+4. [BACKUP PROCEDURE](#backup-procedure)  
+5. [RESTORATION PROCEDURE](#restoration-procedure)  
+6. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+7. [SECURITY & COMPLIANCE](#security-compliance)  
+8. [REVIEW & MAINTENANCE](#review-maintenance)
+9. [RELATED DOCUMENTS](#related-documents)  
 ---
 ## **1. PURPOSE**  
 To define a structured approach to backing up and restoring data, systems, and configurations to ensure **data availability**, **business continuity**, and **protection from loss or corruption**.
@@ -41,7 +38,7 @@ This procedure applies to:
 | Snapshot / VM Image               | Hourly (critical systems) | 24–48 hours |
 | Offsite Replication               | Daily                     | 30+ days    |
 | Cloud-to-Cloud Backup (e.g. M365) | Daily                     | 90 days     |
- ## **4. BACKUP PROCEDURE**
+## **4. BACKUP PROCEDURE**
 #### 4.1 Setup
 - Identify critical systems and classify data
 - Configure backup policies in central platform (e.g., Veeam, Acronis, Azure)
@@ -86,7 +83,7 @@ Procedure must be reviewed **annually**, or after:
 - Significant infrastructure change
 - Disaster recovery exercise
 - Backup failure or audit finding
-## **9. RELATED DOCUMENTS
+## **9. RELATED DOCUMENTS**
 
 | Process                                                                   |
 | ------------------------------------------------------------------------- |
