@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-005-information-control-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-005-information-control-procedure/","tags":["procedure","information","control"]}
 ---
 
- 
-**Effective Date:** 21-03-2025  
+ **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
@@ -14,7 +13,6 @@
 **Tags:** #policy #compliance  #security #dmarc #email
 
 ---
-
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  

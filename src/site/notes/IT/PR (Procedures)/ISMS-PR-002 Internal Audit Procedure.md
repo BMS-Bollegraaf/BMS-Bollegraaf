@@ -15,7 +15,7 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
+3. [POLICY STATEMENTS](#policy-statement)  
 4. [AUDIT PROCESS](#audit-process)  
 5. [AUDIT RECORDS](#audit-records)  
 6. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
