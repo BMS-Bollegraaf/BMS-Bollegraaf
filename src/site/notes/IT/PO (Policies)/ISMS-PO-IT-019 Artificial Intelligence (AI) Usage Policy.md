@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-019-artificial-intelligence-ai-usage-policy/","tags":["policy","AI","Artificial"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-019-artificial-intelligence-ai-usage-policy/","tags":["policy","AI","Artificial"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

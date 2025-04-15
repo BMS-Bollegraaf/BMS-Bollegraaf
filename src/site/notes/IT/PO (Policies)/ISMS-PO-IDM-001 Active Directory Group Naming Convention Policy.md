@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["policy"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["policy"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

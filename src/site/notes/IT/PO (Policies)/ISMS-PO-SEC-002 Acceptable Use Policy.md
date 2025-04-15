@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-002-acceptable-use-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-002-acceptable-use-policy/","noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -8,6 +8,7 @@
 **Approved By:** [Authority Name]
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
+**Related Documents:**
 **ISO/IEC 27001 Controls:** 5.10, 5.11, 8.1, 8.7
 
 ---

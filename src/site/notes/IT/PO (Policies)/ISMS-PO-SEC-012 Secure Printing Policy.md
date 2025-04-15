@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-012-secure-printing-policy/","tags":["policy","printing"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-012-secure-printing-policy/","tags":["policy","printing"],"noteIcon":"lightbulb"}
 ---
 
  **Effective Date:** 21-03-2025  

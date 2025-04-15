@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-005-password-management-procedure/","tags":["password","procedure"]}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-005-password-management-procedure/","tags":["password","procedure"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-statements/policy-statement-use-of-to-pdesk/","tags":["statement","topdesk"]}
+{"dg-publish":true,"permalink":"/it/po-statements/policy-statement-use-of-to-pdesk/","tags":["statement","topdesk"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

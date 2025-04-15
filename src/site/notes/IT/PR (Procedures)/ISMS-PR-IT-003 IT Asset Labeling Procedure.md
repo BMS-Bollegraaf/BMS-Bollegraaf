@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-003-it-asset-labeling-procedure/","tags":["procedure","assets"]}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-003-it-asset-labeling-procedure/","tags":["procedure","assets"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

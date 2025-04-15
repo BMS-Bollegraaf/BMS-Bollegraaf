@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-007-it-hardware-return-procedure/"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-007-it-hardware-return-procedure/","noteIcon":"lightbulb"}
 ---
 
 

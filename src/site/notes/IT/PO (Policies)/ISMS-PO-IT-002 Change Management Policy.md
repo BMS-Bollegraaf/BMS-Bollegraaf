@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-002-change-management-policy/","tags":["policy","Change"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-002-change-management-policy/","tags":["policy","Change"],"noteIcon":"lightbulb"}
 ---
 
  

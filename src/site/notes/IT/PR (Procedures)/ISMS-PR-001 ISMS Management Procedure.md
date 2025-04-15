@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-001-isms-management-procedure/","tags":["procedure","ISMS"]}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-001-isms-management-procedure/","tags":["procedure","ISMS"],"noteIcon":"lightbulb"}
 ---
 
  
