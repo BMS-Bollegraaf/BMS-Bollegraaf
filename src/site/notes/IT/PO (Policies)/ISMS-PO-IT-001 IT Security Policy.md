@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-001-it-security-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-001-it-security-policy/","tags":["policy","security"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -16,12 +16,10 @@
 2. [SCOPE](#scope)  
 3. [POLICY OBJECTIVES](#policy-objectives)  
 4. [POLICY STATEMENTS](#policy-statements)  
-5. [RESPONSIBILITIES](#responsibilites)  
+5. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilites)  
 6. [ENFORCEMENT](#enforcement)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registration)  
-9. [RELATED DOCUMENTS](#related-documents) 
-10. [RELATED NORMS AND STANDARDS](#related-norms-and-standards) 
+7. [REVIEW](#review)  
+8. [RELATED DOCUMENTS](#related-documents)  
 ---
 ## **1. PURPOSE**  
 To establish a secure and reliable IT environment by defining the organization’s approach to managing IT systems, networks, infrastructure, and related security practices in support of the Information Security Management System (ISMS).
@@ -32,7 +30,7 @@ This policy applies to:
 - All employees, contractors, and third-party users who access organizational IT resources
 - On-premise, cloud, and hybrid infrastructure
  
- ## **3. POLICY OBJECTIVES 
+## **3. POLICY OBJECTIVES 
 - Protect information processed by IT systems from loss, unauthorized access, modification, or disclosure
 - Ensure availability and integrity of IT services
 - Maintain compliance with applicable legal, regulatory, and contractual requirements
@@ -70,7 +68,7 @@ This policy applies to:
 #### 4.10 Secure Disposal
 
 - End-of-life IT assets must be disposed of securely according to the Secure Disposal Procedure [[IT/PR (Procedures)/ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure\|ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure]]
-## **5. RESPONSIBILITIES**
+## **5. ROLES AND RESPONSIBILITIES**
 
 | **Role**         | **Responsibility**                                        |
 | ---------------- | --------------------------------------------------------- |
@@ -78,6 +76,7 @@ This policy applies to:
 | [[Functions/IT Engineer\|IT Engineer]]  | Maintain, patch, monitor, and secure systems              |
 | All Employees    | Follow policies, report incidents, avoid unsafe practices |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure IT security aligns with the ISMS framework         |
+
 ## **6. ENFORCEMENT**  
 Non-compliance may lead to disciplinary action, termination of access, or legal consequences depending on severity.
 ## **7. REVIEW**  
