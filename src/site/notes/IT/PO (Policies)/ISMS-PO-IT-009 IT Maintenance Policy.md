@@ -6,19 +6,20 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Related Documents:** [[RelatedPolicy1\|RelatedPolicy1]], [[RelatedPolicy2\|RelatedPolicy2]]  
+**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Classification:** [[Classification/Internal\|Internal]]
+**ISO/IEC 27001 Controls:** 5.10, 5.31, 5.32, 8.9
 
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
+3. [POLICY STATEMENTS](#policy-statements)  
 4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
@@ -88,16 +89,6 @@ This policy shall be reviewed **annually** or:
 | [[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]    |
 | Maintenance Log Template                           |
 | Third-Party Access Policy                          |
-## **8. CONTROLS**
-
-| Controls                                        |
-| ----------------------------------------------- |
-| 8.9 – Configuration management                  |
-| 5.31 – ICT readiness for business continuity    |
-| 5.32 – Change management                        |
-| 5.10 – Acceptable use of information and assets |
-
-
 
 
 
