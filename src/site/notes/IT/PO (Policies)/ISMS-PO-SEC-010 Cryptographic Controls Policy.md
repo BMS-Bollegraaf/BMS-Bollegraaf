@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-010-cryptographic-controls-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-010-cryptographic-controls-policy/","tags":["policy","cryptographic"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -7,19 +7,18 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.24,8,25, 5.10, 5.23
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
+3. [POLICY STATEMENTS](#policy-statement)  
 4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
+5. [COMPLIANCE](#compliance)  
+6. [REVIEW](#review)  
+7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
@@ -30,7 +29,7 @@ This policy applies to:
 - All systems, devices, applications, and services (on-prem or cloud) that store, process, or transmit such information
 - All users, including employees, contractors, and third parties who handle sensitive data
  
- ## **3. POLICY STATEMENTS** 
+## **3. POLICY STATEMENTS** 
 #### 3.1 Use of Cryptography
 - Cryptographic methods must be used to protect:
     - Data **at rest** (e.g., databases, laptops, backups)  
