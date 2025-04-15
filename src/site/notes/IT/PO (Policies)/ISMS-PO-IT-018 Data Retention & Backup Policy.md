@@ -9,19 +9,19 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:**
 **ISO/IEC 27001 Controls:** 5.10, 5.34, 8.10, 8.12, 8.14, 8.30
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [DATA RETENTION REQUIREMENTS](#data-retention-requirements)  
+4. [BACKUP REQUIREMENTS](#backup-requirements)  
+5. [DATA DELETION & DISPOSAL](#data-de;etion-disposal)  
+6. [ROLES AND RESPONSIBILITES](#roles-and-responsibilities)  
+7. [COMPLIANCE](#compliance)  
+8. [REVIEW](#review)
+9. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  
@@ -85,7 +85,7 @@ Noncompliance may result in:
 - Inability to recover critical systems or data
 - Breach of contractual or legal obligations
 - Fines or legal liability (e.g. GDPR Article 5(e))
-## **8. REVIEW
+## **8. REVIEW**
 This policy must be reviewed **annually**, or after:
 - Major infrastructure or cloud migrations
 - Data-related incidents or loss

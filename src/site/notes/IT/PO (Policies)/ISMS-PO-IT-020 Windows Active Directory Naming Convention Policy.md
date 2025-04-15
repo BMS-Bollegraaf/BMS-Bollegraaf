@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-020-windows-active-directory-naming-convention-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-020-windows-active-directory-naming-convention-policy/","tags":["policy","reading","convention"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -7,21 +7,20 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] [[Functions/IT Engineer\|IT Engineer]]
-**Classification:** 
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.4, 5.36
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [NAMING CONVENTOIN RULES](#naming-convention-rules)  
+4. [NAMING PATTERNS BY OBJECT TYPE](#naming-patterns-by-object-type)  
+5. [ENVIRONMENT SUFFIXES](#environment-suffixes)  
+6. [CHANGE CONTROL](#change-control)  
+7. [ROLES AND RESONSIBILITIES](#roles-and-responsibilities)  
+8. [AUDIT & REVIEW](#audit-review)
+9. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  

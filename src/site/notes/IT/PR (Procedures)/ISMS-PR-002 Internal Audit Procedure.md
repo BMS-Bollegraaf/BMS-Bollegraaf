@@ -16,11 +16,11 @@
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
 3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+4. [AUDIT PROCESS](#audit-process)  
+5. [AUDIT RECORDS](#audit-records)  
+6. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+7. [REVIEW AND IMPROVEMENT](#revies-and-improvement)  
+8. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  
@@ -30,12 +30,12 @@ This procedure applies to:
 - All ISMS processes, policies, and controls within the defined scope of the ISMS
 - All departments and personnel involved in or supporting the ISMS
  
- ## **3. AUDIT PRINCIPLES**
+## **3. AUDIT PRINCIPLES**
 - **Independence**: Auditors must not audit their own work.
 - **Objectivity**: Findings must be evidence-based and impartial.
 - **Systematic Approach**: All audits must be planned and documented.  
- 
- ## **4. AUDIT PROCESS**
+
+## **4. AUDIT PROCESS**
 #### 4.1 Planning
 - Develop an **Annual Audit Plan** based on:
     - Importance of processes

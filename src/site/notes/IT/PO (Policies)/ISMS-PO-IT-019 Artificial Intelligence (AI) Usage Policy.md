@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-019-artificial-intelligence-ai-usage-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-019-artificial-intelligence-ai-usage-policy/","tags":["policy","AI","Artificial"]}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -7,10 +7,8 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:**  [[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]]
-**Classification:** Internal
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.34, 5,36, 8.8, 8.26
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **Table of Contents**  
@@ -18,7 +16,7 @@
 2. [SCOPE](#scope)  
 3. [POLICY STATEMENTS](#policy statement)  
 4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [REVIEW AND UPDATE](#dmarc)  
+5. [REVIEW AND UPDATE](#review-and-update)  
 6. [RELATED DOCUMENTS](#responsibilities)  
 
 ---

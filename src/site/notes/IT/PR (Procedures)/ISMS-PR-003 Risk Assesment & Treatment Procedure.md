@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-003-risk-assesment-and-treatment-procedure/"}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
@@ -15,12 +14,13 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
+3. [POLICY STATEMENTS](#policy-statements)  
+4. [CRITERIA OF EVALUATION](#critieria-of-evaluation)  
+5. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
+6. [FREQUENCY OF RISK ASSESSMENT](#responsibilities)  
+7. [DOCUMENTATION](#documentation)  
+8. [REVIEW & MAINTENANCE](#review-maintenance) 
+9. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  
@@ -30,7 +30,7 @@ Applies to:
 - All business functions, systems, locations, suppliers, and projects within the ISMS scope
 - All information assets, including data, software, hardware, and personnel
 
- ## **3. POLICY STATEMENTS** 
+## **3. POLICY STATEMENTS** 
  
  #### 3.1 Risk Assessment Steps
 1. **Identify Assets** – Document critical assets (e.g., systems, data, users)
@@ -50,7 +50,7 @@ Applies to:
 #### 3.3 Risk Acceptance
 - Risks above the **defined threshold** must be escalated to management for formal acceptance
 - Risk decisions must be documented and reviewed periodically
-## **4. CRITERIA of EVALUATION**
+## **4. CRITERIA OF EVALUATION**
 
 | Risk Rating | Action                                       |
 | ----------- | -------------------------------------------- |
