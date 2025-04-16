@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-009-data-backup-and-restoration-procedure/","tags":["procedure","Backup","restore"]}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-009-data-backup-and-restoration-procedure/","tags":["procedure","Backup","restore"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

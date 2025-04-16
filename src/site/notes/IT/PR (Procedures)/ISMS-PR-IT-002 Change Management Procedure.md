@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-002-change-management-procedure/","tags":["Change","procedure"]}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-002-change-management-procedure/","tags":["Change","procedure"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

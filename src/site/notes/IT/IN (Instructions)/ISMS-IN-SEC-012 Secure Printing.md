@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-012-secure-printing/","tags":["Instruction","printing"]}
+{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-012-secure-printing/","tags":["Instruction","printing"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -55,7 +55,7 @@ Printed documents can contain **confidential, personal, or sensitive information
 - **Paper jam or uncollected document?** → Notify [[Functions/IT Support\|IT Support]] and shred leftover output
 - **Found unattended prints?** → Place in the "Unclaimed Prints" tray or report to IT
 - **Unauthorized use?** → Report immediately to [[Functions/IT Support\|IT Support]] or your manager
-## **4. WHAT NOT TO DO
+## **4. WHAT NOT TO DO**
 - ❌ Don’t print and walk away
 - ❌ Don’t let others collect your printouts
 - ❌ Don’t discard sensitive material in regular bins

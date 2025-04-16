@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-013-third-party-management-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-013-third-party-management-policy/","noteIcon":"lightbulb"}
 ---
 
  

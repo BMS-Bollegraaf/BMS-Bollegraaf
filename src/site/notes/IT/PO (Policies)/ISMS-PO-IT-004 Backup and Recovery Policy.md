@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-004-backup-and-recovery-policy/","tags":["Backup","recovery","policy"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-004-backup-and-recovery-policy/","tags":["Backup","recovery","policy"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

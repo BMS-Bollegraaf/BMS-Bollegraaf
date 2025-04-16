@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-008-logging-and-monitoring-policy/"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-008-logging-and-monitoring-policy/","noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

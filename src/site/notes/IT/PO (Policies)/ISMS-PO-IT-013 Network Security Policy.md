@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-013-network-security-policy/","tags":["network","security","policy"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-013-network-security-policy/","tags":["network","security","policy"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

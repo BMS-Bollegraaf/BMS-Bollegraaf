@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-012-vault-password-manager-offboarding-procedure/","tags":["procedure"]}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-012-vault-password-manager-offboarding-procedure/","tags":["procedure"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

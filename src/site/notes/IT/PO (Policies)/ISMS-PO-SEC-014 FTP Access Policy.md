@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-014-ftp-access-policy/","tags":["policy","FTP"]}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-014-ftp-access-policy/","tags":["policy","FTP"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  
