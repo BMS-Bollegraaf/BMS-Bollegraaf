@@ -14,124 +14,12 @@
 > - [[Company Calendar\|Company Calendar]]
 > - [[Internal Policies\|Internal Policies]]
 
-## Management Structure
-
-<div class="board-level"> <div class="board-item">
-
-![[Managing Board Dashboard\|Managing Board Dashboard]]
-
-</div> </div>
-
-### Strategic Level
-
-<div class="strategic-level"> <div class="strategic-item">
-
-![[COTO Dashboard\|COTO Dashboard]]
-
-</div> <div class="strategic-item">
-
-![[Vision and Mission Dashboard\|Vision and Mission Dashboard]]
-
-</div> <div class="strategic-item">
-
-![[Strategy Deployment Dashboard\|Strategy Deployment Dashboard]]
-
-</div> <div class="strategic-item">
-
-![[Risk Management Dashboard\|Risk Management Dashboard]]
-
-</div> </div>
-
-### Primary Departments
-
-<div class="primary-level"> <div class="primary-item">
-
-![[Sales Dashboard\|Sales Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Sales Engineering Dashboard\|Sales Engineering Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Engineering Dashboard\|Engineering Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Procurement Dashboard\|Procurement Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Business Office Dashboard\|Business Office Dashboard]]
-
-</div> </div> <div class="primary-level"> <div class="primary-item">
-
-![[Production Dashboard\|Production Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Assembly Dashboard\|Assembly Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Logistics Dashboard\|Logistics Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Service and After Sales Dashboard\|Service and After Sales Dashboard]]
-
-</div> <div class="primary-item">
-
-![[Projects Dashboard\|Projects Dashboard]]
-
-</div> </div>
-
-### Support Functions
-
-<div class="support-level"> <div class="support-item">
-
-![[Finance Dashboard\|Finance Dashboard]]
-
-</div> <div class="support-item">
-
-![[HR Dashboard\|HR Dashboard]]
-
-</div> <div class="support-item">
-
-![[QHSE Dashboard\|QHSE Dashboard]]
-
-</div> <div class="support-item">
-
-![[BI Dashboard\|BI Dashboard]]
-
-</div> <div class="support-item">
-
-![[IMP Dashboard\|IMP Dashboard]]
-
-</div> <div class="support-item">
-
-![[Facilities Dashboard\|Facilities Dashboard]]
-
-</div> <div class="support-item">
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/it-dashboard/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-
-</div></div>
-
-
-</div> </div> <style> .board-level, .strategic-level, .primary-level, .support-level { display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0; } .board-item, .strategic-item, .primary-item, .support-item { border-radius: 8px; padding: 15px; min-width: 140px; text-align: center; box-shadow: 0 3px 6px rgba(0,0,0,0.16); transition: transform 0.3s ease, box-shadow 0.3s ease; } .board-item:hover, .strategic-item:hover, .primary-item:hover, .support-item:hover { transform: translateY(-5px); box-shadow: 0 6px 12px rgba(0,0,0,0.2); } .board-item { background-color: #6c5ce740; min-width: 220px; } .strategic-item { background-color: #00b89440; flex: 1; max-width: 250px; } .primary-item { background-color: #e1705540; flex: 1; max-width: 200px; } .support-item { background-color: #d6303140; flex: 1; max-width: 150px; } h3 { margin-top: 40px; border-bottom: 2px solid #3498db; padding-bottom: 8px; } </style>
-
+<div class="bms-container"> <div class="board-level"> <div class="bms-item board"> [[Managing Board Dashboard\|Managing Board]] </div> </div> <div class="top-level"> <div class="bms-item strategic"> [[COTO Dashboard\|COTO]] </div> <div class="bms-item strategic"> [[Vision and Mission Dashboard\|Vision / Mission]] </div> <div class="bms-item strategic"> [[Strategy Deployment Dashboard\|Strategy Deployment]] </div> <div class="bms-item strategic"> [[Risk Management Dashboard\|Risk Management]] </div> </div> <div class="division-label">Primary</div> <div class="primary-level"> <div class="bms-item primary"> [[Sales Dashboard\|Sales]] </div> <div class="bms-item primary"> [[Sales Engineering Dashboard\|Sales Engineering]] </div> <div class="bms-item primary"> [[Engineering Dashboard\|Engineering]] </div> <div class="bms-item primary"> [[Procurement Dashboard\|Procurement]] </div> <div class="bms-item primary"> [[Business Office Dashboard\|Business Office]] </div> <div class="bms-item primary"> [[Production Dashboard\|Production]] </div> <div class="bms-item primary"> [[Assembly Dashboard\|Assembly]] </div> <div class="bms-item primary"> [[Logistics Dashboard\|Logistics]] </div> <div class="bms-item primary"> [[Service and After Sales Dashboard\|Service & After Sales]] </div> <div class="bms-item primary"> [[Projects Dashboard\|Projects]] </div> </div> <div class="division-label">Support</div> <div class="support-level"> <div class="bms-item support"> [[Finance Dashboard\|Finance]] </div> <div class="bms-item support"> [[HR Dashboard\|HR]] </div> <div class="bms-item support"> [[QHSE Dashboard\|QHSE]] </div> <div class="bms-item support"> [[BI Dashboard\|BI]] </div> <div class="bms-item support"> [[IMP Dashboard\|IMP]] </div> <div class="bms-item support"> [[Facilities Dashboard\|Facilities]] </div> <div class="bms-item support"> [[IT Dashboard\|IT]] </div> </div> </div> <style> .bms-container { display: flex; flex-direction: column; gap: 15px; padding: 15px; max-width: 100%; } .board-level, .top-level, .primary-level, .support-level { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; } .division-label { font-weight: bold; margin-top: 10px; border-bottom: 1px solid var(--text-accent); padding-bottom: 5px; } .bms-item { padding: 12px 20px; border-radius: 5px; text-align: center; min-width: 120px; transition: transform 0.3s ease, box-shadow 0.3s ease; } .bms-item:hover { transform: translateY(-3px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); } .board-level .bms-item { min-width: 200px; } .board { background-color: #6c5ce7; color: white; } .strategic { background-color: #00b894; color: white; } .primary { background-color: #e17055; color: white; } .support { background-color: #d63031; color: white; } </style>
 ## Recent Updates
 
 | File                                                                                                                                                                             | Last Modified             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[BMS\|BMS]]                                                                                                                                                                  | 1:24 PM - April 17, 2025  |
+| [[BMS\|BMS]]                                                                                                                                                                  | 1:28 PM - April 17, 2025  |
 | [[IT Dashboard\|IT Dashboard]]                                                                                                                                                | 12:28 PM - April 17, 2025 |
 | [[IT/PO (Policies)/ISMS-PO-SEC-001 Information Security Policy\|ISMS-PO-SEC-001 Information Security Policy]]                                                                 | 12:17 PM - April 17, 2025 |
 | [[IT/IN (Instructions)/ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams\|ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams]] | 11:35 AM - April 17, 2025 |
