@@ -14,15 +14,12 @@
 ## **Table of Contents**  
 1. [PURPOSE](#purpose)  
 2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy statement)  
-4. [FLOWCHART OF THE PROCCES](#roles-and-responsibilities)  
-5. [DMARC RECORD REQUIREMENTS](#dmarc)  
-6. [RESPONSIBILITIES](#responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
+3. [OBJECTIVES](#objectives)  
+4. [POLICY STATEMENTS](#policy-statements)  
+5. [RESPONSIBILITIES](#responsibilities)  
+6. [COMPLIANCE](#compliance)  
+7. [REVIEW AND UPDATES](#review-and-updates)  
+8. [RELATED DOCUMENTS](#related-documents) 
 
 ---
 ## **1. PURPOSE**  
@@ -35,7 +32,7 @@ This policy applies to:
 - All systems, networks, applications, and data owned or managed by the organization
 - Physical and digital information assets across all departments  
 
- ## **3. OBJECTIVES 
+## **3. OBJECTIVES 
  - Protect information from unauthorized access, disclosure, modification, or destruction
 - Ensure confidentiality, integrity, and availability of information
 - Comply with applicable legal, regulatory, and contractual requirements
