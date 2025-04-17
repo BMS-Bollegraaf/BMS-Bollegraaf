@@ -18,7 +18,6 @@
 4. [WHAT NOT TO DO](#what-not-to-do)  
 5. [NEED HELP?](#need-help)  
 6. [RELATED DOCUMENTS](#related-documents)  
-
 ---
 ## **1. WHY IT MATTERS**  
 Printed documents can contain **confidential, personal, or sensitive information**. If left unattended, they can be accessed, copied, or discarded improperly — leading to **data breaches** or **compliance violations**.
