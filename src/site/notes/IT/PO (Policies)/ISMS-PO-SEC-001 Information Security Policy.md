@@ -32,7 +32,7 @@ This policy applies to:
 - All systems, networks, applications, and data owned or managed by the organization
 - Physical and digital information assets across all departments  
 
-## **3. OBJECTIVES 
+## **3. OBJECTIVES** 
  - Protect information from unauthorized access, disclosure, modification, or destruction
 - Ensure confidentiality, integrity, and availability of information
 - Comply with applicable legal, regulatory, and contractual requirements

@@ -16,7 +16,27 @@
 
 ## Management Structure
 
-<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
+<p><span><div class="bms-container">
+  <div class="board-level">
+    <div style="background-color: #6c5ce7" class="bms-item">
+      [[Managing board/Managing Board\|Managing Board]]
+    </div>
+  </div>
+  
+  <div class="top-level">
+    <div style="background-color: #00b894" class="bms-item">[[COTO\|COTO]]</div><div style="background-color: #00b894" class="bms-item">[[Vision and Mission\|Vision and Mission]]</div><div style="background-color: #00b894" class="bms-item">[[Strategy Deployment\|Strategy Deployment]]</div><div style="background-color: #00b894" class="bms-item">[[Risk Management/Risk Management\|Risk Management]]</div>
+  </div>
+  
+  <div class="division-label">Primary</div>
+  <div class="primary-level">
+    <div style="background-color: #e17055" class="bms-item">[[Sales Department\|Sales Department]]</div><div style="background-color: #e17055" class="bms-item">[[Sales Engineering\|Sales Engineering]]</div><div style="background-color: #e17055" class="bms-item">[[Engineering Department\|Engineering Department]]</div><div style="background-color: #e17055" class="bms-item">[[Procurement/Procurement\|Procurement]]</div><div style="background-color: #e17055" class="bms-item">[[Business Office\|Business Office]]</div><div style="background-color: #e17055" class="bms-item">[[Production\|Production]]</div><div style="background-color: #e17055" class="bms-item">[[Assembly\|Assembly]]</div><div style="background-color: #e17055" class="bms-item">[[Logistics\|Logistics]]</div><div style="background-color: #e17055" class="bms-item">[[Service and After Sales\|Service and After Sales]]</div><div style="background-color: #e17055" class="bms-item">[[Projects\|Projects]]</div>
+  </div>
+  
+  <div class="division-label">Support</div>
+  <div class="support-level">
+    <div style="background-color: #d63031" class="bms-item">[[Finance Department\|Finance Department]]</div><div style="background-color: #d63031" class="bms-item">[[Human Resources\|Human Resources]]</div><div style="background-color: #d63031" class="bms-item">[[QHSE/QHSE\|QHSE]]</div><div style="background-color: #d63031" class="bms-item">[[Business Intelligence\|Business Intelligence]]</div><div style="background-color: #d63031" class="bms-item">[[IMP\|IMP]]</div><div style="background-color: #d63031" class="bms-item">[[Facilities/Facilities\|Facilities]]</div><div style="background-color: #d63031" class="bms-item">[[IT Department\|IT Department]]</div>
+  </div>
+</div></span></p>
 
 <style> .bms-container { display: flex; flex-direction: column; gap: 15px; padding: 15px; max-width: 100%; } .board-level, .top-level, .primary-level, .support-level { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; } .division-label { font-weight: bold; margin-top: 10px; border-bottom: 1px solid var(--text-accent); padding-bottom: 5px; } .bms-item { padding: 12px 20px; border-radius: 5px; text-align: center; color: white; min-width: 120px; transition: transform 0.3s ease, box-shadow 0.3s ease; } .bms-item:hover { transform: translateY(-3px); box-shadow: 0 4px 8px rgba(0,0,0,0.2); } .board-level .bms-item { min-width: 200px; } </style>
 
@@ -24,8 +44,8 @@
 
 | File                                                                                                                                                                             | Last Modified             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[IT/PO (Policies)/ISMS-PO-SEC-001 Information Security Policy\|ISMS-PO-SEC-001 Information Security Policy]]                                                                 | 12:17 PM - April 17, 2025 |
 | [[BMS\|BMS]]                                                                                                                                                                  | 12:16 PM - April 17, 2025 |
-| [[IT/PO (Policies)/ISMS-PO-SEC-001 Information Security Policy\|ISMS-PO-SEC-001 Information Security Policy]]                                                                 | 12:16 PM - April 17, 2025 |
 | [[IT/IN (Instructions)/ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams\|ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams]] | 11:35 AM - April 17, 2025 |
 | [[IT/FM (Forms)/ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form\|ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form]]                                      | 9:21 AM - April 17, 2025  |
 | [[Templates/Template HQSE\|Template HQSE]]                                                                                                                                    | 9:19 AM - April 17, 2025  |
@@ -34,7 +54,7 @@
 
 ## Most Accessed Notes
 
-<pre class="dataview dataview-error">Dataview JS queries are disabled. You can enable them in the Dataview settings.</pre>
+<p><span>Top accessed notes will appear here once you implement access tracking</span></p>
 
 ## Key Resources
 
