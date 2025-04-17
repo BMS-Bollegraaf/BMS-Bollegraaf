@@ -19,22 +19,22 @@
 <p><span><div class="bms-container">
   <div class="board-level">
     <div style="background-color: #6c5ce7" class="bms-item">
-      [[Managing board/Managing Board\|Managing Board]]
+      <a href="anaging-oard.html" target="_blank" rel="noopener nofollow">Managing Board</a>
     </div>
   </div>
   
   <div class="top-level">
-    <div style="background-color: #00b894" class="bms-item">[[COTO\|COTO]]</div><div style="background-color: #00b894" class="bms-item">[[Vision and Mission\|Vision and Mission]]</div><div style="background-color: #00b894" class="bms-item">[[Strategy Deployment\|Strategy Deployment]]</div><div style="background-color: #00b894" class="bms-item">[[Risk Management/Risk Management\|Risk Management]]</div>
+    <div style="background-color: #00b894" class="bms-item"><a href=".html" target="_blank" rel="noopener nofollow">COTO</a></div><div style="background-color: #00b894" class="bms-item"><a href="ision-ission.html" target="_blank" rel="noopener nofollow">Vision / Mission</a></div><div style="background-color: #00b894" class="bms-item"><a href="trategy-deployment.html" target="_blank" rel="noopener nofollow">Strategy deployment</a></div><div style="background-color: #00b894" class="bms-item"><a href="isk-anagement.html" target="_blank" rel="noopener nofollow">Risk Management</a></div>
   </div>
   
   <div class="division-label">Primary</div>
   <div class="primary-level">
-    <div style="background-color: #e17055" class="bms-item">[[Sales Department\|Sales Department]]</div><div style="background-color: #e17055" class="bms-item">[[Sales Engineering\|Sales Engineering]]</div><div style="background-color: #e17055" class="bms-item">[[Engineering Department\|Engineering Department]]</div><div style="background-color: #e17055" class="bms-item">[[Procurement/Procurement\|Procurement]]</div><div style="background-color: #e17055" class="bms-item">[[Business Office\|Business Office]]</div><div style="background-color: #e17055" class="bms-item">[[Production\|Production]]</div><div style="background-color: #e17055" class="bms-item">[[Assembly\|Assembly]]</div><div style="background-color: #e17055" class="bms-item">[[Logistics\|Logistics]]</div><div style="background-color: #e17055" class="bms-item">[[Service and After Sales\|Service and After Sales]]</div><div style="background-color: #e17055" class="bms-item">[[Projects\|Projects]]</div>
+    <div style="background-color: #e17055" class="bms-item"><a href="ales.html" target="_blank" rel="noopener nofollow">Sales</a></div><div style="background-color: #e17055" class="bms-item"><a href="ales-ngineering.html" target="_blank" rel="noopener nofollow">Sales Engineering</a></div><div style="background-color: #e17055" class="bms-item"><a href="ngineering.html" target="_blank" rel="noopener nofollow">Engineering</a></div><div style="background-color: #e17055" class="bms-item"><a href="rocurement.html" target="_blank" rel="noopener nofollow">Procurement</a></div><div style="background-color: #e17055" class="bms-item"><a href="usiness-ffice.html" target="_blank" rel="noopener nofollow">Business Office</a></div><div style="background-color: #e17055" class="bms-item"><a href="roduction.html" target="_blank" rel="noopener nofollow">Production</a></div><div style="background-color: #e17055" class="bms-item"><a href="ssembly.html" target="_blank" rel="noopener nofollow">Assembly</a></div><div style="background-color: #e17055" class="bms-item"><a href="ogistics.html" target="_blank" rel="noopener nofollow">Logistics</a></div><div style="background-color: #e17055" class="bms-item"><a href="ervice-fter-ales.html" target="_blank" rel="noopener nofollow">Service &amp; After Sales</a></div><div style="background-color: #e17055" class="bms-item"><a href="rojects.html" target="_blank" rel="noopener nofollow">Projects</a></div>
   </div>
   
   <div class="division-label">Support</div>
   <div class="support-level">
-    <div style="background-color: #d63031" class="bms-item">[[Finance Department\|Finance Department]]</div><div style="background-color: #d63031" class="bms-item">[[Human Resources\|Human Resources]]</div><div style="background-color: #d63031" class="bms-item">[[QHSE/QHSE\|QHSE]]</div><div style="background-color: #d63031" class="bms-item">[[Business Intelligence\|Business Intelligence]]</div><div style="background-color: #d63031" class="bms-item">[[IMP\|IMP]]</div><div style="background-color: #d63031" class="bms-item">[[Facilities/Facilities\|Facilities]]</div><div style="background-color: #d63031" class="bms-item">[[IT Dashboard\|IT Dashboard]]</div>
+    <div style="background-color: #d63031" class="bms-item"><a href="inance.html" target="_blank" rel="noopener nofollow">Finance</a></div><div style="background-color: #d63031" class="bms-item"><a href=".html" target="_blank" rel="noopener nofollow">HR</a></div><div style="background-color: #d63031" class="bms-item"><a href=".html" target="_blank" rel="noopener nofollow">QHSE</a></div><div style="background-color: #d63031" class="bms-item"><a href=".html" target="_blank" rel="noopener nofollow">BI</a></div><div style="background-color: #d63031" class="bms-item"><a href=".html" target="_blank" rel="noopener nofollow">IMP</a></div><div style="background-color: #d63031" class="bms-item"><a href="acilities.html" target="_blank" rel="noopener nofollow">Facilities</a></div><div style="background-color: #d63031" class="bms-item"><a href=".html" target="_blank" rel="noopener nofollow">IT</a></div>
   </div>
 </div></span></p>
 
@@ -44,8 +44,8 @@
 
 | File                                                                                                                                                                             | Last Modified             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[BMS\|BMS]]                                                                                                                                                                  | 12:27 PM - April 17, 2025 |
-| [[IT Dashboard\|IT Dashboard]]                                                                                                                                                | 12:26 PM - April 17, 2025 |
+| [[BMS\|BMS]]                                                                                                                                                                  | 12:45 PM - April 17, 2025 |
+| [[IT Dashboard\|IT Dashboard]]                                                                                                                                                | 12:28 PM - April 17, 2025 |
 | [[IT/PO (Policies)/ISMS-PO-SEC-001 Information Security Policy\|ISMS-PO-SEC-001 Information Security Policy]]                                                                 | 12:17 PM - April 17, 2025 |
 | [[IT/IN (Instructions)/ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams\|ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams]] | 11:35 AM - April 17, 2025 |
 | [[IT/FM (Forms)/ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form\|ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form]]                                      | 9:21 AM - April 17, 2025  |
