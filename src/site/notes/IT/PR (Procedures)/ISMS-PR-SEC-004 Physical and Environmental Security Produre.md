@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-004-physical-and-environmental-security-produre/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-004-physical-and-environmental-security-produre/","noteIcon":"default"}
 ---
 
  

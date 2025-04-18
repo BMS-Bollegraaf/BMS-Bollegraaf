@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-017-it-service-managent-policy/","tags":["policy"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-017-it-service-managent-policy/","tags":["policy"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  

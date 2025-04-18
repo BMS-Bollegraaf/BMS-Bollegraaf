@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/qhse/pr-procedures/qhse-pro-001-interne-audits/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/qhse/pr-procedures/qhse-pro-001-interne-audits/","noteIcon":"default"}
 ---
 
  <H1>DOEL</H1>

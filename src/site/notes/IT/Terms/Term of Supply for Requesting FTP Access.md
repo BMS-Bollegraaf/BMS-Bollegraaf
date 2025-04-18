@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/terms/term-of-supply-for-requesting-ftp-access/","tags":["terms","FTP"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/terms/term-of-supply-for-requesting-ftp-access/","tags":["terms","FTP"],"noteIcon":"default"}
 ---
 
 By requesting and receiving FTP access to [[Companies/Bollegraaf Recycling Solutions\|Bollegraaf Recycling Solutions]] & [[Companies/Lubo Recycling Solutions\|Lubo Recycling Solutions]] systems, the requester acknowledges and agrees to the following terms:

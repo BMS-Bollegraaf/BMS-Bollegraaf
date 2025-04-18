@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-021-it-support-policy/","tags":["policy","Supportdesk"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-021-it-support-policy/","tags":["policy","Supportdesk"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  

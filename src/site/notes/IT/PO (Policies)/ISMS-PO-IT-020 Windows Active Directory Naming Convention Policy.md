@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-020-windows-active-directory-naming-convention-policy/","tags":["policy","reading","convention"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-020-windows-active-directory-naming-convention-policy/","tags":["policy","reading","convention"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
