@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["policy"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-idm-001-active-directory-group-naming-convention-policy/","tags":["policy"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -8,7 +8,7 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[IT/IT\|IT]]
 **Classification:** [[Classification/Internal\|Internal]]
-**ISO/IEC 27001 Controls:** 
+**ISO/IEC 27001 Controls:**  5.1, 5.9, 5.15, 8.1.1, 8.2.2, 8.3, 8.9 
 
 ---
 ## **Table of Contents**  
@@ -50,6 +50,33 @@ All AD group names **must follow this format**:
     
 - `TST-VEE-HR-VPN-RW-SG`
 
+##### **3.2 Group Policy Object (GPO) Naming Convention**
+To ensure clarity and maintainability across Active Directory Group Policy Objects, GPOs must follow this naming structure:
+
+[Category Prefix]-[Function/Scope/Target]
+
+##### **3.2.1 Allowed Prefixes and Usage**
+
+| Prefix     | Description                       | Example                    |
+| ---------- | --------------------------------- | -------------------------- |
+| `BASELINE` | Baseline settings for all systems | `BASELINE-Workstations`    |
+| `SEC`      | Security configurations           | `SEC-BITLOCKER`            |
+| `ACC`      | Access control (LAPS, RDP, etc.)  | `ACC-RemoteDesktop-Admins` |
+| `APP`      | Application-related settings      | `APP-Microsoft365`         |
+| `USER`     | User configuration GPOs           | `USER-Login`               |
+| `COMP`     | Computer settings (non-security)  | `COMP-TimeSync`            |
+| `TEST`     | Testing or temporary GPOs         | `TEST-GPO-Rollout-LAPS`    |
+
+- Use **hyphens** as delimiters.
+- Use **capital letters** throughout for consistency.
+- Prefix GPOs with function over team to maintain reuse and reduce duplication.
+- Avoid personal identifiers or vague naming like `GPO1`, `SettingsOld`, etc.
+##### **3.2.2 Examples**
+- `BASELINE-Servers`
+- `SEC-Auditing`
+- `APP-AdobeReader`
+- `ACC-LAPS-PasswordPolicy`
+
 ## **4. ADDITIONAL GUIDELINES**
 - Use **uppercase letters** for consistency.
 - Avoid special characters except hyphens (`-`).
@@ -69,6 +96,15 @@ Exceptions to this policy must be reviewed and approved by the IAM team and docu
 ## **7. ENFORCEMENT**  
 Non-compliant AD group names may be renamed or removed to maintain directory integrity and audit readiness.
 
+
+## **8. RELATED DOCUMENTS**
+
+
+| Control Mapping                           |
+| ----------------------------------------- |
+| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]] |
+| ISMS-SOP-IT-LAPS                          |
+| ISMS-PO                                   |
 
 
 

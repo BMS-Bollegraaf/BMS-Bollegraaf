@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-gov-002-policy-statement-use-of-ninja-rmm-ninja-one/","tags":["statement","RMM","NinjaOne","NinjaRMM"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-gov-002-policy-statement-use-of-ninja-rmm-ninja-one/","tags":["statement","RMM","NinjaOne","NinjaRMM"],"noteIcon":"lightbulb"}
 ---
 
  **Effective Date:** 21-03-2025  

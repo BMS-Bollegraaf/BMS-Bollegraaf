@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-003-configuration-management-policy/","tags":["policy"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-003-configuration-management-policy/","tags":["policy"],"noteIcon":"lightbulb"}
 ---
 
  

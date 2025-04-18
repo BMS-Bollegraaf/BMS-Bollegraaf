@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-ot-onb-001-it-onboarding-produce-new-employees/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-ot-onb-001-it-onboarding-produce-new-employees/","noteIcon":"lightbulb"}
 ---
 
 

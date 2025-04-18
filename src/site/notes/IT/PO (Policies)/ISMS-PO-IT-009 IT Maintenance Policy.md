@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-009-it-maintenance-policy/","tags":["policy","maintenance"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-009-it-maintenance-policy/","tags":["policy","maintenance"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

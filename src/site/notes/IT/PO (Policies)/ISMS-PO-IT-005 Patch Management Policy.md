@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-005-patch-management-policy/","tags":["policy","patch"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-005-patch-management-policy/","tags":["policy","patch"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/companies/lubo-recycling-solutions/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/companies/lubo-recycling-solutions/","noteIcon":"lightbulb"}
 ---
 
 **Lubo Recycling Solutions** is an eminent supplier of complete recycling solutions and individual components. Furthermore, Lubo is a system integrator, known for high-quality solutions for construction & demolition waste and commercial & industrial wastes.

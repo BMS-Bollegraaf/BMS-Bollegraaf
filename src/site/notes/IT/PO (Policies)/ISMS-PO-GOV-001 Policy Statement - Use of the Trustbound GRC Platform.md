@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-gov-001-policy-statement-use-of-the-trustbound-grc-platform/","tags":["Governance","trustbound","policy"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-gov-001-policy-statement-use-of-the-trustbound-grc-platform/","tags":["Governance","trustbound","policy"],"noteIcon":"lightbulb"}
 ---
 
  

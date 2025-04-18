@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-008-it-system-testing-and-validation-policy/","tags":["policy","testing","validation"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-008-it-system-testing-and-validation-policy/","tags":["policy","testing","validation"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

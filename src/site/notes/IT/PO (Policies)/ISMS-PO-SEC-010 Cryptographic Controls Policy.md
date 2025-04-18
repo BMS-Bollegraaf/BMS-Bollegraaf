@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-010-cryptographic-controls-policy/","tags":["policy","cryptographic"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-010-cryptographic-controls-policy/","tags":["policy","cryptographic"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

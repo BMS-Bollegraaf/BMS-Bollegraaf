@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-004-password-policy/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-004-password-policy/","noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

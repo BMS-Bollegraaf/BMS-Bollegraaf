@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-018-data-retention-and-backup-policy/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-018-data-retention-and-backup-policy/","noteIcon":"lightbulb"}
 ---
 
  

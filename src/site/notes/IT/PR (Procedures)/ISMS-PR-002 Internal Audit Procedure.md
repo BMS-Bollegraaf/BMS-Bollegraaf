@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/","tags":["procedure","audit"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/","tags":["procedure","audit"],"noteIcon":"lightbulb"}
 ---
 
  

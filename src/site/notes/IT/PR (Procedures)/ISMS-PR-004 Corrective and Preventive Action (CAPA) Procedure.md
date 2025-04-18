@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-004-corrective-and-preventive-action-capa-procedure/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-004-corrective-and-preventive-action-capa-procedure/","noteIcon":"lightbulb"}
 ---
 
  

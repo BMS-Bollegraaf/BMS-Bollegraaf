@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-022-ninja-rmm-usage-policy/","tags":["NinjaRMM","NinjaOne","policy"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-022-ninja-rmm-usage-policy/","tags":["NinjaRMM","NinjaOne","policy"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/sop-standard-operating-procedure/isms-sop-it-topaccess-to-pdesk-access-request-sop/","tags":["topdesk","SOP"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/sop-standard-operating-procedure/isms-sop-it-topaccess-to-pdesk-access-request-sop/","tags":["topdesk","SOP"],"noteIcon":"lightbulb"}
 ---
 
  

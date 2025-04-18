@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-010-data-restoration-procedure/","tags":["restore","procedure"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-010-data-restoration-procedure/","tags":["restore","procedure"],"noteIcon":"lightbulb"}
 ---
 
  **Effective Date:** 21-03-2025  

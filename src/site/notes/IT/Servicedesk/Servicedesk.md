@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/servicedesk/servicedesk/","tags":["servicedesk","Supportdesk","ITsupport"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/servicedesk/servicedesk/","tags":["servicedesk","Supportdesk","ITsupport"],"noteIcon":"lightbulb"}
 ---
 
 

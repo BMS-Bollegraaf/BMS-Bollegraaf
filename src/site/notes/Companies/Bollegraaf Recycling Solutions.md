@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/companies/bollegraaf-recycling-solutions/","tags":["bollegraaf"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/companies/bollegraaf-recycling-solutions/","tags":["bollegraaf"],"noteIcon":"lightbulb"}
 ---
 
 Bollegraaf Group is a world-leading expert and innovator in the waste sorting and recycling sector. Furthermore, our reputation is based on the unique quality of equipment in terms of separation performance, robustness, and ease of maintenance. A premium quality complemented by our engineering expertise allows delivering the best solutions to the specific challenges of each of our customers.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-001-incident-management-procedure/","tags":["incident","procedure"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-001-incident-management-procedure/","tags":["incident","procedure"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  
