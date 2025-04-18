@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bms/","tags":["gardenEntry"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/bms/","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
 # Bollegraaf Management System Dashboard
@@ -23,13 +23,12 @@
 > 
 > **Row 2:** [[Production Dashboard\|Production Dashboard]] | [[Assembly Dashboard\|Assembly Dashboard]] | [[Logistics Dashboard\|Logistics Dashboard]] | [[Service and After Sales Dashboard\|Service and After Sales Dashboard]] | [[Projects Dashboard\|Projects Dashboard]]
 
-> [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT Dashboard\|IT Dashboard]]
+> [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 ## Recent Updates
-
 | File                                                                                                                                                                             | Last Modified             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[BMS\|BMS]]                                                                                                                                                                  | 1:34 PM - April 17, 2025  |
-| [[IT Dashboard\|IT Dashboard]]                                                                                                                                                | 12:28 PM - April 17, 2025 |
+| [[BMS\|BMS]]                                                                                                                                                                  | 10:35 AM - April 18, 2025 |
+| [[IT/IT Dashboard\|IT Dashboard]]                                                                                                                                             | 12:28 PM - April 17, 2025 |
 | [[IT/PO (Policies)/ISMS-PO-SEC-001 Information Security Policy\|ISMS-PO-SEC-001 Information Security Policy]]                                                                 | 12:17 PM - April 17, 2025 |
 | [[IT/IN (Instructions)/ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams\|ISMS-IN-SEC-015 Requesting Access For External Parties to Microsoft Teams]] | 11:35 AM - April 17, 2025 |
 | [[IT/FM (Forms)/ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form\|ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form]]                                      | 9:21 AM - April 17, 2025  |
