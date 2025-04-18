@@ -25,13 +25,13 @@
 
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 ## Recent Updates
-| File                                                                                                                                                     | Last Modified             |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[IT/PR (Procedures)/ISMS-PR-IT-ONB-001 IT onboarding Procedure - New Employees\|ISMS-PR-IT-ONB-001 IT onboarding Procedure - New Employees]]         | 2:38 PM - April 18, 2025  |
-| [[IT/PO (Policies)/ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy\|ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy]] | 1:46 PM - April 18, 2025  |
-| [[BMS\|BMS]]                                                                                                                                          | 11:13 AM - April 18, 2025 |
-| [[QHSE/QHSE Dashboard\|QHSE Dashboard]]                                                                                                               | 11:08 AM - April 18, 2025 |
-| [[IT/IN (Instructions)/ISMS-IN-SEC-012 Secure Printing\|ISMS-IN-SEC-012 Secure Printing]]                                                             | 10:38 AM - April 18, 2025 |
+| File                                                                                                                                                       | Last Modified             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[IT/PR (Procedures)/ISMS-PR-SEC-001 Information Classification & Handling Procedure\|ISMS-PR-SEC-001 Information Classification & Handling Procedure]] | 3:45 PM - April 18, 2025  |
+| [[IT/PR (Procedures)/ISMS-PR-IT-ONB-001 IT onboarding Procedure - New Employees\|ISMS-PR-IT-ONB-001 IT onboarding Procedure - New Employees]]           | 2:38 PM - April 18, 2025  |
+| [[IT/PO (Policies)/ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy\|ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy]]   | 1:46 PM - April 18, 2025  |
+| [[BMS\|BMS]]                                                                                                                                            | 11:13 AM - April 18, 2025 |
+| [[QHSE/QHSE Dashboard\|QHSE Dashboard]]                                                                                                                 | 11:08 AM - April 18, 2025 |
 
 { .block-language-dataview}
 
