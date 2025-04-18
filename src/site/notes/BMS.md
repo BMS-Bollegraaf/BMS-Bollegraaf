@@ -25,13 +25,13 @@
 
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 ## Recent Updates
-| File                                                                                                                                                       | Last Modified             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-001 Information Classification & Handling Procedure\|ISMS-PR-SEC-001 Information Classification & Handling Procedure]] | 3:45 PM - April 18, 2025  |
-| [[IT/PR (Procedures)/ISMS-PR-IT-ONB-001 IT onboarding Procedure - New Employees\|ISMS-PR-IT-ONB-001 IT onboarding Procedure - New Employees]]           | 2:38 PM - April 18, 2025  |
-| [[IT/PO (Policies)/ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy\|ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy]]   | 1:46 PM - April 18, 2025  |
-| [[BMS\|BMS]]                                                                                                                                            | 11:13 AM - April 18, 2025 |
-| [[QHSE/QHSE Dashboard\|QHSE Dashboard]]                                                                                                                 | 11:08 AM - April 18, 2025 |
+| File                                                                                                                                                                 | Last Modified            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[IT/PO (Policies)/ISMS-PO-SEC-007 Malware Protection Policy\|ISMS-PO-SEC-007 Malware Protection Policy]]                                                         | 4:22 PM - April 18, 2025 |
+| [[IT/PO (Policies)/ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy\|ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy]]             | 4:22 PM - April 18, 2025 |
+| [[IT/PO (Policies)/ISMS-PO-GOV-001 Policy Statement - Use of the Trustbound GRC Platform\|ISMS-PO-GOV-001 Policy Statement - Use of the Trustbound GRC Platform]] | 4:21 PM - April 18, 2025 |
+| [[IT/IN (Instructions)/ISMS-IN-IT-007 Retrieve LAPS Password\|ISMS-IN-IT-007 Retrieve LAPS Password]]                                                             | 4:09 PM - April 18, 2025 |
+| [[IT/PR (Procedures)/ISMS-PR-SEC-001 Information Classification & Handling Procedure\|ISMS-PR-SEC-001 Information Classification & Handling Procedure]]           | 3:45 PM - April 18, 2025 |
 
 { .block-language-dataview}
 

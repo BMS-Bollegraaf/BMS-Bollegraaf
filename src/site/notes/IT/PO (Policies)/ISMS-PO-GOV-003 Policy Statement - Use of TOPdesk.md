@@ -11,14 +11,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [STATEMENT](#statement)  
-3. [USE OF TOPDESK INCLUDES](#use-of-topdesk-includes)  
-4. [UNACCEPTABLE USE INCLUDES](#unacceptable-use-includes)  
-5. [MONITORING AND COMPLIANCE](#monitoring-and-compliance)  
-6. [RELATED DOCUMENTS](#related-documents)  
----
 ## **1. PURPOSE**  
 To ensure secure, auditable, and policy-compliant use of the **[[IT/Applications/TOPDesk/TOPdesk\|TOPdesk]] platform** as the organization's official ITSM solution for incident management, service requests, change control, and IT asset tracking
 ## **2. STATEMENT**

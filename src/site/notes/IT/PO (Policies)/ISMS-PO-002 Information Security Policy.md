@@ -11,17 +11,6 @@
 **ISO/IEC 27001 Controls:** 5.2
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [INFORMATION SECURITY OBJECTIVES](#information-security-objectives)  
-5. [GOVERNANCE AND COMMITMENT](#dmarc)  
-6. [POLICY COMPLIANCE](#responsibilities)  
-7. [REVIEW AND MAINTENANCE](#compliance)  
-8. [RELATED DOCUMENTS](#registrations)  
-
----
 ## **1. PURPOSE**  
 To define the organization’s overall commitment to protecting the confidentiality, integrity, and availability of information assets and complying with legal, regulatory, and contractual requirements.
 ## **2. SCOPE**

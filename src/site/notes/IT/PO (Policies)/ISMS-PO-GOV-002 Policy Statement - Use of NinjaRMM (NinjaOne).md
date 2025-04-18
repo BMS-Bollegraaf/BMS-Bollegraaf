@@ -11,17 +11,6 @@
 **ISO/IEC 27001 Controls:** 5.10, 8.1, 8.23, 5.25, 5.31
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
-8. [CONTROLS](#controls)  
-
----
 ## **1. PURPOSE**  
 To define the secure, responsible, and auditable use of **[[IT/Applications/NinjaRMM (NinjaOne)/NinjaRMM\|NinjaRMM]]** for IT systems management, endpoint security, remote access, and monitoring in alignment with ISMS requirements.
 ## **2. SCOPE**

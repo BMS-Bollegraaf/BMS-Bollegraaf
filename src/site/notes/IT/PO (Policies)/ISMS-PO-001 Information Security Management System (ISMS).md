@@ -11,16 +11,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy-statement)  
-4. [OBJECTIVES](#objectives)  
-5. [RESPONSIBILITY](#responsibility)  
-6. [POLICY REVIEW](#policy-review)  
-7. [RELATED DOCUMENTS](#related-documents) 
-
----
 ## **1. PURPOSE**  
 The purpose of this policy is to define the organization’s commitment to managing and protecting its information assets in accordance with ISO/IEC 27001:2022 and relevant legal, regulatory, and contractual obligations.
 ## **2. SCOPE**

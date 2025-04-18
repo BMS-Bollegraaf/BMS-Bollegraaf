@@ -11,18 +11,6 @@
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.4, 5.36
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [NAMING CONVENTOIN RULES](#naming-convention-rules)  
-4. [NAMING PATTERNS BY OBJECT TYPE](#naming-patterns-by-object-type)  
-5. [ENVIRONMENT SUFFIXES](#environment-suffixes)  
-6. [CHANGE CONTROL](#change-control)  
-7. [ROLES AND RESONSIBILITIES](#roles-and-responsibilities)  
-8. [AUDIT & REVIEW](#audit-review)
-9. [RELATED DOCUMENTS](#related-documents)
-
----
 ## **1. PURPOSE**  
 To define standardized naming conventions for all Active Directory (AD) objects to ensure clarity, consistency, ease of administration, and security compliance across the IT infrastructure.
 ## **2. SCOPE**

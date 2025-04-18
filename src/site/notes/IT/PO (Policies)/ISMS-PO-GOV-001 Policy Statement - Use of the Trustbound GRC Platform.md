@@ -12,17 +12,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [SECURITY & MONITORING](#security-monitoring)  
-5. [GOVERNANCE & INTEGRATION](#governance-integration)  
-6. [COMPLIANCE](#compliance)  
-7. [REVIEW](#review)  
-
----
-
 ## **1. PURPOSE**  
 To define the acceptable and secure use of the **Trustbound GRC Platform**, a software-as-a-service solution used for managing policies, risks, controls, and compliance workflows within the organization’s ISMS framework.
 ## **2. SCOPE**

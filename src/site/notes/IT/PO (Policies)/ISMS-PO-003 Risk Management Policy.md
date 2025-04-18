@@ -11,17 +11,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [RISK MANAGEMENT FRAMEWORK](#risk-managment-framework)  
-5. [RISK ACCEPTANCE THRESHOLDS](#risk-acceptance-thresholds)  
-6. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REVIEW AND MAINTENANCE](#review-and-maintenance)  
-9. [RELATED DOCUMENTS](#related-documents)  
----
 ## **1. PURPOSE**  
 To define the principles and framework for managing information security risks in order to protect organizational assets, meet compliance requirements, and support continuous improvement of the ISMS.
 ## **2. SCOPE**

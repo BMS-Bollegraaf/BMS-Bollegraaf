@@ -11,17 +11,6 @@
 **ISO/IEC 27001 Controls:**  5.1, 5.9, 5.15, 8.1.1, 8.2.2, 8.3, 8.9 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [NAMING CONVENTION STRUCTURE](#naming-convention-structure)  
-4. [ADDITIONAL GUIDELINES](#additional-guidelines)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
-8. [CONTROLS](#controle)  
-
----
 ## **1. PURPOSE**  
 To ensure consistency, clarity, and manageability of Active Directory (AD) group names, this policy defines standardized naming conventions for AD group roles used across the organization.
 ## **2. SCOPE**
@@ -102,11 +91,6 @@ Non-compliant AD group names may be renamed or removed to maintain directory int
 | [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]] |
 | ISMS-SOP-IT-LAPS                          |
 | ISMS Asset Register                       |
-
-|     |     |
-| --- | --- |
-|     |     |
-
 
 
 
