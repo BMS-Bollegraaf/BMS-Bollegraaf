@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-003-risk-assesment-and-treatment-procedure/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-003-risk-assesment-and-treatment-procedure/","noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

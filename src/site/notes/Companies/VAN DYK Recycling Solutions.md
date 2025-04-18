@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/companies/van-dyk-recycling-solutions/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/companies/van-dyk-recycling-solutions/","noteIcon":"lightbulb"}
 ---
 
 

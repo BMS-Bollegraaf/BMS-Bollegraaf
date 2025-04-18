@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-003-risk-management-policy/","tags":["policy","compliance","risk"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-003-risk-management-policy/","tags":["policy","compliance","risk"],"noteIcon":"lightbulb"}
 ---
 
  **Effective Date:** 21-03-2025  

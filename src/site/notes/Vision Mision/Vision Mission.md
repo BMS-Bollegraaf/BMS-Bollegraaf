@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vision-mision/vision-mission/","tags":["vision","mission"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/vision-mision/vision-mission/","tags":["vision","mission"],"noteIcon":"lightbulb"}
 ---
 
 **Our mission**

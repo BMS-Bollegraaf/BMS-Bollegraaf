@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-003-cryptographic-controls-procedure/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-003-cryptographic-controls-procedure/","noteIcon":"lightbulb"}
 ---
 
  

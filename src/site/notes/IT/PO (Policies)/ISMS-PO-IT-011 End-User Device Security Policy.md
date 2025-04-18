@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-011-end-user-device-security-policy/","tags":["security","policy","device"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-011-end-user-device-security-policy/","tags":["security","policy","device"],"noteIcon":"lightbulb"}
 ---
 
 (Also called: Endpoint Security Policy or Workstation Security Policy)

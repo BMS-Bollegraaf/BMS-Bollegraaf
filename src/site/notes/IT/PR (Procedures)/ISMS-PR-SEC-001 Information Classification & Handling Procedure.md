@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-001-information-classification-and-handling-procedure/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-001-information-classification-and-handling-procedure/","noteIcon":"lightbulb"}
 ---
 
  

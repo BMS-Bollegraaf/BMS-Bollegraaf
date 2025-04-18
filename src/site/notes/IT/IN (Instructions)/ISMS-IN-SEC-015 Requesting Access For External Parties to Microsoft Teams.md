@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-015-requesting-access-for-external-parties-to-microsoft-teams/","tags":["werkinstructie","MSTeams","access"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-015-requesting-access-for-external-parties-to-microsoft-teams/","tags":["werkinstructie","MSTeams","access"],"noteIcon":"lightbulb"}
 ---
 
  **Effective Date:** 17-04-2025  

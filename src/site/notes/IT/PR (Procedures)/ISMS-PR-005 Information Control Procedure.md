@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-005-information-control-procedure/","tags":["procedure","information","control"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-005-information-control-procedure/","tags":["procedure","information","control"],"noteIcon":"lightbulb"}
 ---
 
  **Effective Date:** 21-03-2025  

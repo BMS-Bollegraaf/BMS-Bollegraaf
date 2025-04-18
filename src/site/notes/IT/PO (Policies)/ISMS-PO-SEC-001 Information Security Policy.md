@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-001-information-security-policy/","tags":["information","security","policy"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-001-information-security-policy/","tags":["information","security","policy"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  

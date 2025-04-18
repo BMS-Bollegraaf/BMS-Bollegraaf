@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-009-identity-and-access-management-aim-policy/","tags":["policy","AIM","Identity"],"noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-009-identity-and-access-management-aim-policy/","tags":["policy","AIM","Identity"],"noteIcon":"lightbulb"}
 ---
 
 **Effective Date:** 21-03-2025  
