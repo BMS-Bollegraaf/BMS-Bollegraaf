@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-010-incident-response-procedure/","tags":["incident","response","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-010-incident-response-procedure/","tags":["incident","response","procedure"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  

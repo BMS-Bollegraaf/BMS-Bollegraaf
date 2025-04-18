@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-002-acceptable-use-procedure/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-002-acceptable-use-procedure/","noteIcon":"default"}
 ---
 
  
