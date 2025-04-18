@@ -18,7 +18,7 @@ img {
 }
 
 .content {
-    max-width: 700px;
+    max-width: 800px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
@@ -520,7 +520,7 @@ ul.task-list {
     height: 2em;
     display: flex;
     align-items: center;
-    min-width: 350px;
+    min-width: 200px;
     margin: 10px 40px;
     border: 1px solid var(--text-normal);
     cursor: pointer;
