@@ -2,11 +2,10 @@
 {"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-onb-001-it-onboarding-produce-new-employees/","noteIcon":"lightbulb"}
 ---
 
-
  
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
-**Last Updated:** 21-03-2025  
+**Last Updated:** 18-04-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
