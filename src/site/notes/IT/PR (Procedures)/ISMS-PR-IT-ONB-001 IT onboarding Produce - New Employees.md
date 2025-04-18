@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-onb-001-it-onboarding-produce-new-employees/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-onb-001-it-onboarding-produce-new-employees/","tags":["onboarding","procedure"],"noteIcon":"lightbulb"}
 ---
 
- 
-**Effective Date:** 21-03-2025  
+ **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 18-04-2025  
 **Approved By:** [Authority Name]  
@@ -11,7 +10,6 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:** 
 **ISO/IEC 27001 Controls:** 6.1, 6.2, 6.3, 8.1, 8.2, 8.4
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **1. PURPOSE**  
