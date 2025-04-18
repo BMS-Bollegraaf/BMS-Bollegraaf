@@ -18,7 +18,7 @@ To define the secure onboarding process for new employees, ensuring they are gra
 This procedure applies to:
 - All new **full-time, part-time, or temporary staff**, interns, and contractors
 - All company systems, applications, devices, and information resources
-## **3. PRE-ONBOARDING CHECHLIST (HR+IT)** 
+## **3. PRE-ONBOARDING CHECKLIST (HR+IT)** 
  
 | Task                                                           | Owner          | Notes                                         |
 | -------------------------------------------------------------- | -------------- | --------------------------------------------- |
