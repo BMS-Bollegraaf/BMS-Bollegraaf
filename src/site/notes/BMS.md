@@ -27,7 +27,7 @@
 ## Recent Updates
 | File                                                                                                                                                     | Last Modified             |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[IT/PO (Policies)/ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy\|ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy]] | 11:46 AM - April 18, 2025 |
+| [[IT/PO (Policies)/ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy\|ISMS-PO-IDM-001 Active Directory Group Naming Convention Policy]] | 1:46 PM - April 18, 2025  |
 | [[BMS\|BMS]]                                                                                                                                          | 11:13 AM - April 18, 2025 |
 | [[QHSE/QHSE Dashboard\|QHSE Dashboard]]                                                                                                               | 11:08 AM - April 18, 2025 |
 | [[IT/IN (Instructions)/ISMS-IN-SEC-012 Secure Printing\|ISMS-IN-SEC-012 Secure Printing]]                                                             | 10:38 AM - April 18, 2025 |

@@ -95,16 +95,18 @@ To ensure clarity and maintainability across Active Directory Group Policy Objec
 Exceptions to this policy must be reviewed and approved by the IAM team and documented in the AD Exceptions Register.
 ## **7. ENFORCEMENT**  
 Non-compliant AD group names may be renamed or removed to maintain directory integrity and audit readiness.
-
-
 ## **8. RELATED DOCUMENTS**
-
 
 | Control Mapping                           |
 | ----------------------------------------- |
 | [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]] |
 | ISMS-SOP-IT-LAPS                          |
-| ISMS-PO                                   |
+| ISMS Asset Register                       |
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 
 
