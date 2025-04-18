@@ -3,81 +3,498 @@ body {
       ADD YOUR CUSTOM STYLIING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    
+    // Custom color variables
+    --primary-color: #4A90E2;
+    --secondary-color: #50C878;
+    --accent-color: #FF6B6B;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+    --danger-color: #dc3545;
+    --info-color: #17a2b8;
+    
+    // Light theme colors
+    --light-background-primary: #ffffff;
+    --light-background-secondary: #f5f5f5;
+    --light-text-normal: #333333;
+    --light-text-muted: #666666;
+    --light-text-accent: #4A90E2;
+    --light-border-color: #e0e0e0;
+    
+    // Dark theme colors
+    --dark-background-primary: #1e1e1e;
+    --dark-background-secondary: #2d2d2d;
+    --dark-text-normal: #dcddde;
+    --dark-text-muted: #a0a0a0;
+    --dark-text-accent: #61baf5;
+    --dark-border-color: #444444;
+    
+    // Heading colors for light theme
+    --light-h1-color: #2c3e50;
+    --light-h2-color: #3498db;
+    --light-h3-color: #16a085;
+    --light-h4-color: #8e44ad;
+    --light-h5-color: #d35400;
+    --light-h6-color: #7f8c8d;
+    
+    // Heading colors for dark theme
+    --dark-h1-color: #ffef60;
+    --dark-h2-color: #f06449;
+    --dark-h3-color: #d4fcc3;
+    --dark-h4-color: #72dcff;
+    --dark-h5-color: #ff9edb;
+    --dark-h6-color: #ccc;
+    
+    // Typography
+    --font-family-main: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-family-code: "JetBrains Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    
+    // Layout
+    --content-width: 750px;
+    --sidebar-width: 300px;
+    --file-margins: 32px;
+    
+    // Common elements
+    --border-radius: 6px;
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    
+    // Callout styling
+    --callout-border-width: 0px;
+    --callout-border-opacity: 0.25;
+    --callout-padding: 12px 12px 12px 24px;
+    --callout-radius: 6px;
+    --callout-blend-mode: normal;
+    --callout-title-padding: 0;
+    --callout-title-size: inherit;
+    --callout-content-padding: 0;
+    
+    // Graph styling
+    --graph-main: var(--text-accent);
+    --graph-muted: var(--text-muted);
 }
+
+// Apply theme-specific styling
+.theme-light {
+    background: var(--light-background-primary);
+    color: var(--light-text-normal);
+    --background-primary: var(--light-background-primary);
+    --background-secondary: var(--light-background-secondary);
+    --text-normal: var(--light-text-normal);
+    --text-muted: var(--light-text-muted);
+    --text-accent: var(--light-text-accent);
+    --border-color: var(--light-border-color);
+    
+    // Heading colors
+    --h1-color: var(--light-h1-color);
+    --h2-color: var(--light-h2-color);
+    --h3-color: var(--light-h3-color);
+    --h4-color: var(--light-h4-color);
+    --h5-color: var(--light-h5-color);
+    --h6-color: var(--light-h6-color);
+    
+    h1 { color: var(--h1-color); }
+    h2 { color: var(--h2-color); }
+    h3 { color: var(--h3-color); }
+    h4 { color: var(--h4-color); }
+    h5 { color: var(--h5-color); }
+    h6 { color: var(--h6-color); }
+    
+    a {
+        color: var(--text-accent);
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s ease;
+        
+        &:hover {
+            border-color: var(--text-accent);
+        }
+    }
+    
+    a.is-unresolved {
+        color: rgba(74, 144, 226, 0.6);
+        border-bottom: 1px dashed rgba(74, 144, 226, 0.4);
+    }
+    
+    blockquote {
+        background: rgba(0, 0, 0, 0.05);
+        border-left: 4px solid var(--text-accent);
+    }
+    
+    code {
+        background-color: rgba(0, 0, 0, 0.05);
+        color: #e83e8c;
+    }
+    
+    pre {
+        background-color: #f8f9fa;
+    }
+    
+    .sidebar {
+        background-color: var(--background-secondary);
+    }
+}
+
+.theme-dark {
+    background: var(--dark-background-primary);
+    color: var(--dark-text-normal);
+    --background-primary: var(--dark-background-primary);
+    --background-secondary: var(--dark-background-secondary);
+    --text-normal: var(--dark-text-normal);
+    --text-muted: var(--dark-text-muted);
+    --text-accent: var(--dark-text-accent);
+    --border-color: var(--dark-border-color);
+    
+    // Heading colors
+    --h1-color: var(--dark-h1-color);
+    --h2-color: var(--dark-h2-color);
+    --h3-color: var(--dark-h3-color);
+    --h4-color: var(--dark-h4-color);
+    --h5-color: var(--dark-h5-color);
+    --h6-color: var(--dark-h6-color);
+    
+    h1 { color: var(--h1-color); }
+    h2 { color: var(--h2-color); }
+    h3 { color: var(--h3-color); }
+    h4 { color: var(--h4-color); }
+    h5 { color: var(--h5-color); }
+    h6 { color: var(--h6-color); }
+    
+    a {
+        color: var(--text-accent);
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        transition: border-color 0.2s ease;
+        
+        &:hover {
+            border-color: var(--text-accent);
+        }
+    }
+    
+    a.is-unresolved {
+        color: rgba(97, 186, 245, 0.65);
+        border-bottom: 1px dashed rgba(97, 186, 245, 0.4);
+    }
+    
+    blockquote {
+        background: rgba(255, 255, 255, 0.05);
+        border-left: 4px solid var(--text-accent);
+    }
+    
+    code {
+        background-color: rgba(255, 255, 255, 0.05);
+        color: #ff6b8b;
+    }
+    
+    pre {
+        background-color: #2a2a2a;
+    }
+    
+    .sidebar {
+        background-color: var(--background-secondary);
+    }
+}
+
+// Typography
+body {
+    font-family: var(--font-family-main);
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    line-height: 1.3;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.75rem; }
+h4 { font-size: 1.5rem; }
+h5 { font-size: 1.25rem; }
+h6 { font-size: 1rem; }
+
+// Code and pre
+code {
+    font-family: var(--font-family-code);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+pre {
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    overflow-x: auto;
+    
+    code {
+        background-color: transparent;
+        padding: 0;
+        font-size: 0.85em;
+    }
+}
+
+// Blockquote
+blockquote {
+    margin: 1.5em 0;
+    padding: 0.5em 1em;
+    quotes: "\201C""\201D""\2018""\2019";
+    
+    &:before {
+        color: var(--text-muted);
+        content: open-quote;
+        font-size: 4em;
+        line-height: 0.1em;
+        margin-right: 0.25em;
+        vertical-align: -0.4em;
+    }
+    
+    p {
+        display: inline;
+    }
+}
+
+// Content
+.content {
+    max-width: var(--content-width);
+    margin: auto;
+    padding: 0 20px;
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: var(--border-radius);
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1em 0;
+        
+        th, td {
+            padding: 0.5em;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+        
+        th {
+            background-color: rgba(0, 0, 0, 0.05);
+            font-weight: 600;
+        }
+        
+        tr:nth-child(even) {
+            background-color: rgba(0, 0, 0, 0.02);
+        }
+    }
+}
+
+// Navigation
+.navbar {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border-color);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    
+    h1 {
+        margin: 0;
+        font-size: 1.5rem;
+    }
+    
+    .search-button {
+        transition: all 0.2s ease;
+        
+        &:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    }
+}
+
+// Sidebar
 .filetree-sidebar {
-  h1 {
-    margin-top: 30px; /* Adjust this value as needed to provide space for the logo */
-  }
-  
-  &::before {
-    content: '';
-    display: block;
-    background-image: url('/img/BRS_Shield.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-    height: 200px; /* Adjust based on your logo's ideal height */
-    margin-top: 10px;
-    margin-bottom: 5px;
-  }
+    border-right: 1px solid var(--border-color);
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
+    
+    h1 {
+        margin-top: 30px;
+    }
+    
+    &::before {
+        content: '';
+        display: block;
+        background-image: url('/img/BRS_Shield.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        height: 200px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    
+    .notelink {
+        transition: all 0.2s ease;
+        border-radius: var(--border-radius);
+        
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.05);
+        }
+        
+        &.active-note {
+            background-color: rgba(var(--text-accent-rgb), 0.1);
+        }
+    }
+    
+    .foldername-wrapper {
+        transition: all 0.2s ease;
+        
+        &:hover {
+            color: var(--text-accent);
+        }
+    }
 }
 
+// Callouts
+.callout {
+    margin: 1.5em 0;
+    border-radius: var(--callout-radius);
+    transition: all 0.2s ease;
+    
+    &:hover {
+        box-shadow: var(--box-shadow);
+    }
+    
+    .callout-title {
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+    }
+    
+    .callout-content {
+        margin-top: 0.5em;
+    }
+}
+
+// Graph
+#link-graph {
+    border-radius: var(--border-radius);
+    overflow: hidden;
+    box-shadow: var(--box-shadow);
+}
+
+// Search
+.search-box {
+    border-radius: var(--border-radius);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    
+    input {
+        transition: all 0.2s ease;
+        
+        &:focus {
+            box-shadow: 0 0 0 2px var(--text-accent);
+        }
+    }
+}
+
+#search-results {
+    .searchresult {
+        transition: all 0.2s ease;
+        border-radius: var(--border-radius);
+        
+        &:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        &.active {
+            border: 2px solid var(--text-accent);
+            transform: translateY(-2px);
+        }
+    }
+}
+
+// Floating control
 #floating-control {
-  position: fixed;
-  color: var(--link-color);
-  bottom: 1vmax;
-  right: 1vmax;
-  font-size: 24px;
-  z-index: 999999;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  gap: 10px;
+    position: fixed;
+    color: var(--text-accent);
+    bottom: 1vmax;
+    right: 1vmax;
+    font-size: 24px;
+    z-index: 999999;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+    
+    .svg-icon,
+    i {
+        cursor: pointer;
+        height: 24px;
+        width: auto;
+        opacity: 0.8;
+        transition: all 0.2s ease;
+        
+        &:hover {
+            opacity: 1;
+            transform: scale(1.1);
+        }
+    }
+    
+    #theme-switch {
+        .light {
+            display: none;
+        }
+        .dark {
+            display: none;
+        }
+        .auto {
+            display: none;
+        }
+    }
+    
+    #theme-switch.light {
+        .light {
+            display: inline;
+        }
+    }
+    
+    #theme-switch.dark {
+        .dark {
+            display: inline;
+        }
+    }
+    
+    #theme-switch.auto {
+        .auto {
+            display: inline;
+        }
+    }
+}
 
-  .svg-icon,
-  i {
-      cursor: pointer;
-      height: 24px;
-      width: auto;
-  }
+// Responsive adjustments
+@media (max-width: 1200px) {
+    .content {
+        max-width: 95%;
+    }
+}
 
-  #theme-switch {
-      .light {
-          display: none;
-      }
-
-      .dark {
-          display: none;
-      }
-
-      .auto {
-          display: none;
-      }
-  }
-
-  #theme-switch.light {
-      .light {
-          display: inline;
-      }
-  }
-
-  #theme-switch.dark {
-      .dark {
-          display: inline;
-      }
-  }
-
-  #theme-switch.auto {
-      .auto {
-          display: inline;
-      }
-  }
+@media (max-width: 800px) {
+    body {
+        font-size: 16px;
+    }
+    
+    h1 { font-size: 2rem; }
+    h2 { font-size: 1.75rem; }
+    h3 { font-size: 1.5rem; }
+    h4 { font-size: 1.25rem; }
+    h5 { font-size: 1.1rem; }
+    h6 { font-size: 1rem; }
+    
+    .filetree-sidebar {
+        &::before {
+            height: 120px;
+        }
+    }
 }
