@@ -11,15 +11,6 @@
 **ISO/IEC 27001 Controls:** 5.10, 5.11, 8.1, 8.7
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW AND UPDATE](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
----
 ## **1. PURPOSE**  
 To define acceptable and unacceptable use of the organization's information systems, devices, networks, and data to reduce information security risks and promote responsible behavior.
 ## **2. SCOPE**

@@ -11,16 +11,6 @@
 **ISO/IEC 27001 Controls:** 8.24,8,25, 5.10, 5.23
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
-
----
 ## **1. PURPOSE**  
 To establish requirements for the secure and consistent use of cryptographic controls to protect the confidentiality, integrity, and authenticity of sensitive and classified data.
 ## **2. SCOPE**

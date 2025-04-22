@@ -11,22 +11,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ACCESS CONTROL REQUIREMENTS](#access-control-requirements)  
-5. [SECURITY & CONFIGURATION STANDARDS](#security-configuration-standards)  
-6. [SCRIPTING AND AUTOMATION](#scripting-and-automation)  
-7. [MONITORING AND LOGGING](#monitoring-and-logging)  
-8. [CHANGE & INCIDENT INTEGRATION](#change-incident-integration)
-9. [DEPROVISONING](#deprovioning)
-10. [ACCEPTABLE USE](#acceptable-use)
-11. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
-12. [REVIEW AND MAINTENANCE](#review-and-maintenance)
-13. [RELATED DOCUMENTS](#related-documents)
-
----
 ## **1. PURPOSE**  
 To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for system monitoring, patch management, endpoint control, and remote support activities.
 ## **2. SCOPE**

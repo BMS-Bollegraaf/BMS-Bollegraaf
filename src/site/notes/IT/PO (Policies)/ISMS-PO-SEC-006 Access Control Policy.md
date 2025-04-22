@@ -11,18 +11,6 @@
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.3, 8.4
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [MONITORING AND LOGGING](#monitoring-and-logging)  
-7. [REVIEW AND UPDATES](#review-and-updates)  
-8. [RELATED DOCUMENTS](#related-documents) 
-
----
-
 ## **1. PURPOSE**  
 To ensure that access to information and information systems is granted on a need-to-know basis and managed securely to protect confidentiality, integrity, and availability.
 ## **2. SCOPE**

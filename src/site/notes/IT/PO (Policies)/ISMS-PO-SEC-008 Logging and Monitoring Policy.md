@@ -11,20 +11,6 @@
 **ISO/IEC 27001 Controls:** 8.15, 8.16, 5.36, 5.25
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statements)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REGISTRATION](#registration)  
-7. [RELATED DOCUMENTS](#related-documents)  
-8. [REGISTRATION](#registrations)  
-9. [RELATED DOCUMENTS](#appendices) 
-10. [RELATED NORMS AND STANDARDS](#appendices) 
-11. [DEFINITIES](#DEFINITIES) 
-
----
 ## **1. PURPOSE**  
 To establish the organization's requirements for logging and monitoring of systems and activities to detect unauthorized access, security breaches, and ensure accountability.
 ## **2. SCOPE**

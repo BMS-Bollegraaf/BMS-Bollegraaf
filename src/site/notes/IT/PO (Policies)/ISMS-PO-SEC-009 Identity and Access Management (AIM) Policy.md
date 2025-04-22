@@ -11,16 +11,6 @@
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.3, 8.4, 5.10
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
-
----
 ## **1. PURPOSE**  
 To ensure that all access to organizational systems and data is authorized, secure, role-based, and auditable by defining standardized procedures for identity creation, management, and removal.
 ## **2. SCOPE**

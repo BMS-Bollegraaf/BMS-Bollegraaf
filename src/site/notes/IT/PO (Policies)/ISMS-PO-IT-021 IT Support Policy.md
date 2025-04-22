@@ -11,17 +11,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
-
----
 ## **1. PURPOSE**  
 To define roles, responsibilities, and acceptable practices for delivering IT support services that ensure system availability, user satisfaction, and information security.
 ## **2. SCOPE**
