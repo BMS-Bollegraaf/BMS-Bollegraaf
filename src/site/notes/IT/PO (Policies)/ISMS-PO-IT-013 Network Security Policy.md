@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-013-network-security-policy/","tags":["network","security","policy"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-013-network-security-policy/","tags":["network","security","policy"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.20, 8.21, 8.22, 8.15, 5.10
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statements)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
-8. [CONTROLS](#controls)  
 
 ---
 ## **1. PURPOSE**  

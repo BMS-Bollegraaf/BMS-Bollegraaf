@@ -11,14 +11,6 @@
 **ISO/IEC 27001 Controls:** 5.12, 8.11
 
 ---
-## **Table of Contents**  
-1. [WHY IT MATTERS](#why-it-matters)  
-2. [SECURE PRINTING: WHAT YOU MUST DO](#secure-printing)  
-3. [IF SOMETHING GOES WRONG](#if-something-goes-wrong)  
-4. [WHAT NOT TO DO](#what-not-to-do)  
-5. [NEED HELP?](#need-help)  
-6. [RELATED DOCUMENTS](#related-documents)  
----
 ## **1. WHY IT MATTERS**  
 Printed documents can contain **confidential, personal, or sensitive information**. If left unattended, they can be accessed, copied, or discarded improperly — leading to **data breaches** or **compliance violations**.
 ## **2. SECURE PRINTING: WHAT YOU MUST DO**

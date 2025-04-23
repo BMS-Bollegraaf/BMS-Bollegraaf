@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-009-data-backup-and-restoration-procedure/","tags":["procedure","Backup","restore"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-009-data-backup-and-restoration-procedure/","tags":["procedure","Backup","restore"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -10,17 +10,6 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.12, 5.31, 5.25
 
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [BACKUP TYPES AND FREQUENCIES](#backup-types-and-frequencies)  
-4. [BACKUP PROCEDURE](#backup-procedure)  
-5. [RESTORATION PROCEDURE](#restoration-procedure)  
-6. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-7. [SECURITY & COMPLIANCE](#security-compliance)  
-8. [REVIEW & MAINTENANCE](#review-maintenance)
-9. [RELATED DOCUMENTS](#related-documents)  
 ---
 ## **1. PURPOSE**  
 To define a structured approach to backing up and restoring data, systems, and configurations to ensure **data availability**, **business continuity**, and **protection from loss or corruption**.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-013-third-party-management-policy/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-013-third-party-management-policy/","noteIcon":"default"}
 ---
 
  
@@ -12,17 +12,6 @@
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 
 **Tags:** #policy #compliance  #security #dmarc #email
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
 
 ---
 

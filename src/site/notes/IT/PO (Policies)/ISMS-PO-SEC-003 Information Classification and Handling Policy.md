@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-003-information-classification-and-handling-policy/","tags":["information","classification","policy"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-003-information-classification-and-handling-policy/","tags":["information","classification","policy"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  

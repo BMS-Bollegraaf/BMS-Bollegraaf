@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-002-change-management-procedure/","tags":["Change","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-002-change-management-procedure/","tags":["Change","procedure"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,18 +9,6 @@
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]] / [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.32, 5.36, 5.33, 8.25
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [TYPE OF CHANGES](#type-of-changes)  
-4. [CHANGE LIFECYCLE](#change-of-lifecycle)  
-5. [EMERGENCY CHANGE PROTOCOL](#emergency-change-protocol)  
-6. [DOCUMENTS REQUIREMENTS](#documents-requirements)  
-7. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-8. [AUDIT & REVIEW](#audit-review) 
-9. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  

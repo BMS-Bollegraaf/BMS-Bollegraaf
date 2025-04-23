@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-003-cryptographic-controls-procedure/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-003-cryptographic-controls-procedure/","noteIcon":"default"}
 ---
 
  
@@ -14,18 +14,6 @@
 **Tags:** #policy #compliance  #security #dmarc #email
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
-
----
-
 ## **1. PURPOSE**  
 To define the proper and secure use of cryptographic methods (e.g., encryption, hashing, digital signatures) to protect the confidentiality, integrity, and authenticity of data.
 ## **2. SCOPE**

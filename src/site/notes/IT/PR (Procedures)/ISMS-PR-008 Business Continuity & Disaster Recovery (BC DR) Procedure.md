@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/","tags":["procedure","disaster"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-008-business-continuity-and-disaster-recovery-bc-dr-procedure/","tags":["procedure","disaster"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -10,19 +10,6 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.31, 8.2, 5.26, 5.27
 
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [BC/DR FRAMEWORK OVERVIEW](#BC-DR-framework-overview)  
-4. [KEY COMPONENTS](#key-components)  
-5. [ACTIVATION CRITERIA](#activation-criteria)  
-6. [TESTING & REVIEW](#testing-review)  
-7. [ROLES AND RESPONSIBILITY](#roles-and-responsibilities)  
-8. [COMMUNICATION DURING DISRUPTION](#communication-during-disruption)
-9. [COMPLIANCE](#compliance)
-10. [REVIEW](#review)
-11. [RELATED DOCUMENTS](#related-documents)
 ---
 ## **1. PURPOSE**  
 To ensure that the organization can maintain or rapidly resume critical operations in the event of a disaster, cyberattack, system failure, or other business disruption.

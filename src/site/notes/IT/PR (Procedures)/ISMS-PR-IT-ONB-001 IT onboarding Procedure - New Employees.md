@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-onb-001-it-onboarding-procedure-new-employees/","tags":["onboarding","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-onb-001-it-onboarding-procedure-new-employees/","tags":["onboarding","procedure"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  

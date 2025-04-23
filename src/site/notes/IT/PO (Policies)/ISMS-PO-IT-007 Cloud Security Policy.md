@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-007-cloud-security-policy/","tags":["policy","cloud","security"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-007-cloud-security-policy/","tags":["policy","cloud","security"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,16 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.23, 5.10, 8.1, 8.27
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy-statements)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-008-it-system-testing-and-validation-policy/","tags":["policy","testing","validation"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-008-it-system-testing-and-validation-policy/","tags":["policy","testing","validation"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,18 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.23, 5.25, 8.29, 8.30
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REGISTRATION](#registration)  
-7. [RELATED DOCUMENTS](#appendices) 
-
-
 
 ---
 ## **1. PURPOSE**  

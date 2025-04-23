@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-016-system-hardening-policy/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-016-system-hardening-policy/","noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -10,16 +10,6 @@
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 8.9, 8.7, 5.32, 8.8
 **Tags:** #policy #compliance  #security #dmarc #email
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
 
 ---
 ## **1. PURPOSE**  

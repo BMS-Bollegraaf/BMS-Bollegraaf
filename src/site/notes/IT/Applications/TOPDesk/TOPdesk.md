@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/applications/top-desk/to-pdesk/","tags":["topdesk"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/applications/top-desk/to-pdesk/","tags":["topdesk"],"noteIcon":"default"}
 ---
 
 Service Description: Use of TOPdesk within the [[Companies/Bollegraaf Recycling Solutions\|Bollegraaf Recycling Solutions]] and [[Companies/Lubo Recycling Solutions\|Lubo Recycling Solutions]] and can be accessed by an internet browser https://bollegraaf.topdesk.net

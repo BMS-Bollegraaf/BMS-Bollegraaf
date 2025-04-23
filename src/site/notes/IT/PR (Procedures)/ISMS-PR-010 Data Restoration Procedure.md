@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-010-data-restoration-procedure/","tags":["restore","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-010-data-restoration-procedure/","tags":["restore","procedure"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  
@@ -11,18 +11,6 @@
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 8.12, 5.25, 5.31
 
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [WHEN TO TRIGGER A RESTORE](#when-to-trigger-a-restore)  
-4. [REQUESTING A DATA RESTORE](#requesting-a-data-restore)  
-5. [RESTORE EXECUTION PROCESS](#restore-execution-process)  
-6. [RESTORE AND ACCESS CONTROL](#restore-and-access-control)  
-7. [LOGGING AND DOCUMENTATION](#logging-and-documentation)  
-8. [TESTING AND VALIDATION](#testing-and-validation)
-9. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)
-10. [REVIEW AND MAINTANCE](#review-and-maintance)
 ---
 ## **1. PURPOSE**  
 To provide a clear and secure process for restoring data from backups in the event of accidental deletion, data corruption, system failure, or other business disruptions.

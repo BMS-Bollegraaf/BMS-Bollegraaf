@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-012-vault-password-manager-offboarding-procedure/","tags":["procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-012-vault-password-manager-offboarding-procedure/","tags":["procedure"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]] / [[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#compliance)  
-6. [REVIEW](#review)  
-7. [RELATED DOCUMENTS](#related-documents)  
-8. [CONTROLS](#registrations)  
 
 ---
 ## **1. PURPOSE**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/","tags":["procedure","audit"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/","tags":["procedure","audit"],"noteIcon":"default"}
 ---
 
  
@@ -10,17 +10,6 @@
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [AUDIT PROCESS](#audit-process)  
-5. [AUDIT RECORDS](#audit-records)  
-6. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-7. [REVIEW AND IMPROVEMENT](#revies-and-improvement)  
-8. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  

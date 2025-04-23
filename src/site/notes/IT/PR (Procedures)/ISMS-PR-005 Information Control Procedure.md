@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-005-information-control-procedure/","tags":["procedure","information","control"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-005-information-control-procedure/","tags":["procedure","information","control"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  
@@ -10,18 +10,6 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:** 
 **ISO/IEC 27001 Controls:** 7.5
-**Tags:** #policy #compliance  #security #dmarc #email
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [DEFINITIONS](#definitions)  
-4. [PROCEDURE STEPS](procedure-steps)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
 
 ---
 ## **1. PURPOSE**  

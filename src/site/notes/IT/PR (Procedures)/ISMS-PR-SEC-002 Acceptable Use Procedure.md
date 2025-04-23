@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-002-acceptable-use-procedure/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-002-acceptable-use-procedure/","noteIcon":"default"}
 ---
 
  
@@ -15,20 +15,6 @@
 
 
 ---
-
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
-
-
----
-
 ## **1. PURPOSE**  
 Procedures and expectations for how users access and use organizational systems, networks, and data securely and responsibly.
 ## **2. SCOPE**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-015-requesting-access-for-external-parties-to-microsoft-teams/","tags":["werkinstructie","MSTeams","access"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/in-instructions/isms-in-sec-015-requesting-access-for-external-parties-to-microsoft-teams/","tags":["werkinstructie","MSTeams","access"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 17-04-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.19, 5.20, 5.36, 8.1-8.4
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [REQUEST PROCEDURE](#request-procedure)  
-4. [SECURITY REQUIREMENTS](#securiy-requirements)  
-5. [MONITORING & REVIEW](#monitoring-review)  
-6. [REVOCATION PROCEDURE](#revocation-procedure)  
-7. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-8. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  

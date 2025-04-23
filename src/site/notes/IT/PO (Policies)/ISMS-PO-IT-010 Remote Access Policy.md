@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-010-remote-access-policy/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-010-remote-access-policy/","noteIcon":"default"}
 ---
 
 
@@ -8,17 +8,6 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Classification:** [[Classification/Internal\|Internal]]
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
 
 ---
 ## **1. PURPOSE**  

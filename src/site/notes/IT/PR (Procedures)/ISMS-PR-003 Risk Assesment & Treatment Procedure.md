@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-003-risk-assesment-and-treatment-procedure/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-003-risk-assesment-and-treatment-procedure/","noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,18 +9,6 @@
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statements)  
-4. [CRITERIA OF EVALUATION](#critieria-of-evaluation)  
-5. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-6. [FREQUENCY OF RISK ASSESSMENT](#responsibilities)  
-7. [DOCUMENTATION](#documentation)  
-8. [REVIEW & MAINTENANCE](#review-maintenance) 
-9. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  

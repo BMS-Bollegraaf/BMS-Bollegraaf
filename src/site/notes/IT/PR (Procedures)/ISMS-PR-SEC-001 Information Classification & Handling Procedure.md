@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-001-information-classification-and-handling-procedure/","tags":["procedure","information"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-001-information-classification-and-handling-procedure/","tags":["procedure","information"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  

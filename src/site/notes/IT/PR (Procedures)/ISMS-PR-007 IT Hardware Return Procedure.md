@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-007-it-hardware-return-procedure/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-007-it-hardware-return-procedure/","noteIcon":"default"}
 ---
 
-
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
@@ -12,21 +10,8 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** A.5.9, A.6.2, A.8.1.3, A.11.2.7
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
-
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [ROLES AND RESPONSIBILITIES](#policy statement)  
-4. [PROCEDURE STEPS](#roles-and-responsibilities)  
-5. [RECORD RETENTION](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [NON-COMPLIANCE](#compliance)  
-
----
-
 ## **1. PURPOSE**  
 This procedure defines the process for the return of company-owned IT hardware by staff, contractors, and third parties to maintain the confidentiality, integrity, and availability of information assets, and to ensure compliance with ISO/IEC 27001 requirements.
 ## **2. SCOPE**

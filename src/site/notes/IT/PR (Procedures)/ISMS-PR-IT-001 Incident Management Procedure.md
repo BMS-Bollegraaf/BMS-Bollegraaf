@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-001-incident-management-procedure/","tags":["incident","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-it-001-incident-management-procedure/","tags":["incident","procedure"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 5.24, 5.25, 5.26, 5.27
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [INCIDENT MANAGEMENT LIFECYCLE](#roles-and-responsibilities)  
-5. [INCIDENT RECORDS](#6)  
-6. [ROLES AND RESPONSIBILITIES](#responsibilities)  
-7. [REVIEW](#compliance)  
-8. [RELATED DOCUMENTS](#8)  
 
 ---
 ## **1. PURPOSE**  

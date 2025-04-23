@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-014-it-security-awareness-and-training-policy/","tags":["policy","training","security","awareness"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-014-it-security-awareness-and-training-policy/","tags":["policy","training","security","awareness"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[HR/HR\|HR]]
 
 **ISO/IEC 27001 Controls:** 6.3, 5.10, 5.1, 5.37
-
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
 
 ---
 ## **1. PURPOSE**  

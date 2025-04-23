@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-011-email-and-communication-policy/","tags":["policy","email","communication"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-011-email-and-communication-policy/","tags":["policy","email","communication"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  
@@ -12,18 +12,6 @@
 **Tags:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [ACCEPTABLE USE](#acceptable-use)  
-4. [SECURITY REQUIREMENTS](#security-requirements)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)   
-8. [CONTROLS](#registrations)  
-
----
-
 ## **1. PURPOSE**  
 To define acceptable and secure use of email and other communication tools (e.g. instant messaging, video conferencing, collaboration platforms) to prevent data leakage, phishing, and misuse of organizational resources.
 ## **2. SCOPE**
@@ -45,7 +33,7 @@ This policy applies to:
 - Email access must be protected with **MFA**
 - All **external emails** must be automatically tagged (e.g. [External])
 - **Suspicious emails** must be reported via phishing button or to IT
-- Attachments must be scanned by AV/DLP before openin
+- Attachments must be scanned by AV/DLP before opening.
 #### 4.2 Confidential Data Handling
 - Do **not** include passwords, PII, financials, or restricted data in plain-text emails
 - Use **encryption** (e.g., M365 Message Encryption, S/MIME) for sensitive messages

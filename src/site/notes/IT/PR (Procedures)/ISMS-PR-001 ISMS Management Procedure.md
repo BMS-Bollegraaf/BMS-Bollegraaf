@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-001-isms-management-procedure/","tags":["procedure","ISMS"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-001-isms-management-procedure/","tags":["procedure","ISMS"],"noteIcon":"default"}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
@@ -10,16 +9,6 @@
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 4-10, 5.1, 5.36
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [PROCEDURE OVERVIEW](#procedure-overview)  
-4. [KEY RECORDS AND OUTPUTS](#key-records-and-outputs)  
-5. [ROLES AND RESPONSIBILITIES](#roles-and-responsobilities)  
-6. [REVIEW AND MAINTANCE](#review-and-maintance)  
-7. [RELATED DOCUMENTS](#related-documents)  
 
 ---
 ## **1. PURPOSE**  

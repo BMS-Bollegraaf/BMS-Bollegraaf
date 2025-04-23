@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-004-corrective-and-preventive-action-capa-procedure/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-004-corrective-and-preventive-action-capa-procedure/","noteIcon":"default"}
 ---
 
  
@@ -12,18 +12,6 @@
 **ISO/IEC 27001 Controls:** 
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENTS](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE](#dmarc)  
-6. [REVIEW](#responsibilities)  
-7. [RELATED DOCUMENTS](#compliance)  
-8. [CONTROLS](#registrations)  
-
----
-
 ## **1. PURPOSE**  
 To ensure that nonconformities and opportunities for improvement are effectively addressed through a structured process of corrective and preventive actions that support continuous improvement of the ISMS.
 ## **2. SCOPE**

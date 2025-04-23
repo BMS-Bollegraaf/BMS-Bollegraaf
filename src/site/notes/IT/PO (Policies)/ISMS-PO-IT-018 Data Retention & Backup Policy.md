@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-018-data-retention-and-backup-policy/","noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-018-data-retention-and-backup-policy/","noteIcon":"default"}
 ---
 
  
@@ -10,18 +10,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.34, 8.10, 8.12, 8.14, 8.30
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [DATA RETENTION REQUIREMENTS](#data-retention-requirements)  
-4. [BACKUP REQUIREMENTS](#backup-requirements)  
-5. [DATA DELETION & DISPOSAL](#data-de;etion-disposal)  
-6. [ROLES AND RESPONSIBILITES](#roles-and-responsibilities)  
-7. [COMPLIANCE](#compliance)  
-8. [REVIEW](#review)
-9. [RELATED DOCUMENTS](#related-documents)
 
 ---
 ## **1. PURPOSE**  

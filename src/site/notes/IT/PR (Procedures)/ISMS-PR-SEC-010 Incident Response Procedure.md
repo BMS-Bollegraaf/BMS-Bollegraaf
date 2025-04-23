@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-010-incident-response-procedure/","tags":["incident","response","procedure"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-sec-010-incident-response-procedure/","tags":["incident","response","procedure"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.24, 5.25, 5.26, 5.27
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [DEFINITIONS](#definitions)  
-4. [RESPONSIBILITIES](#responsibilities)  
-5. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-6. [DOCUMENTATION AND EVIDENCE](#documentation-and-evidence)  
-7. [TESTING AND REVIEW](#testing-and-review)  
-8. [RELATED DOCUMENTS](#related-dodcuments)  
 
 ---
 ## **1. PURPOSE**  

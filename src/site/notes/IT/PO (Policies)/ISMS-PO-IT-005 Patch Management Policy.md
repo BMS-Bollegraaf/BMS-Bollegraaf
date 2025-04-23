@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-005-patch-management-policy/","tags":["policy","patch"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-005-patch-management-policy/","tags":["policy","patch"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.30, 5.31, 8.13
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY STATEMENT](#policy-statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [COMPLIANCE AND ENFORCEMENT](#compliance-and-enforcement)  
-6. [REVIEW AND UPDATES](#review-and-updates)  
-7. [RELATED DOCUMENTS](#related-documents)  
-8. [RELATED NORMS AND STANDARDS](#related-norms-and-standards) 
 
 ---
 ## **1. PURPOSE**  

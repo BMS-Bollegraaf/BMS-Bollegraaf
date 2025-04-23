@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-012-secure-printing-policy/","tags":["policy","printing"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-012-secure-printing-policy/","tags":["policy","printing"],"noteIcon":"default"}
 ---
 
  **Effective Date:** 21-03-2025  
@@ -9,17 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]] [[Functions/Information Security Officer (ISO)\|Information Security Officer (ISO)]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.12, 7.3, 8.11, 8.30
-
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [SECURE PRINTING CONTROLS](#policy statement)  
-4. [USER RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [IT RESPONSIBILITIES](#dmarc)  
-6. [COMPLIANCE](#responsibilities)  
-7. [REVIEW](#compliance)  
-8. [RELATED DOCUMENTS](#)  
 
 ---
 ## **1. PURPOSE**  

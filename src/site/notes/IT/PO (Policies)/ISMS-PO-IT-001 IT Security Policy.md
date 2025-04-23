@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-001-it-security-policy/","tags":["policy","security"],"noteIcon":"lightbulb"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-it-001-it-security-policy/","tags":["policy","security"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
@@ -10,16 +10,6 @@
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 
----
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [POLICY OBJECTIVES](#policy-objectives)  
-4. [POLICY STATEMENTS](#policy-statements)  
-5. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilites)  
-6. [ENFORCEMENT](#enforcement)  
-7. [REVIEW](#review)  
-8. [RELATED DOCUMENTS](#related-documents)  
 ---
 ## **1. PURPOSE**  
 To establish a secure and reliable IT environment by defining the organization’s approach to managing IT systems, networks, infrastructure, and related security practices in support of the Information Security Management System (ISMS).
