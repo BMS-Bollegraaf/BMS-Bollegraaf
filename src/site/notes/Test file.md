@@ -34,6 +34,26 @@
     <a href="/Leaf’s-Observatory">← Back to Observatory</a>
   </div>
 </div>
+<style>
+.myArtSwiper { width: 100%; max-width: 800px; margin: auto; }
+.caption { text-align: center; margin-top: 0.5em; font-style: italic; }
+.back-btn { text-align: center; margin: 1em 0; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  new Swiper('.myArtSwiper', {
+    loop: true,
+    speed: 600,
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    effect: 'fade',
+    fadeEffect: { crossFade: true },
+  });
+});
+</script>
 
 
 
