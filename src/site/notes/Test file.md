@@ -32,7 +32,7 @@
     </div>
     <!-- Slide 2 -->
     <div class="swiper-slide">
-      <a href="/BMS">
+      <a href="/">
         <img
           src="/img/OfficeBollegraaf.png"
           alt="BMS"
