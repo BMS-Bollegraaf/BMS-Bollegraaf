@@ -14,6 +14,26 @@
 />
 <!-- 2) Swiper JS -->
 <script src="https://unpkg.com/swiper@11/swiper-bundle.min.js"></script>
+<div class="swiper myArtSwiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">
+      ![BRS.png](/img/user/IMG/BRS.png)
+      <p class="caption">“First piece” — My commentary here</p>
+    </div>
+    <div class="swiper-slide">
+      ![StructureBRS.png](/img/user/IMG/StructureBRS.png)
+      <p class="caption">“Second piece” — More text</p>
+    </div>
+    <!-- repeat as needed -->
+  </div>
+  <!-- Navigation -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+  <!-- Back to dashboard -->
+  <div class="back-btn">
+    <a href="/Leaf’s-Observatory">← Back to Observatory</a>
+  </div>
+</div>
 
 
 
