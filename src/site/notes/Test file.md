@@ -24,16 +24,20 @@
         alt="StructureBRS"
         class="art-slide"
       />
-      <p class="caption">“First piece” — My commentary here</p>
+      <div class="overlay-caption">
+        “First piece” — My commentary here. Yes here
+      </div>
     </div>
     <!-- Slide 2 -->
     <div class="swiper-slide">
       <img
-        src="/img/BRS.png"
+        src="/img/OfficeBollegraaf.png"
         alt="BRS"
         class="art-slide"
       />
-      <p class="caption">“Second piece” — More text</p>
+      <div class="overlay-caption">
+        “Second piece” — More text
+      </div>
     </div>
     <!-- Add more slides here -->
   </div>
@@ -57,6 +61,11 @@
     position: relative;
   }
 
+  /* Each slide is positioned relative to contain overlay */
+  .swiper-slide {
+    position: relative;
+  }
+
   /* Images */
   .art-slide {
     display: block;
@@ -66,12 +75,20 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
 
-  /* Caption styling */
-  .caption {
-    text-align: center;
+  /* Overlay caption */
+  .overlay-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1em;
+    background: rgba(18, 20, 42, 0.6); /* Cosmic Void at 60% opacity */
+    color: #E0B2FF;                     /* Ethereal Glow */
     font-style: italic;
-    margin-top: 0.5em;
-    color: var(--text-main, #E0B2FF);
+    font-size: 1rem;
+    text-align: center;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
   }
 
   /* Back button */
@@ -80,7 +97,7 @@
     margin: 1.5em 0;
   }
   .back-btn a {
-    color: var(--link, #8AD6EE);
+    color: #8AD6EE; /* Comet Trail */
     text-decoration: none;
     font-weight: bold;
   }
@@ -91,7 +108,7 @@
   /* Override Swiper navigation colors (optional) */
   .swiper-button-prev,
   .swiper-button-next {
-    color: var(--highlight, #BFA6E0);
+    color: #BFA6E0; /* Nebula Lavender */
   }
 </style>
 
