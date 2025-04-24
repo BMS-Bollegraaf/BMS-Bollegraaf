@@ -19,27 +19,31 @@
   <div class="swiper-wrapper">
     <!-- Slide 1 -->
     <div class="swiper-slide">
-      <img
-        src="/img/BRS_Shield.png"
-        alt="StructureBRS"
-        class="art-slide"
-      />
-      <div class="overlay-caption">
-        “First piece” — My commentary here. Yes here
-      </div>
+      <a href="/PDF-to-Obsidian">
+        <img
+          src="/img/BRS_Shield.png"
+          alt="PDF to Obsidian"
+          class="art-slide"
+        />
+        <div class="overlay-caption">
+          “Shield Structure” — How to import PDFs
+        </div>
+      </a>
     </div>
     <!-- Slide 2 -->
     <div class="swiper-slide">
-      <img
-        src="/img/OfficeBollegraaf.png"
-        alt="BRS"
-        class="art-slide"
-      />
-      <div class="overlay-caption">
-        “Second piece” — More text
-      </div>
+      <a href="/BMS">
+        <img
+          src="/img/OfficeBollegraaf.png"
+          alt="BMS"
+          class="art-slide"
+        />
+        <div class="overlay-caption">
+          “Office Bollegraaf” — BMS workflow overview
+        </div>
+      </a>
     </div>
-    <!-- Add more slides here -->
+    <!-- Add more slides here, following the same pattern -->
   </div>
 
   <!-- Navigation buttons -->
@@ -61,7 +65,7 @@
     position: relative;
   }
 
-  /* Each slide is positioned relative to contain overlay */
+  /* Ensure slide wrapper is positioned for caption overlay */
   .swiper-slide {
     position: relative;
   }
@@ -75,14 +79,14 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
 
-  /* Overlay caption */
+  /* Overlay caption at bottom of image */
   .overlay-caption {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
     padding: 1em;
-    background: rgba(18, 20, 42, 0.6); /* Cosmic Void at 60% opacity */
+    background: rgba(18, 20, 42, 0.6); /* Cosmic Void @ 60% */
     color: #E0B2FF;                     /* Ethereal Glow */
     font-style: italic;
     font-size: 1rem;
@@ -91,7 +95,7 @@
     border-bottom-right-radius: 8px;
   }
 
-  /* Back button */
+  /* Back button styling */
   .back-btn {
     text-align: center;
     margin: 1.5em 0;
@@ -105,7 +109,7 @@
     text-decoration: underline;
   }
 
-  /* Override Swiper navigation colors (optional) */
+  /* Swiper nav arrow colors */
   .swiper-button-prev,
   .swiper-button-next {
     color: #BFA6E0; /* Nebula Lavender */
@@ -126,6 +130,7 @@
     });
   });
 </script>
+
 
 
 
