@@ -76,7 +76,7 @@ This procedure will be reviewed **annually**, or:
 | [[IT/PO (Policies)/ISMS-PO-SEC-002 Acceptable Use Policy\|ISMS-PO-SEC-002 Acceptable Use Policy]]                      |
 | [[IT/PO (Policies)/ISMS-PO-SEC-011 Email and Communication Policy\|ISMS-PO-SEC-011 Email and Communication Policy]]             |
 | [[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]                |
-| [[IT/FM (Forms)/ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form\|ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form]] |
+| [[IT/Forms/ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form\|ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form]] |
 | Secure Workstation and Remote Access SOP                       |
 |                                                                |
 

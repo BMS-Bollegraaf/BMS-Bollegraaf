@@ -65,7 +65,7 @@ This procedure is reviewed **annually**, or after:
 | Vault Access Request Form                         |
 | Vault Setup Checklist                             |
 | Access Control Register                           |
-| [[IT/CL (Checklists)/ISMS-CL-HR-003 HR Termination Checklist\|ISMS-CL-HR-003 HR Termination Checklist]]        |
+| [[IT/Checklists/ISMS-CL-HR-003 HR Termination Checklist\|ISMS-CL-HR-003 HR Termination Checklist]]        |
 
 
 

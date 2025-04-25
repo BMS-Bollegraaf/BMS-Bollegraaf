@@ -79,7 +79,7 @@ This policy must be reviewed **annually**, or,
 | [[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]] |     |
 | Network Diagram & Asset Register                |     |
 | Firewall Change Request Form                    |     |
-| [[IT/GD (Guidelines)/ISMS-GD-IT-013-A VPN Usage Guidelines\|ISMS-GD-IT-013-A VPN Usage Guidelines]]       |     |
+| [[IT/Guidelines/ISMS-GD-IT-013-A VPN Usage Guidelines\|ISMS-GD-IT-013-A VPN Usage Guidelines]]       |     |
 
 
 

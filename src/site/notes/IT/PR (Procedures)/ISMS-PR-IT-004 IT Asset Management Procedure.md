@@ -93,7 +93,7 @@ Register is maintained in **[[IT/Applications/TOPDesk/TOPdesk\|TOPdesk]]**.
 | Asset Register Template (Excel)                         |
 | [[IT/PR (Procedures)/ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure\|ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure]] |
 | Asset Assignment & Return Forms                         |
-| [[IT/CL (Checklists)/ISMS-CL-HR-003 HR Termination Checklist\|ISMS-CL-HR-003 HR Termination Checklist]]              |
+| [[IT/Checklists/ISMS-CL-HR-003 HR Termination Checklist\|ISMS-CL-HR-003 HR Termination Checklist]]              |
 
 
 

@@ -74,7 +74,7 @@ This policy must be reviewed **annually**, or when:
 | [[IT/PO (Policies)/ISMS-PO-SEC-002 Acceptable Use Policy\|ISMS-PO-SEC-002 Acceptable Use Policy]]                          |
 | [[IT/Registers/Printer Asset Register\|Printer Asset Register]]                                         |
 | Visitor Printing SOP (NOT applicable)                              |
-| [[IT/IN (Instructions)/ISMS-IN-SEC-012 Secure Printing\|ISMS-IN-SEC-012 Secure Printing]]                    |
+| [[IT/Instructions/ISMS-IN-SEC-012 Secure Printing\|ISMS-IN-SEC-012 Secure Printing]]                    |
 
 
 
