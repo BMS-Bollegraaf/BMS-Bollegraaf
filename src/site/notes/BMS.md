@@ -27,7 +27,7 @@
 ## Recent Updates
 | File                                                                        | Last Modified            |
 | --------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                             | 9:56 AM - April 25, 2025 |
+| [[BMS\|BMS]]                                                             | 9:58 AM - April 25, 2025 |
 | [[Test 123\|Test 123]]                                                   | 9:53 AM - April 25, 2025 |
 | [[IT/PL (Plans)/ISMS-PL-SEC-CCP\|ISMS-PL-SEC-CCP]]                       | 3:57 PM - April 24, 2025 |
 | [[Templates/03 - Template Werkinstructie\|03 - Template Werkinstructie]] | 2:44 PM - April 24, 2025 |
@@ -37,7 +37,7 @@
 
 <div class="flashcard-grid grid-2">
   <div class="flashcard">
-    <a href="Test 123">
+    <a href="Test-123">
       <div class="flashcard-image">
         <img src="/IMG/BRS.png" alt="Journal">
       </div>
