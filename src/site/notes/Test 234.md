@@ -20,10 +20,10 @@
   
   <!-- CARD 2 -->
   <div class="flashcard">
-    <a href="[[Dashboard 2\|Dashboard 2]]" class="flashcard-link">
+    <a href="[[PDF to Obsidian\|PDF to Obsidian]]" class="flashcard-link">
       <div class="flashcard-content">
         <div class="flashcard-image">
-          <img src="/img/dashboard2-image.png" alt="Dashboard 2">
+          <img src="/img/OfficeBollegraaf.png" alt="Dashboard 2">
         </div>
         <div class="flashcard-title">Dashboard 2</div>
       </div>
