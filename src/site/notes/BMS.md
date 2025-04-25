@@ -27,13 +27,39 @@
 ## Recent Updates
 | File                                                                        | Last Modified            |
 | --------------------------------------------------------------------------- | ------------------------ |
-| [[Test 123\|Test 123]]                                                   | 8:59 AM - April 25, 2025 |
+| [[BMS\|BMS]]                                                             | 9:56 AM - April 25, 2025 |
+| [[Test 123\|Test 123]]                                                   | 9:53 AM - April 25, 2025 |
 | [[IT/PL (Plans)/ISMS-PL-SEC-CCP\|ISMS-PL-SEC-CCP]]                       | 3:57 PM - April 24, 2025 |
 | [[Templates/03 - Template Werkinstructie\|03 - Template Werkinstructie]] | 2:44 PM - April 24, 2025 |
 | [[Templates/Template Werkinstructie\|Template Werkinstructie]]           | 1:29 PM - April 24, 2025 |
-| [[QHSE/TEST 2\|TEST 2]]                                                  | 1:29 PM - April 24, 2025 |
 
 { .block-language-dataview}
+
+<div class="flashcard-grid grid-2">
+  <div class="flashcard">
+    <a href="Test 123">
+      <div class="flashcard-image">
+        <img src="/IMG/BRS.png" alt="Journal">
+      </div>
+      <div class="flashcard-content">
+        <h3>Journal</h3>
+        <p>Log your thoughts, reflections & insights.</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="flashcard">
+    <a href="Projects">
+      <div class="flashcard-image">
+        <img src="/img/projects.png" alt="Projects">
+      </div>
+      <div class="flashcard-content">
+        <h3>Projects</h3>
+        <p>Track and map out your ongoing quests.</p>
+      </div>
+    </a>
+  </div>
+</div>
 
 ## Most Accessed Notes
 
