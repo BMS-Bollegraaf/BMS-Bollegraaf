@@ -498,4 +498,103 @@ blockquote {
         }
     }
 }
+/* Flashcard Grid System - Responsive */
+.flashcard-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
 
+/* Grid column variations */
+.grid-2 { grid-template-columns: repeat(2, 1fr); }
+.grid-3 { grid-template-columns: repeat(3, 1fr); }
+.grid-4 { grid-template-columns: repeat(4, 1fr); }
+
+/* Responsive breakpoints */
+@media (max-width: 1200px) {
+  .grid-4 { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 900px) {
+  .grid-3, .grid-4 { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+}
+
+/* Flashcard container */
+.flashcard {
+  background: rgba(30, 37, 78, 0.75);
+  backdrop-filter: blur(8px);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(224, 178, 255, 0.3);
+  transition: all 0.3s ease;
+}
+
+/* Make sure the anchor fills the entire card */
+.flashcard a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+/* Remove underline effect from links */
+.flashcard a::after {
+  display: none;
+}
+
+/* Hover effects */
+.flashcard:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.4);
+  border-color: var(--link-color);
+}
+
+/* Image container */
+.flashcard-image {
+  background: rgba(18, 20, 42, 0.6);
+  padding: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  height: 160px;
+}
+
+/* Image styling */
+.flashcard-image img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5));
+  transition: transform 0.3s ease;
+}
+
+.flashcard:hover .flashcard-image img {
+  transform: scale(1.05);
+}
+
+/* Content area */
+.flashcard-content {
+  padding: 1.5rem;
+  flex-grow: 1;
+}
+
+.flashcard-content h3 {
+  margin: 0 0 0.75rem;
+  color: var(--text-accent);
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.flashcard-content p {
+  margin: 0;
+  color: var(--text-normal);
+  font-size: 0.95rem;
+  line-height: 1.4;
+  opacity: 0.9;
+}
