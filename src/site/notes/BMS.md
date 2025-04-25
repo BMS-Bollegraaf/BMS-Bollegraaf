@@ -8,6 +8,8 @@
 ![Pasted image 20250417121531.png](/img/user/attachments/Pasted%20image%2020250417121531.png)
 
 
+> [!info] Bollegraaf - Document Management System
+
 <div class="flashcard-grid grid-4">
   <div class="flashcard">
     <a href="/BMS">
@@ -261,7 +263,7 @@
 > - [[Internal Policies\|Internal Policies]]
 ## Management Structure
 
-> [!info] Managing Board [[Managing Board Dashboard\|Managing Board Dashboard]]
+> [!info] Bollegraaf - Document Management System
 
 > [!success] Strategic Level [[COTO Dashboard\|COTO Dashboard]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management Dashboard\|Risk Management Dashboard]]
 
@@ -274,7 +276,7 @@
 ## Recent Updates
 | File                                                                        | Last Modified             |
 | --------------------------------------------------------------------------- | ------------------------- |
-| [[BMS\|BMS]]                                                             | 12:46 PM - April 25, 2025 |
+| [[BMS\|BMS]]                                                             | 12:48 PM - April 25, 2025 |
 | [[Test 456\|Test 456]]                                                   | 11:47 AM - April 25, 2025 |
 | [[Test 123\|Test 123]]                                                   | 11:01 AM - April 25, 2025 |
 | [[IT/PL (Plans)/ISMS-PL-SEC-CCP\|ISMS-PL-SEC-CCP]]                       | 3:57 PM - April 24, 2025  |
