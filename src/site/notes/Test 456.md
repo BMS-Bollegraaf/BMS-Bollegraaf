@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/test-456/","noteIcon":"default"}
 ---
 
-
-
-
-
 <!-- 1) Swiper core CSS -->
 <link
   rel="stylesheet"
@@ -14,50 +10,46 @@
 <!-- 2) Swiper JS -->
 <script src="https://unpkg.com/swiper@11/swiper-bundle.min.js"></script>
 
-<div class="swiper myArtSwiper">
+<div class="swiper myFlashcardSwiper">
   <div class="swiper-wrapper">
     <!-- Slide 1 -->
     <div class="swiper-slide">
-      <a href="/PDF-to-Obsidian">
+      <a href="/BMS">
         <img
-          src="/img/BRS_Shield.png"
-          alt="PDF to Obsidian"
-          class="art-slide"
+          src="/img/BRS.png"
+          alt="Journal"
+          class="flashcard-slide"
         />
         <div class="overlay-caption">
-          “Shield Structure” — How to import PDFs
+          <h3>Journal</h3>
+          <p>Log your thoughts, reflections & insights.</p>
         </div>
       </a>
     </div>
     <!-- Slide 2 -->
     <div class="swiper-slide">
-      <a href="/BMS">
+      <a href="/Projects">
         <img
-          src="/img/OfficeBollegraaf.png"
-          alt="BMS"
-          class="art-slide"
+          src="/img/projects.png"
+          alt="Projects"
+          class="flashcard-slide"
         />
         <div class="overlay-caption">
-          “Office Bollegraaf” — BMS workflow overview
+          <h3>Projects</h3>
+          <p>Track and map out your ongoing quests.</p>
         </div>
       </a>
     </div>
-    <!-- Add more slides here, following the same pattern -->
   </div>
 
   <!-- Navigation buttons -->
   <div class="swiper-button-prev"></div>
   <div class="swiper-button-next"></div>
-
-  <!-- Back to Dashboard -->
-  <div class="back-btn">
-    <a href="/Leaf’s-Observatory">← Back to Observatory</a>
-  </div>
 </div>
 
 <style>
   /* Container sizing */
-  .myArtSwiper {
+  .myFlashcardSwiper {
     width: 100%;
     max-width: 800px;
     margin: 2em auto;
@@ -70,7 +62,7 @@
   }
 
   /* Images */
-  .art-slide {
+  .flashcard-slide {
     display: block;
     width: 100%;
     height: auto;
@@ -78,7 +70,7 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   }
 
-  /* Overlay caption at bottom of image */
+  /* Overlay caption styling */
   .overlay-caption {
     position: absolute;
     bottom: 0;
@@ -87,25 +79,20 @@
     padding: 1em;
     background: rgba(18, 20, 42, 0.6); /* Cosmic Void @ 60% */
     color: #E0B2FF;                     /* Ethereal Glow */
-    font-style: italic;
-    font-size: 1rem;
     text-align: center;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
   }
 
-  /* Back button styling */
-  .back-btn {
-    text-align: center;
-    margin: 1.5em 0;
+  .overlay-caption h3 {
+    margin: 0 0 0.3em 0;
+    font-size: 1.2rem;
   }
-  .back-btn a {
-    color: #8AD6EE; /* Comet Trail */
-    text-decoration: none;
-    font-weight: bold;
-  }
-  .back-btn a:hover {
-    text-decoration: underline;
+
+  .overlay-caption p {
+    margin: 0;
+    font-size: 0.9rem;
+    font-style: italic;
   }
 
   /* Swiper nav arrow colors */
@@ -117,7 +104,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
-    new Swiper('.myArtSwiper', {
+    new Swiper('.myFlashcardSwiper', {
       loop: true,
       speed: 600,
       navigation: {
