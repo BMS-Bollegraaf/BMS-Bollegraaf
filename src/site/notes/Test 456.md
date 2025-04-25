@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/test-456/","noteIcon":"default"}
 ---
 
-<div class="flashcard-grid grid-2">
+<div class="flashcard-grid grid-4">
   <div class="flashcard">
     <a href="/BMS">
       <div class="flashcard-image">
@@ -27,8 +27,29 @@
       </div>
     </a>
   </div>
+  <div class="flashcard">
+    <a href="/Your-Third-Link">
+      <div class="flashcard-image">
+        <img src="/img/Your-Third-Image.png" alt="Third Card">
+      </div>
+      <div class="flashcard-content">
+        <h3>Third Card Title</h3>
+        <p>"Third Card Description" — Additional information</p>
+      </div>
+    </a>
+  </div>
+  <div class="flashcard">
+    <a href="/Your-Fourth-Link">
+      <div class="flashcard-image">
+        <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
+      </div>
+      <div class="flashcard-content">
+        <h3>Fourth Card Title</h3>
+        <p>"Fourth Card Description" — Additional information</p>
+      </div>
+    </a>
+  </div>
 </div>
-
 <style>
   /* Container sizing */
   .flashcard-grid {
@@ -38,11 +59,9 @@
     margin: 2em auto;
     max-width: 1200px;
   }
-
-  .grid-2 {
-    grid-template-columns: repeat(2, 1fr);
+  .grid-4 {
+    grid-template-columns: repeat(4, 1fr);
   }
-
   /* Flashcard styling */
   .flashcard {
     position: relative;
@@ -51,24 +70,20 @@
     transition: transform 0.3s ease;
     overflow: hidden;
   }
-
   .flashcard:hover {
     transform: translateY(-5px);
   }
-
   .flashcard a {
     color: inherit;
     text-decoration: none;
     display: block;
   }
-
   /* Image styling */
   .flashcard-image {
     position: relative;
     width: 100%;
     overflow: hidden;
   }
-
   .flashcard-image img {
     display: block;
     width: 100%;
@@ -76,29 +91,30 @@
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
   }
-
   /* Content styling */
   .flashcard-content {
     padding: 1em;
     background: rgba(18, 20, 42, 0.6); /* Cosmic Void @ 60% */
     color: #E0B2FF;                     /* Ethereal Glow */
   }
-
   .flashcard-content h3 {
     margin-top: 0;
     margin-bottom: 0.5em;
     font-size: 1.2rem;
   }
-
   .flashcard-content p {
     margin: 0;
     font-style: italic;
     font-size: 0.9rem;
   }
-
   /* Responsive adjustments */
+  @media (max-width: 1200px) {
+    .grid-4 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
   @media (max-width: 768px) {
-    .grid-2 {
+    .grid-4 {
       grid-template-columns: 1fr;
     }
   }
