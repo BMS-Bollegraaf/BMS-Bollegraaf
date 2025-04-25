@@ -2,117 +2,104 @@
 {"dg-publish":true,"permalink":"/test-456/","noteIcon":"default"}
 ---
 
-<!-- 1) Swiper core CSS -->
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/swiper@11/swiper-bundle.min.css"
-/>
-<!-- 2) Swiper JS -->
-<script src="https://unpkg.com/swiper@11/swiper-bundle.min.js"></script>
-
-<div class="swiper myFlashcardSwiper">
-  <div class="swiper-wrapper">
-    <!-- Slide 1 -->
-    <div class="swiper-slide">
-      <a href="/BMS">
-        <img
-          src="/img/BRS.png"
-          alt="Journal"
-          class="flashcard-slide"
-        />
-        <div class="overlay-caption">
-          <h3>Journal</h3>
-          <p>Log your thoughts, reflections & insights.</p>
-        </div>
-      </a>
-    </div>
-    <!-- Slide 2 -->
-    <div class="swiper-slide">
-      <a href="/Projects">
-        <img
-          src="/img/projects.png"
-          alt="Projects"
-          class="flashcard-slide"
-        />
-        <div class="overlay-caption">
-          <h3>Projects</h3>
-          <p>Track and map out your ongoing quests.</p>
-        </div>
-      </a>
-    </div>
+<div class="flashcard-grid grid-2">
+  <div class="flashcard">
+    <a href="/BMS">
+      <div class="flashcard-image">
+        <img 
+        src="/img/OfficeBollegraaf.png" 
+        alt="BMS">
+      </div>
+      <div class="flashcard-content">
+        <h3>BMS</h3>
+        <p>"Office Bollegraaf" — BMS workflow overview</p>
+      </div>
+    </a>
   </div>
-
-  <!-- Navigation buttons -->
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-button-next"></div>
+  <div class="flashcard">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>PDF to Obsidian</h3>
+        <p>"Shield Structure" — How to import PDFs</p>
+      </div>
+    </a>
+  </div>
 </div>
 
 <style>
   /* Container sizing */
-  .myFlashcardSwiper {
-    width: 100%;
-    max-width: 800px;
+  .flashcard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
     margin: 2em auto;
-    position: relative;
+    max-width: 1200px;
   }
 
-  /* Ensure slide wrapper is positioned for caption overlay */
-  .swiper-slide {
-    position: relative;
+  .grid-2 {
+    grid-template-columns: repeat(2, 1fr);
   }
 
-  /* Images */
-  .flashcard-slide {
+  /* Flashcard styling */
+  .flashcard {
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+    overflow: hidden;
+  }
+
+  .flashcard:hover {
+    transform: translateY(-5px);
+  }
+
+  .flashcard a {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+  }
+
+  /* Image styling */
+  .flashcard-image {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .flashcard-image img {
     display: block;
     width: 100%;
     height: auto;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
   }
 
-  /* Overlay caption styling */
-  .overlay-caption {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
+  /* Content styling */
+  .flashcard-content {
     padding: 1em;
     background: rgba(18, 20, 42, 0.6); /* Cosmic Void @ 60% */
     color: #E0B2FF;                     /* Ethereal Glow */
-    text-align: center;
-    border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;
   }
 
-  .overlay-caption h3 {
-    margin: 0 0 0.3em 0;
+  .flashcard-content h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
     font-size: 1.2rem;
   }
 
-  .overlay-caption p {
+  .flashcard-content p {
     margin: 0;
-    font-size: 0.9rem;
     font-style: italic;
+    font-size: 0.9rem;
   }
 
-  /* Swiper nav arrow colors */
-  .swiper-button-prev,
-  .swiper-button-next {
-    color: #BFA6E0; /* Nebula Lavender */
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .grid-2 {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    new Swiper('.myFlashcardSwiper', {
-      loop: true,
-      speed: 600,
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-      effect: 'fade',
-      fadeEffect: { crossFade: true },
-    });
-  });
-</script>
