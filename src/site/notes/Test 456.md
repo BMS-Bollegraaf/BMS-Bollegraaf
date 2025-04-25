@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/test-456/","noteIcon":"default"}
 ---
 
+
+
+
+
 <div class="flashcard-grid grid-4">
   <div class="flashcard">
     <a href="/BMS">
@@ -54,9 +58,9 @@
   /* Container sizing */
   .flashcard-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
-    margin: 2em auto;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1.5em auto;
     max-width: 1200px;
   }
   .grid-4 {
@@ -65,13 +69,14 @@
   /* Flashcard styling */
   .flashcard {
     position: relative;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    border-radius: 6px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.3);
     transition: transform 0.3s ease;
     overflow: hidden;
+    max-height: 240px; /* Control the maximum height */
   }
   .flashcard:hover {
-    transform: translateY(-5px);
+    transform: translateY(-3px);
   }
   .flashcard a {
     color: inherit;
@@ -82,30 +87,33 @@
   .flashcard-image {
     position: relative;
     width: 100%;
+    height: 130px; /* Fixed height for images */
     overflow: hidden;
   }
   .flashcard-image img {
     display: block;
     width: 100%;
-    height: auto;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
+    height: 100%;
+    object-fit: cover; /* This ensures images cover the area without distortion */
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
   }
   /* Content styling */
   .flashcard-content {
-    padding: 1em;
+    padding: 0.75em;
     background: rgba(18, 20, 42, 0.6); /* Cosmic Void @ 60% */
     color: #E0B2FF;                     /* Ethereal Glow */
   }
   .flashcard-content h3 {
     margin-top: 0;
-    margin-bottom: 0.5em;
-    font-size: 1.2rem;
+    margin-bottom: 0.25em;
+    font-size: 1rem;
   }
   .flashcard-content p {
     margin: 0;
     font-style: italic;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
+    line-height: 1.2;
   }
   /* Responsive adjustments */
   @media (max-width: 1200px) {
