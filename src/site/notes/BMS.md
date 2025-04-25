@@ -25,41 +25,118 @@
 
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 ## Recent Updates
-| File                                                                        | Last Modified            |
-| --------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                             | 9:58 AM - April 25, 2025 |
-| [[Test 123\|Test 123]]                                                   | 9:53 AM - April 25, 2025 |
-| [[IT/PL (Plans)/ISMS-PL-SEC-CCP\|ISMS-PL-SEC-CCP]]                       | 3:57 PM - April 24, 2025 |
-| [[Templates/03 - Template Werkinstructie\|03 - Template Werkinstructie]] | 2:44 PM - April 24, 2025 |
-| [[Templates/Template Werkinstructie\|Template Werkinstructie]]           | 1:29 PM - April 24, 2025 |
+| File                                                                        | Last Modified             |
+| --------------------------------------------------------------------------- | ------------------------- |
+| [[BMS\|BMS]]                                                             | 11:14 AM - April 25, 2025 |
+| [[Test 456\|Test 456]]                                                   | 11:12 AM - April 25, 2025 |
+| [[Test 123\|Test 123]]                                                   | 11:01 AM - April 25, 2025 |
+| [[IT/PL (Plans)/ISMS-PL-SEC-CCP\|ISMS-PL-SEC-CCP]]                       | 3:57 PM - April 24, 2025  |
+| [[Templates/03 - Template Werkinstructie\|03 - Template Werkinstructie]] | 2:44 PM - April 24, 2025  |
 
 { .block-language-dataview}
 
 <div class="flashcard-grid grid-2">
   <div class="flashcard">
-    <a href="Test-123">
+    <a href="/BMS">
       <div class="flashcard-image">
-        <img src="/IMG/BRS.png" alt="Journal">
+        <img 
+        src="/img/OfficeBollegraaf.png" 
+        alt="BMS">
       </div>
       <div class="flashcard-content">
-        <h3>Journal</h3>
-        <p>Log your thoughts, reflections & insights.</p>
+        <h3>BMS</h3>
+        <p>"Office Bollegraaf" — BMS workflow overview</p>
       </div>
     </a>
   </div>
-
   <div class="flashcard">
-    <a href="Projects">
+    <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
-        <img src="/img/projects.png" alt="Projects">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>Projects</h3>
-        <p>Track and map out your ongoing quests.</p>
+        <h3>PDF to Obsidian</h3>
+        <p>"Shield Structure" — How to import PDFs</p>
       </div>
     </a>
   </div>
 </div>
+
+<style>
+  /* Container sizing */
+  .flashcard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2em auto;
+    max-width: 1200px;
+  }
+
+  .grid-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Flashcard styling */
+  .flashcard {
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+    overflow: hidden;
+  }
+
+  .flashcard:hover {
+    transform: translateY(-5px);
+  }
+
+  .flashcard a {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+  }
+
+  /* Image styling */
+  .flashcard-image {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .flashcard-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+
+  /* Content styling */
+  .flashcard-content {
+    padding: 1em;
+    background: rgba(18, 20, 42, 0.6); /* Cosmic Void @ 60% */
+    color: #E0B2FF;                     /* Ethereal Glow */
+  }
+
+  .flashcard-content h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: 1.2rem;
+  }
+
+  .flashcard-content p {
+    margin: 0;
+    font-style: italic;
+    font-size: 0.9rem;
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .grid-2 {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
 
 ## Most Accessed Notes
 
