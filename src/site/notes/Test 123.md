@@ -2,30 +2,6 @@
 {"dg-publish":true,"permalink":"/test-123/","noteIcon":"default"}
 ---
 
-<!-- GLASS MORPHISM STYLE FLASHCARDS -->
-<div class="flashcards-glass cards-per-row-2">
-  <!-- CARD 1 -->
-  <div class="flashcard-glass">
-    <a href="[[BMS\|BMS]]" class="flashcard-glass-link">
-      <div class="flashcard-glass-image">
-        <img src="/IMG/BRS.png" alt="BMS Dashboard">
-      </div>
-      <div class="flashcard-glass-overlay"></div>
-      <div class="flashcard-glass-title">BMS</div>
-    </a>
-  </div>
-  
-  <!-- CARD 2 -->
-  <div class="flashcard-glass">
-    <a href="[[Finance\|Finance]]" class="flashcard-glass-link">
-      <div class="flashcard-glass-image">
-        <img src="/img/finance-image.png" alt="Finance Dashboard">
-      </div>
-      <div class="flashcard-glass-overlay"></div>
-      <div class="flashcard-glass-title">Finance</div>
-    </a>
-  </div>
-</div>
 
 <!-- COSMIC THEME FLASHCARDS (3 per row) -->
 <div class="flashcards-cosmic cards-per-row-3">
@@ -57,57 +33,14 @@
   
   <!-- CARD 3 -->
   <div class="flashcard-cosmic">
-    <a href="[[Learning\|Learning]]" class="flashcard-cosmic-link">
+    <a href="[[PDF to Obsidian\|PDF to Obsidian]]" class="flashcard-cosmic-link">
       <div class="flashcard-cosmic-image">
-        <img src="/img/learning-image.png" alt="Learning Dashboard">
+        <img src="/IMG/VanDyk.png" alt="Learning Dashboard">
       </div>
       <div class="flashcard-cosmic-content">
         <div class="flashcard-cosmic-title">Learning</div>
         <div class="flashcard-cosmic-glow"></div>
       </div>
-    </a>
-  </div>
-</div>
-
-<!-- MINIMALIST FLASHCARDS (4 per row) -->
-<div class="flashcards-minimal cards-per-row-4">
-  <!-- CARD 1 -->
-  <div class="flashcard-minimal">
-    <a href="[[Journal\|Journal]]" class="flashcard-minimal-link">
-      <div class="flashcard-minimal-image">
-        <img src="/img/journal-image.png" alt="Journal Dashboard">
-      </div>
-      <div class="flashcard-minimal-title">Journal</div>
-    </a>
-  </div>
-  
-  <!-- CARD 2 -->
-  <div class="flashcard-minimal">
-    <a href="[[Media\|Media]]" class="flashcard-minimal-link">
-      <div class="flashcard-minimal-image">
-        <img src="/img/media-image.png" alt="Media Dashboard">
-      </div>
-      <div class="flashcard-minimal-title">Media</div>
-    </a>
-  </div>
-  
-  <!-- CARD 3 -->
-  <div class="flashcard-minimal">
-    <a href="[[Goals\|Goals]]" class="flashcard-minimal-link">
-      <div class="flashcard-minimal-image">
-        <img src="/img/goals-image.png" alt="Goals Dashboard">
-      </div>
-      <div class="flashcard-minimal-title">Goals</div>
-    </a>
-  </div>
-  
-  <!-- CARD 4 -->
-  <div class="flashcard-minimal">
-    <a href="[[Travel\|Travel]]" class="flashcard-minimal-link">
-      <div class="flashcard-minimal-image">
-        <img src="/img/travel-image.png" alt="Travel Dashboard">
-      </div>
-      <div class="flashcard-minimal-title">Travel</div>
     </a>
   </div>
 </div>
