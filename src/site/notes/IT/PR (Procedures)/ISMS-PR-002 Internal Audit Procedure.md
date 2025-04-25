@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/it/pr-procedures/isms-pr-002-internal-audit-procedure/","tags":["procedure","audit"],"noteIcon":"default"}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  

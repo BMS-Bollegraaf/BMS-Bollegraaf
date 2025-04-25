@@ -153,182 +153,188 @@ file:///%UserProfile%/OneDrive%20-%20Bollegraaf%20Recycling%20Solutions/Attachme
 
 
 
-<!-- Flashcards CSS - Place this at the top of your note -->
+<!-- FLASHCARDS CONTAINER -->
+<div class="flashcards-container cards-per-row-2">
+  <!-- CARD 1 -->
+  <div class="flashcard">
+    <a href="[[BMS\|BMS]]" class="flashcard-link">
+      <div class="flashcard-content">
+        <div class="flashcard-image">
+          <img src="/img/BRS.png" alt="Dashboard 1">
+        </div>
+        <div class="flashcard-title">Dashboard 1</div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- CARD 2 -->
+  <div class="flashcard">
+    <a href="[[Dashboard 2\|Dashboard 2]]" class="flashcard-link">
+      <div class="flashcard-content">
+        <div class="flashcard-image">
+          <img src="/img/dashboard2-image.png" alt="Dashboard 2">
+        </div>
+        <div class="flashcard-title">Dashboard 2</div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- CARD 3 -->
+  <div class="flashcard">
+    <a href="[[Dashboard 3\|Dashboard 3]]" class="flashcard-link">
+      <div class="flashcard-content">
+        <div class="flashcard-image">
+          <img src="/img/dashboard3-image.png" alt="Dashboard 3">
+        </div>
+        <div class="flashcard-title">Dashboard 3</div>
+      </div>
+    </a>
+  </div>
+  
+  <!-- CARD 4 -->
+  <div class="flashcard">
+    <a href="[[Dashboard 4\|Dashboard 4]]" class="flashcard-link">
+      <div class="flashcard-content">
+        <div class="flashcard-image">
+          <img src="/img/dashboard4-image.png" alt="Dashboard 4">
+        </div>
+        <div class="flashcard-title">Dashboard 4</div>
+      </div>
+    </a>
+  </div>
+</div>
+
+<!-- CSS STYLES (Add to your theme CSS or a snippet) -->
 <style>
-  /* Common styles for all layouts */
-  .flashcard-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin: 20px 0;
+/* Flashcards Container */
+.flashcards-container {
+  display: grid;
+  gap: 20px;
+  margin: 30px 0;
+  width: 100%;
+}
+
+/* Responsive grid layouts */
+.cards-per-row-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.cards-per-row-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.cards-per-row-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+/* Individual flashcard styles */
+.flashcard {
+  position: relative;
+  height: 240px;
+  border-radius: var(--border-radius, 12px);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+.flashcard::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, 
+    rgba(255,215,122,0.05) 0%, 
+    rgba(224,178,255,0.15) 100%);
+  border-radius: inherit;
+  z-index: 1;
+}
+
+.flashcard::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(30, 37, 78, 0.3);
+  backdrop-filter: blur(8px);
+  border-radius: inherit;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.flashcard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.3);
+}
+
+.flashcard:hover::after {
+  opacity: 1;
+}
+
+/* Flashcard link (covers entire card) */
+.flashcard-link {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+  z-index: 3;
+  position: relative;
+}
+
+/* Flashcard content container */
+.flashcard-content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+  position: relative;
+  z-index: 3;
+}
+
+/* Image container */
+.flashcard-image {
+  flex: 1;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Image styling */
+.flashcard-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.flashcard:hover .flashcard-image img {
+  transform: scale(1.05);
+}
+
+/* Title styling */
+.flashcard-title {
+  background: rgba(18, 20, 42, 0.85);
+  color: var(--text-primary, #E0B2FF);
+  padding: 12px 16px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: center;
+  border-top: 1px solid rgba(255, 215, 122, 0.3);
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 1024px) {
+  .cards-per-row-3, .cards-per-row-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .cards-per-row-2, .cards-per-row-3, .cards-per-row-4 {
+    grid-template-columns: 1fr;
   }
   
   .flashcard {
-    position: relative;
-    border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: all 0.3s ease;
-    cursor: pointer;
-    background-color: var(--background-secondary);
-    height: 220px;
-    display: flex;
-    flex-direction: column;
+    height: 200px;
   }
-  
-  .flashcard:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-  }
-  
-  .flashcard-image {
-    height: 160px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-  }
-  
-  .flashcard-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.5s ease;
-  }
-  
-  .flashcard:hover .flashcard-image img {
-    transform: scale(1.05);
-  }
-  
-  .flashcard-title {
-    padding: 12px 15px;
-    font-weight: 600;
-    text-align: center;
-    font-size: 1.1em;
-    color: var(--text-normal);
-    flex-grow: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  /* Two cards per row */
-  .flashcard-row-2 .flashcard {
-    flex-basis: calc(50% - 10px);
-    max-width: calc(50% - 10px);
-  }
-  
-  /* Three cards per row */
-  .flashcard-row-3 .flashcard {
-    flex-basis: calc(33.333% - 14px);
-    max-width: calc(33.333% - 14px);
-  }
-  
-  /* Four cards per row */
-  .flashcard-row-4 .flashcard {
-    flex-basis: calc(25% - 15px);
-    max-width: calc(25% - 15px);
-  }
-  
-  /* Mobile responsiveness */
-  @media (max-width: 768px) {
-    .flashcard-row-3 .flashcard, 
-    .flashcard-row-4 .flashcard {
-      flex-basis: calc(50% - 10px);
-      max-width: calc(50% - 10px);
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .flashcard-row-2 .flashcard,
-    .flashcard-row-3 .flashcard,
-    .flashcard-row-4 .flashcard {
-      flex-basis: 100%;
-      max-width: 100%;
-    }
-  }
+}
 </style>
-
-<!-- Two Cards Per Row Example -->
-<div class="flashcard-container flashcard-row-2">
-  <!-- Card 1 -->
-  <a href="obsidian://open?vault=DMS&file=BMS" class="flashcard">
-    <div class="flashcard-image">
-      <img src="img/BRS.png" alt="Card Title 1">
-    </div>
-    <div class="flashcard-title">Card Title 1</div>
-  </a>
-  
-  <!-- Card 2 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FAnotherNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath2.jpg" alt="Card Title 2">
-    </div>
-    <div class="flashcard-title">Card Title 2</div>
-  </a>
-</div>
-
-<!-- Three Cards Per Row Example -->
-<div class="flashcard-container flashcard-row-3">
-  <!-- Card 1 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FYourNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath1.jpg" alt="Card Title 1">
-    </div>
-    <div class="flashcard-title">Card Title 1</div>
-  </a>
-  
-  <!-- Card 2 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FAnotherNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath2.jpg" alt="Card Title 2">
-    </div>
-    <div class="flashcard-title">Card Title 2</div>
-  </a>
-  
-  <!-- Card 3 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FThirdNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath3.jpg" alt="Card Title 3">
-    </div>
-    <div class="flashcard-title">Card Title 3</div>
-  </a>
-</div>
-
-<!-- Four Cards Per Row Example -->
-<div class="flashcard-container flashcard-row-4">
-  <!-- Card 1 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FYourNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath1.jpg" alt="Card Title 1">
-    </div>
-    <div class="flashcard-title">Card Title 1</div>
-  </a>
-  
-  <!-- Card 2 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FAnotherNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath2.jpg" alt="Card Title 2">
-    </div>
-    <div class="flashcard-title">Card Title 2</div>
-  </a>
-  
-  <!-- Card 3 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FThirdNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath3.jpg" alt="Card Title 3">
-    </div>
-    <div class="flashcard-title">Card Title 3</div>
-  </a>
-  
-  <!-- Card 4 -->
-  <a href="obsidian://open?vault=YourVaultName&file=Path%2FTo%2FFourthNote" class="flashcard">
-    <div class="flashcard-image">
-      <img src="YourImagePath4.jpg" alt="Card Title 4">
-    </div>
-    <div class="flashcard-title">Card Title 4</div>
-  </a>
-</div>
-
-
-
-
