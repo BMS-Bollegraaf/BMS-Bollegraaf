@@ -11,10 +11,8 @@
 **Classification:**
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
-
 ## **1. PURPOSE**  
 To establish security and risk management expectations for all third parties who access, process, store, or support organizational information, systems, or services.
 ## **2. SCOPE**

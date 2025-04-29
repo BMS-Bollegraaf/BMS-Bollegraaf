@@ -9,7 +9,6 @@
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
-**Tags:** 
 
 ---
 ## **1. PURPOSE**  
