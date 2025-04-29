@@ -3,7 +3,6 @@
 ---
 
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -882,6 +881,130 @@
 
     <script>
         // Function to draw connectors between nodes
-        function
+        function drawConnectors() {
+            // Central node to other nodes
+            drawConnector('connector1', 'node-1', 'node-2');
+            drawConnector('connector2', 'node-1', 'node-3');
+            drawConnector('connector3', 'node-1', 'node-4');
+            drawConnector('connector4', 'node-1', 'node-5');
+        }
 
+        function drawConnector(connectorId, sourceId, targetId) {
+            const sourceNode = document.querySelector('.' + sourceId);
+            const targetNode = document.querySelector('.' + targetId);
+            const connector = document.getElementById(connectorId);
+            
+            if (!sourceNode || !targetNode || !connector) return;
+            
+            // Get positions
+            const sourceRect = sourceNode.getBoundingClientRect();
+            const targetRect = targetNode.getBoundingClientRect();
+            const mapContainer = document.querySelector('.map-container').getBoundingClientRect();
+            
+            // Calculate relative positions within the container
+            const sourceX = sourceRect.left + sourceRect.width/2 - mapContainer.left;
+            const sourceY = sourceRect.top + sourceRect.height/2 - mapContainer.top;
+            const targetX = targetRect.left + targetRect.width/2 - mapContainer.left;
+            const targetY = targetRect.top + targetRect.height/2 - mapContainer.top;
+            
+            // Calculate connector length and angle
+            const length = Math.sqrt(Math.pow(targetX - sourceX, 2) + Math.pow(targetY - sourceY, 2));
+            const angle = Math.atan2(targetY - sourceY, targetX - sourceX) * 180 / Math.PI;
+            
+            // Set connector style
+            connector.style.width = `${length}px`;
+            connector.style.left = `${sourceX}px`;
+            connector.style.top = `${sourceY}px`;
+            connector.style.transform = `rotate(${angle}deg)`;
+        }
 
+        // Random note function
+        function loadRandomNote() {
+            const randomThoughts = [
+                "The best way to predict the future is to invent it.",
+                "Knowledge is like a garden: if it is not cultivated, it cannot be harvested.",
+                "The more I learn, the more I realize how much I don't know.",
+                "Everything is connected in ways we're just beginning to understand.",
+                "Creativity is intelligence having fun.",
+                "Your mind is a garden, your thoughts are the seeds. You can grow flowers or you can grow weeds.",
+                "A mind that is stretched by a new experience can never go back to its old dimensions.",
+                "The art of writing is the art of discovering what you believe.",
+                "The universe is not required to be in perfect harmony with human ambition."
+            ];
+            
+            const randomIndex = Math.floor(Math.random() * randomThoughts.length);
+            document.getElementById('random-note-content').textContent = randomThoughts[randomIndex];
+            
+            // Add transition effect
+            const noteElement = document.getElementById('random-note-content');
+            noteElement.style.opacity = '0';
+            setTimeout(() => {
+                noteElement.textContent = randomThoughts[randomIndex];
+                noteElement.style.opacity = '1';
+            }, 300);
+        }
+
+        // Update the last updated date
+        function updateLastUpdated() {
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            document.getElementById('last-updated').textContent = new Date().toLocaleDateString(undefined, options);
+        }
+
+        // Header parallax effect
+        function setupHeaderParallax() {
+            const header = document.querySelector('.header');
+            const shapes = document.querySelectorAll('.shape');
+            
+            window.addEventListener('scroll', () => {
+                const scrollTop = window.scrollY;
+                const headerRect = header.getBoundingClientRect();
+                
+                if (headerRect.bottom > 0) {
+                    shapes.forEach((shape, index) => {
+                        const speed = 0.2 + (index * 0.1);
+                        const yPos = scrollTop * speed;
+                        shape.style.transform = `translateY(${yPos}px)`;
+                    });
+                }
+            });
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            loadRandomNote();
+            updateLastUpdated();
+            setupHeaderParallax();
+            
+            // Draw connectors with slight delay to ensure positions are calculated
+            setTimeout(drawConnectors, 100);
+            
+            // Redraw connectors on window resize
+            window.addEventListener('resize', function() {
+                setTimeout(drawConnectors, 100);
+            });
+            
+            // Add transition to the random note text
+            document.getElementById('random-note-content').style.transition = 'opacity 0.3s ease';
+            
+            // Add animation class to nodes
+            const nodes = document.querySelectorAll('.node');
+            nodes.forEach((node, index) => {
+                if (index !== 0) { // Skip the central node which already has float animation
+                    node.style.animation = `float ${5 + index}s ease-in-out infinite ${index}s`;
+                }
+            });
+        });
+        
+        // Add search functionality 
+        const searchBox = document.querySelector('.search-box');
+        searchBox.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                const searchTerm = searchBox.value.trim().toLowerCase();
+                if (searchTerm) {
+                    // This would normally redirect to search results
+                    alert(`Searching for: ${searchTerm}`);
+                    // In real implementation replace with:
+                    // window.location.href = `./search?q=${encodeURIComponent(searchTerm)}`;
+                }
+            }
+        });
