@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-004-password-policy/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/it/po-policies/isms-po-sec-004-password-policy/","tags":["policy","password"],"noteIcon":"default"}
 ---
 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
-**Approved By:** [[Functions/COO\|COO]]]
+**Approved By:** [[Functions/COO\|COO]]
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:** 
 **ISO/IEC 27001 Controls:** 5.10, 8.2, 8.3, 8.4
-**Tags:** #policy #password
 
 ---
 ## **1. PURPOSE**  
@@ -36,7 +35,7 @@ This policy applies to all employees, contractors, vendors, and third parties wh
 - Password changes are required **only when compromise is suspected** or in response to a security incident.
 - Users must change their password immediately if they suspect it has been exposed.
 ### 3.4 Failed Login Attempts
-- Accounts must be locked after **3 consecutive failed login attempts**.
+- Accounts must be locked after **5 consecutive failed login attempts**.
 - Locked accounts can only be unlocked by the IT administrator after identity verification.
 ### 3.5 Administrative Passwords
 - Privileged account passwords must be stored in a secure password vault (Keeper).
