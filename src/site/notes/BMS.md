@@ -274,13 +274,13 @@
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
 ## Recent Updates
-| File                                                                                                                                    | Last Modified           |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[IT/Policies/ISMS-PO-002 Information Security Policy\|ISMS-PO-002 Information Security Policy]]                                     | 12:16 PM - May 01, 2025 |
-| [[IT/Policies/ISMS-PO-001 Information Security Management System (ISMS)\|ISMS-PO-001 Information Security Management System (ISMS)]] | 11:18 AM - May 01, 2025 |
-| [[IT/Procudures/ISMS-PR-SEC-006 Password Manager Procedure\|ISMS-PR-SEC-006 Password Manager Procedure]]                             | 11:14 AM - May 01, 2025 |
-| [[IT/Procudures/ISMS-PR-SEC-008 Malware Protection Procedure\|ISMS-PR-SEC-008 Malware Protection Procedure]]                         | 11:14 AM - May 01, 2025 |
-| [[IT/Procudures/ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure\|ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure]]           | 11:14 AM - May 01, 2025 |
+| File                                                                                                                                                            | Last Modified          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[IT/SOP (Standard Operating Procedure)/ISMS-PO-IT-SOP-LAPS\|ISMS-PO-IT-SOP-LAPS]]                                                                           | 3:49 PM - May 01, 2025 |
+| [[Templates/Template Policy IT\|Template Policy IT]]                                                                                                         | 3:49 PM - May 01, 2025 |
+| [[IT/SOP (Standard Operating Procedure)/ISMS-SOP-IT-SECWR Secure Workstation & Remote Access SOP\|ISMS-SOP-IT-SECWR Secure Workstation & Remote Access SOP]] | 3:49 PM - May 01, 2025 |
+| [[IT/Procudures/ISMS-PR-SEC-002 Acceptable Use Procedure\|ISMS-PR-SEC-002 Acceptable Use Procedure]]                                                         | 3:48 PM - May 01, 2025 |
+| [[IT/SOP (Standard Operating Procedure)/ISMS-SOP-IT-TOPACCESS TOPdesk Access Request SOP\|ISMS-SOP-IT-TOPACCESS TOPdesk Access Request SOP]]                 | 3:21 PM - May 01, 2025 |
 
 { .block-language-dataview}
 ## Most Accessed Notes

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/it/procudures/isms-pr-sec-004-physical-and-environmental-security-produre/","noteIcon":"default"}
 ---
 
- 
 **Effective Date:** 21-03-2025  
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  

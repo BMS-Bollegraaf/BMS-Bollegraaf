@@ -9,9 +9,7 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:**
 **ISO/IEC 27001 Controls:** 5.9, 5.10, 5.11, 5.36
-**Tags:** #policy #compliance  #security #dmarc #email
 
 ---
 ## **1. PURPOSE**  

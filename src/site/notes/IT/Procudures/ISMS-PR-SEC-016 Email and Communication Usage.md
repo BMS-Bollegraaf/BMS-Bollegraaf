@@ -72,7 +72,7 @@ This procedure applies to:
 | [[IT/Policies/ISMS-PO-SEC-011 Email and Communication Policy\|ISMS-PO-SEC-011 Email and Communication Policy]] |
 | [[IT/Procudures/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]    |
 | [[IT/Policies/ISMS-PO-SEC-015 Data Protection Policy\|ISMS-PO-SEC-015 Data Protection Policy]]         |
-| Email Signature Standard                           |
+| [[IT/Standards/ISMS-ST-SEC-001 Email Signature Standard\|ISMS-ST-SEC-001 Email Signature Standard]]       |
 | Secure Communication Quick Quide                   |
 | Email Access Recovation Checklist                  |
 |                                                    |

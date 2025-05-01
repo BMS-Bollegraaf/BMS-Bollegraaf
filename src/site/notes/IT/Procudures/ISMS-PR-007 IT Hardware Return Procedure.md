@@ -8,7 +8,6 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:**
 **ISO/IEC 27001 Controls:** A.5.9, A.6.2, A.8.1.3, A.11.2.7
 
 ---

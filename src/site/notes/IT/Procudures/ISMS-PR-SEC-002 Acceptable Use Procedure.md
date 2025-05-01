@@ -8,11 +8,8 @@
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
-**Classification:**
-**Related Documents:**
+**Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 6.3, 8.1, 5.36
-**Tags:** #policy #compliance  #security #dmarc #email
-
 
 ---
 ## **1. PURPOSE**  
@@ -77,8 +74,7 @@ This procedure will be reviewed **annually**, or:
 | [[IT/Policies/ISMS-PO-SEC-011 Email and Communication Policy\|ISMS-PO-SEC-011 Email and Communication Policy]]             |
 | [[IT/Procudures/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]                |
 | [[IT/Forms/ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form\|ISMS-FM-SEC-AUP  Acceptable Use Policy Acknowlegement Form]] |
-| Secure Workstation and Remote Access SOP                       |
-|                                                                |
+| [[IT/SOP (Standard Operating Procedure)/ISMS-SOP-IT-SECWR Secure Workstation & Remote Access SOP\|ISMS-SOP-IT-SECWR Secure Workstation & Remote Access SOP]]   |
 
 
 

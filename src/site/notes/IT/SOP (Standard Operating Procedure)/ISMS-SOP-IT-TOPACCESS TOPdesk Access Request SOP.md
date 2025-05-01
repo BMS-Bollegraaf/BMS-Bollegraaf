@@ -13,18 +13,7 @@
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.3, 8.4, 5.36
 
 ---
-## **Table of Contents**  
-1. [PURPOSE](#purpose)  
-2. [SCOPE](#scope)  
-3. [ACCESS LEVELS IN TOPDESK](#policy statement)  
-4. [ROLES AND RESPONSIBILITIES](#roles-and-responsibilities)  
-5. [ROLE MODIFICATION PROCEDURE](#dmarc)  
-6. [ACCESS REVOCATION PROCEDURE](#responsibilities)  
-7. [MONITORING & REVIEW](#compliance)  
-8. [ROLE AND RESPONSIBILITIES](#registrations)
-9. [RELATED DOCUMENTS](9)
 
----
 ## **1. PURPOSE**  
 To establish a secure and auditable procedure for requesting, approving, assigning, modifying, and revoking access to the **TOPdesk platform** in compliance with organizational access control policies. 
 ## **2. SCOPE**

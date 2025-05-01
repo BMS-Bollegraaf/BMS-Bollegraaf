@@ -8,7 +8,6 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**Related Documents:** 
 **ISO/IEC 27001 Controls:** 7.5
 
 ---
