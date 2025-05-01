@@ -9,7 +9,7 @@ By requesting and receiving FTP access to [[Companies/Bollegraaf Recycling Solut
 2. **User Responsibility**  
     The requester is responsible for keeping their login credentials confidential and must not share them with others.
 3. **Security Compliance**  
-    The requester must ensure the use of secure FTP methods only (e.g., **SFTP** or **FTPS**), as per the company’s FTP Access Procedure [[IT/PR (Procedures)/ISMS-PR-SEC-014 FTP Access Procedure\|ISMS-PR-SEC-014 FTP Access Procedure]]).
+    The requester must ensure the use of secure FTP methods only (e.g., **SFTP** or **FTPS**), as per the company’s FTP Access Procedure [[IT/Procudures/ISMS-PR-SEC-014 FTP Access Procedure\|ISMS-PR-SEC-014 FTP Access Procedure]]).
 4. **Data Sensitivity**  
     Any files transferred via FTP must comply with data classification and handling rules set forth in the company’s Information Security Policy.
 5. **Audit and Monitoring**  

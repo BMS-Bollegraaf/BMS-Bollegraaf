@@ -58,7 +58,7 @@ If you're unsure contact [[Functions/IT Support\|IT Support]]
 
 | Proces                                     |
 | ------------------------------------------ |
-| [[IT/PO (Policies)/ISMS-PO-SEC-012 Secure Printing Policy\|ISMS-PO-SEC-012 Secure Printing Policy]] |
+| [[IT/Policies/ISMS-PO-SEC-012 Secure Printing Policy\|ISMS-PO-SEC-012 Secure Printing Policy]] |
 
 
 

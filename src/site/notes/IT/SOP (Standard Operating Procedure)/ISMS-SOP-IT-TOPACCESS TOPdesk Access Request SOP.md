@@ -59,7 +59,7 @@ This SOP applies to:
     - Assigns user to appropriate categories or groups
 - Provisioning logged in the **Access Control Register**
 #### Step 4: **Notification**
-- User receives access confirmation and link to **[[IT/PO (Policies)/ISMS-PO-SEC-002 Acceptable Use Policy\|ISMS-PO-SEC-002 Acceptable Use Policy]]**
+- User receives access confirmation and link to **[[IT/Policies/ISMS-PO-SEC-002 Acceptable Use Policy\|ISMS-PO-SEC-002 Acceptable Use Policy]]**
 - For elevated roles: short briefing or SOP review is required
 ## **5. ROLE MODIFICATION PROCEDURE**  
 - Triggered by:
@@ -92,10 +92,10 @@ All revocations are logged and reviewed quarterly
 
 | Process                                                      |
 | ------------------------------------------------------------ |
-| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                    |
-| [[IT/PR (Procedures)/ISMS-PR-IT-002 Change Management Procedure\|ISMS-PR-IT-002 Change Management Procedure]]               |
+| [[IT/Policies/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                    |
+| [[IT/Procudures/ISMS-PR-IT-002 Change Management Procedure\|ISMS-PR-IT-002 Change Management Procedure]]               |
 | [[IT/SOP (Standard Operating Procedure)/ISMS-SOP-IT-SECWR Secure Workstation & Remote Access SOP\|ISMS-SOP-IT-SECWR Secure Workstation & Remote Access SOP]] |
-| [[IT/PO (Policies)/ISMS-PO-SEC-002 Acceptable Use Policy\|ISMS-PO-SEC-002 Acceptable Use Policy]]                    |
+| [[IT/Policies/ISMS-PO-SEC-002 Acceptable Use Policy\|ISMS-PO-SEC-002 Acceptable Use Policy]]                    |
 | TOPdesk Access Request Form (fillable PDF)                   |
 | Access Control Register (Excel)                              |
 | Role Matrix & Description Sheet                              |

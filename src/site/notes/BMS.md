@@ -274,13 +274,13 @@
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
 ## Recent Updates
-| File                                                                                                                                               | Last Modified            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[IT/PR (Procedures)/ISMS-PR-IT-005 Authorization for Autodesk Accounts and Apps\|ISMS-PR-IT-005 Authorization for Autodesk Accounts and Apps]] | 9:50 AM - April 30, 2025 |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-016 Email and Communication Usage\|ISMS-PR-SEC-016 Email and Communication Usage]]                             | 9:50 AM - April 30, 2025 |
-| [[IT/PO (Policies)/ISMS-PO-SEC-004 Password Policy\|ISMS-PO-SEC-004 Password Policy]]                                                           | 9:30 AM - April 30, 2025 |
-| [[IT/Guidelines/ISMS-GD-IT-013-A VPN Usage Guidelines\|ISMS-GD-IT-013-A VPN Usage Guidelines]]                                                  | 4:23 PM - April 29, 2025 |
-| [[BMS\|BMS]]                                                                                                                                    | 3:30 PM - April 29, 2025 |
+| File                                                                                                                                    | Last Modified           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[IT/Policies/ISMS-PO-002 Information Security Policy\|ISMS-PO-002 Information Security Policy]]                                     | 12:16 PM - May 01, 2025 |
+| [[IT/Policies/ISMS-PO-001 Information Security Management System (ISMS)\|ISMS-PO-001 Information Security Management System (ISMS)]] | 11:18 AM - May 01, 2025 |
+| [[IT/Procudures/ISMS-PR-SEC-006 Password Manager Procedure\|ISMS-PR-SEC-006 Password Manager Procedure]]                             | 11:14 AM - May 01, 2025 |
+| [[IT/Procudures/ISMS-PR-SEC-008 Malware Protection Procedure\|ISMS-PR-SEC-008 Malware Protection Procedure]]                         | 11:14 AM - May 01, 2025 |
+| [[IT/Procudures/ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure\|ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure]]           | 11:14 AM - May 01, 2025 |
 
 { .block-language-dataview}
 ## Most Accessed Notes

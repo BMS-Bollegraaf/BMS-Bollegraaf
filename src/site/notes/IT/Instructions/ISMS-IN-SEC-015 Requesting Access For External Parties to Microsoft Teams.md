@@ -56,9 +56,9 @@ This instruction applies to:
 
 | Process                                                      |
 | ------------------------------------------------------------ |
-| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                    |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-014 FTP Access Procedure\|ISMS-PR-SEC-014 FTP Access Procedure]] (Similair workflow) |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]              |
+| [[IT/Policies/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]                    |
+| [[IT/Procudures/ISMS-PR-SEC-014 FTP Access Procedure\|ISMS-PR-SEC-014 FTP Access Procedure]] (Similair workflow) |
+| [[IT/Procudures/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]              |
 | External Access Request Form                                 |
 | Third Party Management Policy                                |
 | NDA Template / Supplier Agreement                            |

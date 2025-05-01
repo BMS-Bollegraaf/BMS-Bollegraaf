@@ -58,14 +58,14 @@ IT Security will:
 Failure to follow this instruction may result in:
 - Disciplinary action
 - Revocation of system access
-- Incident reporting as per **[[IT/PR (Procedures)/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]**
+- Incident reporting as per **[[IT/Procudures/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]**
 ## **10. RELATED DOCUMENTS**
 
 | Process                                           |
 | ------------------------------------------------- |
-| [[IT/PO (Policies)/ISMS-PO-SEC-004 Password Policy\|ISMS-PO-SEC-004 Password Policy]]               |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-005 Password Management Procedure\|ISMS-PR-SEC-005 Password Management Procedure]] |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-006 Password Manager Procedure\|ISMS-PR-SEC-006 Password Manager Procedure]]    |
+| [[IT/Policies/ISMS-PO-SEC-004 Password Policy\|ISMS-PO-SEC-004 Password Policy]]               |
+| [[IT/Procudures/ISMS-PR-SEC-005 Password Management Procedure\|ISMS-PR-SEC-005 Password Management Procedure]] |
+| [[IT/Procudures/ISMS-PR-SEC-006 Password Manager Procedure\|ISMS-PR-SEC-006 Password Manager Procedure]]    |
 | Vault Setup Checklist                             |
 | Master Password Guidelines                        |
 | Password Rotation Log                             |

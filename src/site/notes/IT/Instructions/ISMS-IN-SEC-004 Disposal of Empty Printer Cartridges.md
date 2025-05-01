@@ -48,8 +48,8 @@ Applies to all:
 
 | Process                                                 |
 | ------------------------------------------------------- |
-| [[IT/PR (Procedures)/ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure\|ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure]] |
-| [[IT/PO (Policies)/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]               |
+| [[IT/Procudures/ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure\|ISMS-PR-SEC-009 Secure Disposal and ReUse Procedure]] |
+| [[IT/Policies/ISMS-PO-SEC-006 Access Control Policy\|ISMS-PO-SEC-006 Access Control Policy]]               |
 | Asset Disposal Log                                      |
 | Supplier Agreements (recycling programs)                |
 | Office Waste Handling SOP                               |
