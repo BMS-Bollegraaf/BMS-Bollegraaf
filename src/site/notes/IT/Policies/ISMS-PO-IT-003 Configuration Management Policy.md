@@ -7,7 +7,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 
@@ -56,7 +56,7 @@ This policy applies to:
 | ------------------------------------------------------- | --------------------------------------------------------- |
 | [[Functions/IT Engineer\|IT Engineer]]                                         | Implement and maintain SPF, DKIM and DMARC configurations |
 | [[Functions/System Owners\|System Owners]]                                       | Approve configuration changes affecting their assets      |
-| [[Functions/ISO - Information Security Officer\|ISO - Information Security Officer]] / [[Functions/IT Manager\|IT Manager]] | Review configuration standards and perform audits         |
+| [[Functions/ISO - Information Security Officer\|ISO - Information Security Officer]] / [[Functions/IT Managers\|IT Managers]] | Review configuration standards and perform audits         |
 | Developers (if applicable)                              | Follow secure configuration and deployment practices      |
 ## **5. COMPLIANCE**  
 Failure to comply may lead to system outages, vulnerabilities, audit findings, or disciplinary action.

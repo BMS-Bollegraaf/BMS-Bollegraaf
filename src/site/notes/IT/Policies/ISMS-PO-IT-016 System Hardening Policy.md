@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 8.9, 8.7, 5.32, 8.8
 **Tags:** #policy #compliance  #security #dmarc #email
@@ -62,7 +62,7 @@ This policy applies to:
 | **Role**          | **Responsibility**                                        |
 | ----------------- | --------------------------------------------------------- |
 | [[IT/IT\|IT]] / DevOps   | Implement and maintain hardened configurations            |
-| [[Functions/IT Manager\|IT Manager]]    | Define baselines, audit compliance, and enforce standards |
+| [[Functions/IT Managers\|IT Managers]]    | Define baselines, audit compliance, and enforce standards |
 | [[Functions/System Owners\|System Owners]] | Approve deviations and support remediation                |
 | [[Functions/ISMS Manager\|ISMS Manager]]  | Monitor policy compliance and escalate risks              |
 ## **5. EXCEPTIONS**

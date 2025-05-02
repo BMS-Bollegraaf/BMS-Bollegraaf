@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 18-04-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]] / [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 6.1, 6.2, 6.3, 8.1, 8.2, 8.4
 
@@ -58,7 +58,7 @@ This procedure applies to:
 | Confirm assets are used securely and accounted for | [[Functions/IT Support\|IT Support]]          |
 | Close initial onboarding ticket                    | [[IT/IT\|IT]] / [[Functions/IT Support\|IT Support]] |
 ## **8. EXCEPTIONS AND ESCALATIONS**
-- Any delays in onboarding steps must be reported to the **[[Functions/IT Manager\|IT Manager]]**
+- Any delays in onboarding steps must be reported to the **[[Functions/IT Managers\|IT Managers]]**
 - Exceptions to access or device policies must be **documented and approved**
 ## **9. RELATED DOCUMENTS**
 

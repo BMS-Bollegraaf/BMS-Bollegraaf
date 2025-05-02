@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 5.31, 5.32, 5.34, 5.35, 5.36, 8.5
 
@@ -60,7 +60,7 @@ This policy applies to:
 | **Role**         | **Responsibility**                                                  |
 | ---------------- | ------------------------------------------------------------------- |
 | [[IT/Servicedesk/Servicedesk\|Servicedesk]]  | First-line support, incident logging, ticket triage in  [[IT/Applications/TOPDesk/TOPdesk\|TOPdesk]] |
-| [[Functions/IT Manager\|IT Manager]]   | Oversee service delivery, reporting, and escalations                |
+| [[Functions/IT Managers\|IT Managers]]   | Oversee service delivery, reporting, and escalations                |
 | Change Manager   | Approve and document changes                                        |
 | Service Owners   | Define and review service KPIs, SLAs                                |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure ITSM aligns with ISMS and security requirements              |

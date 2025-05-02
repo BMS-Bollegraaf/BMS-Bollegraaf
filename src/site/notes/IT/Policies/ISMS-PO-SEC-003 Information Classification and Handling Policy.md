@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 
@@ -49,7 +49,7 @@ All information shall be classified into one of the following categories:
 | Data Owners    | Assign classification and approve sharing/distribution                    |
 | Users          | Handle information according to its classificationthreats                 |
 | IT /security   | Implement technical controls to support classification handlingconfigured |
-| [[Functions/IT Manager\|IT Manager]] | Oversee classification compliance and training                            |
+| [[Functions/IT Managers\|IT Managers]] | Oversee classification compliance and training                            |
 ## **5. TRAINING AND AWARENESS**  
 All users must undergo regular training on information classification and handling, especially during onboarding and annually.
 ## **6. COMPLIANCE**  

@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 
@@ -62,7 +62,7 @@ This policy applies to:
 
 | **Role**         | **Responsibility**                                        |
 | ---------------- | --------------------------------------------------------- |
-| [[Functions/IT Manager\|IT Manager]]   | Oversee implementation of secure IT practices             |
+| [[Functions/IT Managers\|IT Managers]]   | Oversee implementation of secure IT practices             |
 | [[Functions/IT Engineer\|IT Engineer]]  | Maintain, patch, monitor, and secure systems              |
 | All Employees    | Follow policies, report incidents, avoid unsafe practices |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure IT security aligns with the ISMS framework         |

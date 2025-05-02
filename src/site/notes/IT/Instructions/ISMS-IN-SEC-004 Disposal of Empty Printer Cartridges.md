@@ -7,7 +7,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/IT Support\|IT Support]]
+**Owner:** [[Functions/IT Managers\|IT Managers]] / [[Functions/IT Support\|IT Support]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.11, 8.10, 5.36
 

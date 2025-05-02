@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]] / [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 8.1, 8.23, 5.25, 5.31
 
@@ -55,7 +55,7 @@ To define the secure, responsible, and auditable use of **[[IT/Applications/Ninj
 | Role             | Resonsibility                                             |
 | ---------------- | --------------------------------------------------------- |
 | [[Functions/IT Engineer\|IT Engineer]]  | Use RMM platform in line with this policy, log actions    |
-| [[Functions/IT Manager\|IT Manager]]   | Monitor alerts and integrate with SIEM/EDR                |
+| [[Functions/IT Managers\|IT Managers]]   | Monitor alerts and integrate with SIEM/EDR                |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Conduct quarterly access reviews and policy audit         |
 | End Users        | Report any suspicious RMM activity or unauthorized access |
 ## **11. REVIEW & UPDATES**

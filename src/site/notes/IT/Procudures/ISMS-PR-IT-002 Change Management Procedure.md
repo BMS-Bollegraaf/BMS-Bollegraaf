@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/ISMS Manager\|ISMS Manager]] / [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/ISMS Manager\|ISMS Manager]] / [[Functions/IT Managers\|IT Managers]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.32, 5.36, 5.33, 8.25
 

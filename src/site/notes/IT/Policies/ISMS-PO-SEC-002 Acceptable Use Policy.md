@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]
-**Owner:** [[Functions/IT Manager\|IT Manager]]
+**Owner:** [[Functions/IT Managers\|IT Managers]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.11, 8.1, 8.7
 
@@ -56,7 +56,7 @@ Upon termination or change of role, all organizational devices, documents, crede
 | Users          | Comply with the AUP and report violations         |
 | [[IT/IT\|IT]]         | Enforce technical controls and monitor usageats   |
 | [[HR/HR\|HR]]         | Include AUP in onboarding/offboarding processes   |
-| [[Functions/IT Manager\|IT Manager]] | Maintain and review the policy periodicallyn laws |
+| [[Functions/IT Managers\|IT Managers]] | Maintain and review the policy periodicallyn laws |
 ## **5. COMPLIANCE**  
 Violations may lead to:
 - Suspension or revocation of access
