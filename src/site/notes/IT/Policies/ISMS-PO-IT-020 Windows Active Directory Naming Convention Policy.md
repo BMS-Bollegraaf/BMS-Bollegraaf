@@ -72,9 +72,6 @@ Applies to:
 | ----------------------------------- | --------------------------- |
 | grp-role-[Function]-[Location]-rbac | grp-role-cco-lrs-rbac       |
 |                                     | grp-role-reception-brs-rbac |
-
-
-
 ## **5. ENVIRONMENT SUFFIXES**  
 | Code  | Meaning           |
 | ----- | ----------------- |
