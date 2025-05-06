@@ -276,8 +276,8 @@
 ## Recent Updates
 | File                                                                                                                                        | Last Modified          |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management\|QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management]] | 4:20 PM - May 06, 2025 |
 | [[QHSE/PR (Procedures)/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]]                                                        | 4:12 PM - May 06, 2025 |
-| [[QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management\|QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management]] | 3:49 PM - May 06, 2025 |
 | [[Untitled 2\|Untitled 2]]                                                                                                               | 3:34 PM - May 06, 2025 |
 | [[Untitled 1\|Untitled 1]]                                                                                                               | 3:29 PM - May 06, 2025 |
 | [[Untitled\|Untitled]]                                                                                                                   | 3:27 PM - May 06, 2025 |
