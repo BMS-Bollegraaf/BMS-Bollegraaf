@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.30, 5.31, 8.13
 
@@ -63,7 +63,7 @@ All patching activities must follow the Change Management Procedure, including:
 | [[Functions/IT Engineer\|IT Engineer]]                        | Identify, test, and apply patches |
 | [[Functions/ISO - Information Security Officer\|ISO - Information Security Officer]] | Evaluate patch urgency and risk   |
 | Asset Owners                           | Coordinate downtime for patching  |
-| [[Functions/IT Managers\|IT Managers]]                         | Periodically review compliance    |
+| [[Functions/IT Manager\|IT Manager]]                         | Periodically review compliance    |
 
 ## **5.  COMPLIANCE AND ENFORCEMENT**
 Failure to comply with this policy may result in increased security risk, data breaches, or disciplinary actions in line with the organization's policies.

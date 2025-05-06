@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 
 
@@ -40,7 +40,7 @@ Information security objectives will be established and reviewed regularly. Thes
 | **Role**            | **Responsibility**                                        |
 | ------------------- | --------------------------------------------------------- |
 | Top management      | Approve and support the ISMS; allocate resources          |
-| [[Functions/IT Managers\|IT Managers]]      | Maintain and monitor the ISMS frameworkeats               |
+| [[Functions/IT Manager\|IT Manager]]      | Maintain and monitor the ISMS frameworkeats               |
 | All Employees       | Adhere to policies, report incidents, protect information |
 | Internal Audit Team | Conduct periodic reviews and assessmentsprotection laws   |
 ## **6. POLICY REVIEW**  

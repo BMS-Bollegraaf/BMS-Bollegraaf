@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [[Functions/COO - Chief Operating Officer\|COO - Chief Operating Officer]]
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:** 
 **ISO/IEC 27001 Controls:** 5.10, 8.2, 8.3, 8.4
@@ -51,7 +51,7 @@ This policy applies to all employees, contractors, vendors, and third parties wh
 | --------------- | --------------------------------------------------------- |
 | Users           | Create and maintain secure passwords                      |
 | [[Functions/IT Engineer\|IT Engineer]] | Enforce technical controls, MFA, and access policies      |
-| [[Functions/IT Managers\|IT Managers]]  | Review policy effectiveness and compliance                |
+| [[Functions/IT Manager\|IT Manager]]  | Review policy effectiveness and compliance                |
 | [[HR/HR\|HR]]          | Support awareness training during onboarding and annually |
 ## **5.  TRAINING AND AWARENESS**
 All staff must complete security awareness training on password hygiene during onboarding and at least annually thereafter.

@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 
 **ISO/IEC 27001 Controls:** 5.9, 5.10, 8.9, 8.28, 8.8
 
@@ -63,7 +63,7 @@ This policy applies to:
 
 | **Role**         | **Responsibility**                                 |
 | ---------------- | -------------------------------------------------- |
-| [[Functions/IT Managers\|IT Managers]]   | Maintain software inventory and enforce controls   |
+| [[Functions/IT Manager\|IT Manager]]   | Maintain software inventory and enforce controls   |
 | [[Procurement/Procurement\|Procurement]]  | Validate license agreements and purchase approvals |
 | End Users        | Use software responsibly and report issues         |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure compliance and alignment with ISO/IEC 27001 |

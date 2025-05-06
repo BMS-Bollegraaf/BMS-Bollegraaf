@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.3, 8.4
 
@@ -56,7 +56,7 @@ This policy applies to:
 | [[Functions/IT Engineer\|IT Engineer]] | Provision and revoke access, maintain logsats                |
 | Managers        | Approve access requests for their team members               |
 | Users           | Use access rights responsibly and report any anomalies       |
-| [[Functions/IT Managers\|IT Managers]]  | Oversee access control compliance and audits                 |
+| [[Functions/IT Manager\|IT Manager]]  | Oversee access control compliance and audits                 |
 ## 5. COMPLIANCE
 Violation of this policy may lead to disciplinary action, revocation of access, or legal consequences depending on the severity.
 ## 6. MONITORING AND LOGGING

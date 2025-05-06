@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]] [[Functions/ISO - Information Security Officer\|ISO - Information Security Officer]]
+**Owner:** [[Functions/IT Manager\|IT Manager]] [[Functions/ISO - Information Security Officer\|ISO - Information Security Officer]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.12, 7.3, 8.11, 8.30
 

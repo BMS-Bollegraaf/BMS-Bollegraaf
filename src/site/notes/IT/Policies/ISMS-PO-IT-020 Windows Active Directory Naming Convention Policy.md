@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]] [[Functions/IT Engineer\|IT Engineer]]
+**Owner:** [[Functions/IT Manager\|IT Manager]] [[Functions/IT Engineer\|IT Engineer]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.4, 5.36
 
@@ -82,7 +82,7 @@ Applies to:
 | `lab` | Lab / Training    |
 | `acc` | Acceptance        |
 ## **6. CHANGE CONTROL**  
-- Naming exceptions must be approved by [[Functions/IT Managers\|IT Managers]] or [[Functions/ISMS Manager\|ISMS Manager]]
+- Naming exceptions must be approved by [[Functions/IT Manager\|IT Manager]] or [[Functions/ISMS Manager\|ISMS Manager]]
 - All changes must follow the **[[IT/Procudures/ISMS-PR-IT-002 Change Management Procedure\|ISMS-PR-IT-002 Change Management Procedure]]**
 ## **7. ROLES AND RESONSIBILITIES**  
 

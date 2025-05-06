@@ -7,7 +7,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]] / [[Functions/ISMS Manager\|ISMS Manager]]
+**Owner:** [[Functions/IT Manager\|IT Manager]] / [[Functions/ISMS Manager\|ISMS Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 8.1, 8.2, 8.3, 8.4, 5.36
@@ -40,7 +40,7 @@ This SOP applies to:
     - Planned start date
 #### Step 2: **Approval**
 - Line Manager and System Owner must approve request
-- [[Functions/ISMS Manager\|ISMS Manager]] or [[Functions/IT Managers\|IT Managers]] must approve **Specialist/Admin** roles
+- [[Functions/ISMS Manager\|ISMS Manager]] or [[Functions/IT Manager\|IT Manager]] must approve **Specialist/Admin** roles
 #### Step 3: **Provisioning**
 - IT Admin:
     - Creates account or modifies role in TOPdesk

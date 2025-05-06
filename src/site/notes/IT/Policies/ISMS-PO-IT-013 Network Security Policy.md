@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 8.20, 8.21, 8.22, 8.15, 5.10
 
@@ -60,7 +60,7 @@ This policy applies to:
 | **Role**         | **Responsibility**                                         |
 | ---------------- | ---------------------------------------------------------- |
 | [[Functions/IT Engineer\|IT Engineer]]  | Implement, monitor, and maintain network security controls |
-| [[Functions/IT Managers\|IT Managers]]   | Review network logs and respond to threats                 |
+| [[Functions/IT Manager\|IT Manager]]   | Review network logs and respond to threats                 |
 | End Users        | Follow acceptable use and connection policies              |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure compliance and alignment with ISO 27001             |
 ## **5. COMPLIANCE**  

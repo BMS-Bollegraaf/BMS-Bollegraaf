@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Related Documents:**
 **ISO/IEC 27001 Controls:** 
 
@@ -65,7 +65,7 @@ All paper documents classified as **Confidential** or **Internal Use** must be:
 | ------------------- | ------------------------------------------------ |
 | [[IT/IT\|IT]]              | Identify and manage disposal of IT assets        |
 | Asset Owners        | Confirm readiness and authorization for disposal |
-| [[Functions/IT Managers\|IT Managers]]      | Verify secure data deletion or destruction       |
+| [[Functions/IT Manager\|IT Manager]]      | Verify secure data deletion or destruction       |
 | Third-party Vendors | Provide secure, certified disposal services      |
 |                     |                                                  |
 

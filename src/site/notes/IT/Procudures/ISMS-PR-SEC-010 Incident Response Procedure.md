@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 15-04-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.24, 5.25, 5.26, 5.27
 

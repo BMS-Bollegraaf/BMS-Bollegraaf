@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Managers\|IT Managers]]
+**Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:** 5.10, 5.31, 5.32, 8.9
 
@@ -58,7 +58,7 @@ This policy applies to:
 | **Role**          | **Responsibility**                                                 |
 | ----------------- | ------------------------------------------------------------------ |
 | [[Functions/IT Engineer\|IT Engineer]]   | Perform and log maintenance; notify stakeholders                   |
-| [[Functions/IT Managers\|IT Managers]]    | Approve schedules, review emergency actions, oversee vendors       |
+| [[Functions/IT Manager\|IT Manager]]    | Approve schedules, review emergency actions, oversee vendors       |
 | [[Functions/System Owners\|System Owners]] | Approve downtime windows and validate post-maintenance status      |
 | [[Functions/ISMS Manager\|ISMS Manager]]  | Ensure policy alignment with security controls and risk management |
 ## **5. COMPLIANCE**  
