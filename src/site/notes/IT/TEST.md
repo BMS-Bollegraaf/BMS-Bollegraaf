@@ -3,6 +3,5 @@
 ---
 
 [[Iattachments/test.pdf\|Iattachments/test.pdf]]
-[[\\\brm\brm\applications\TEST\TEST.pdf\|\\\brm\brm\applications\TEST\TEST.pdf]]
-[[OF02757.pdf]]
-![[OF02757.pdf]]
+
+[Download here](test.pdf){:target="_blank" download}
