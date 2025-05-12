@@ -9,4 +9,4 @@
 
 option 3
 
-[Download here](attachments/test.pdf)
+[Download here](test.pdf)
