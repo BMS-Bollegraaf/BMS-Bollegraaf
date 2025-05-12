@@ -20,7 +20,7 @@ This policy applies to:
 - Both scheduled and emergency maintenance activities
  
 ## **3. POLICY STATEMENTS** 
- 
+
 #### 3.1 Scheduled Maintenance
 - All systems must have defined **maintenance windows**, approved by management and communicated to stakeholders.
 - Scheduled maintenance includes:
@@ -53,7 +53,7 @@ This policy applies to:
 - Systems must be regularly monitored to ensure maintenance effectiveness.
 - Preventive maintenance schedules must be based on manufacturer/vendor recommendations and operational risk assessments.
 
-## **4. ROLES AND RESPONSIBILITIES**
+## **4. ROLES & RESPONSIBILITIES**
 
 | **Role**          | **Responsibility**                                                 |
 | ----------------- | ------------------------------------------------------------------ |

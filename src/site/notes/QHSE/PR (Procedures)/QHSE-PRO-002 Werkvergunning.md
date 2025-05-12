@@ -135,11 +135,11 @@ NVT
 
 ## GERELATEERDE DOCUMENTEN
 
-| Type                    | Document                                                                                                                                                                                                                               |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Proces                  | [QHSE-FLO-001 Processflow Quality, Health, Safety & Environment](file:///C:/Users/g.scheper/OneDrive%20-%20Bollegraaf%20Recycling%20Solutions/Quality/BMS/QHSE-FLO-001%20Procesflow%20Quality,%20Health,%20Safety,%20Environment.vsdx) |
-| Werkinstructie          | NVT                                                                                                                                                                                                                                    |
-| Formulieren & Templates | [[QHSE-FRM-004 Werkvergunning - met achterzijde.pdf]]  <br>[QHSE-FRM-005 TRA](https://bollegraaf-my.sharepoint.com/personal/g_scheper_bollegraaf_com/Documents/Quality/BMS/QHSE-FRM-005%20TRA%20Template.docx)                         |
+| Type                    | Document                                                                                                                                                                                                                                                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proces                  | [QHSE-FLO-001 Processflow Quality, Health, Safety & Environment](file:///C:/Users/g.scheper/OneDrive%20-%20Bollegraaf%20Recycling%20Solutions/Quality/BMS/QHSE-FLO-001%20Procesflow%20Quality,%20Health,%20Safety,%20Environment.vsdx)                                                                                 |
+| Werkinstructie          | NVT                                                                                                                                                                                                                                                                                                                    |
+| Formulieren & Templates | [QHSE-FRM-004 Werkvergunning](https://bollegraaf-my.sharepoint.com/personal/g_scheper_bollegraaf_com/Documents/Quality/BMS/QHSE-FRM-004%20Werkvergunning.pdf)  <br>[QHSE-FRM-005 TRA](https://bollegraaf-my.sharepoint.com/personal/g_scheper_bollegraaf_com/Documents/Quality/BMS/QHSE-FRM-005%20TRA%20Template.docx) |
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 

@@ -9,7 +9,6 @@
 **Approved By:** [Authority Name]  
 **Owner:** [[Functions/IT Manager\|IT Manager]]
 **Classification:** [[Classification/Internal\|Internal]]
-**ISO/IEC 27001 Controls:** 5.15, 5.16, 5.17, 5.18, 5.36, 8.1, 8.27, 8.30
 
 ---
 ## **1. PURPOSE**  
@@ -35,7 +34,6 @@ This procedure applies to:
 - No use of **personal Autodesk accounts** for business activities
 - Only **approved devices** may install licensed Autodesk applications
 - Storage of drawings and project files must comply with **Data Classification and Backup Policies**
-
 ## **5. LICENSE MANAGEMENT CONSOLE**  
 - All Autodesk licenses must be tracked in the **License Inventory Register**
 - License assignment and usage must be audited **quarterly**

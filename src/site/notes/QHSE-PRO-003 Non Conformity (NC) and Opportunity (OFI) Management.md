@@ -128,15 +128,29 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
-|Type|Document|
-|---|---|
-|Management standards|[verwijzing naar management standard]|
-|Externe standaarden|[verwijzing naar externe standaarden]|
-|Wet & regelgeving|[verwijzing naar wet & regelgeving]|
+| Type                 | Document                                                                                                                                                                                                                            |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                      |                                                                                                                                                                                                                                     |
+| Management standards | NVT                                                                                                                                                                                                                                 |
+| Externe standaarden  | ISO 9001:2015 § 6.1: Acties om risico’s en kansen aan te pakken  <br>ISO 9001: 2015 §9.1.3: Analyse en evaluatie  <br>ISO 9001: 2015 § 10.1: Algemene verbetering  <br>ISO 9001:2015 § 10.2: Afwijkende en corrigerende maatregelen |
+| Wet & regelgeving    | [verwijzing naar wet & regelgeving]                                                                                                                                                                                                 |
 
 ## DEFINITIES
 
-|Definitie|Beschrijving|
-|---|---|
-|[Definitie]|[Samenvattende nauwkeurige omschrijving van de kenmerken van een begrip, zodanig verwoord dat het niet meer met iets anders verward kan worden]|
-|||
+| Definitie                                            | Beschrijving                                                                                                                                                                                                                 |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                      |                                                                                                                                                                                                                              |
+| Non Conformity  / Niet Conformiteit  <br>(NC)        | Elk product, dienst of proces dat niet voldoet aan vastgestelde normen of eisen, zoals wettelijke voorschriften, klanteisen of interne kwaliteitsnormen.                                                                     |
+| Opportunity for Improvement / Verbetervoorstel (OFI) | Een gestructureerd voorstel voor het verbeteren van een proces, product, dienst of managementsysteem binnen de organisatie, met als doel de effectiviteit en efficiëntie te verhogen en te voldoen aan de eisen van de norm. |
+| Corrective Action / Correctieve Aktie (CA)           | De maatregelen die worden genomen om de oorzaak van de afwijking te identificeren en te elimineren.                                                                                                                          |
+| Preventive Action / Preventieve Aktie  <br>(PA)      | Acties gericht op het voorkomen van mogelijke toekomstige niet-conformiteiten.                                                                                                                                               |
+| Grondoorzaak / Rootcause (RC)                        | De werkelijk oorzaak van de verstoring/afwijking                                                                                                                                                                             |
+| Oorzaakanalyse / Rootcauseanalysis  <br>(RCA)        | Onderzoek om de grondoorzaak van een probleem te achterhalen                                                                                                                                                                 |
+
+## Onderzoeksmethoden:
+
+| Visgraat diagram (Ishikawa | Een visgraatdiagram (oorzaak-gevolgdiagram)                                                                                                                                                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 5-Why                      | Onderzoek waarbij je jezelf 5 x de vraag stelt: waarom?                                                                                                                                                                                                                                    |
+| FMEA                       | Failure, Mode, Effect, Analysis / Faalmodus en effectanalyse                                                                                                                                                                                                                               |
+| 8D                         | Onderzoeksmethodiek in 8 verschillende stappen<br><br>D1: Team samenstellen.  <br>D2: Beschrijf probleem.  <br>D3: Los probleem tijdelijk op.  <br>D4: Spoor oorzaak op.  <br>D5: Vind de oplossing.  <br>D6: Implementeer oplossing.  <br>D7: Voorkom probleem.  <br>D8: Beloon het team. |
