@@ -58,7 +58,7 @@ De auditor stelt voor de uit te voeren audit een tijdschema op, zie doc.[QHSE-FR
 
 ## Openingsmeeting
 
-De audit wordt op de dag van de audit, gestart met een openingsmeeting zie doc [QHSE-INS-001](https://bollegraaf-my.sharepoint.com/personal/g_scheper_bollegraaf_com/Documents/Quality/BMS/QHSE-INS-001%20Opening%20Vergadering.pptx). In de openingsmeeting zal de auditor minimaal de volgende onderwerpen bespreken:
+De audit wordt op de dag van de audit, gestart met een openingsmeeting zie doc [QHSE-INS-001](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/GW3JTRBOC5LCZI4HF46OV8FE0GY0MK8YTMALHH2GHGTE3/QHSE-INS-001%20Opening%20Vergadering.pptx). In de openingsmeeting zal de auditor minimaal de volgende onderwerpen bespreken:
 
 ·        het doel van de audit zal worden toegelicht
 
