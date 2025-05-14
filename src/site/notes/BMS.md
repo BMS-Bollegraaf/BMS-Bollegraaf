@@ -325,6 +325,8 @@
 
 <a href="file:///Z:/BMS/Goedkeuringproces.xlsx" target="_blank">Goedkeuringproces.xlsx</a>
 
+<a href="javascript:window.location='file:///Z:/BMS/Goedkeuringproces.xlsx'">Goedkeuringproces.xlsx</a>
+
 
 
 ## Search
