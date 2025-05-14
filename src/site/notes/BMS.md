@@ -274,13 +274,13 @@
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
 ## Recent Updates
-| File                                                                                 | Last Modified           |
-| ------------------------------------------------------------------------------------ | ----------------------- |
-| [[QHSE/PR (Procedures)/QHSE-PRO-001 Interne Audits\|QHSE-PRO-001 Interne Audits]] | 12:36 PM - May 14, 2025 |
-| [[IT/TEST\|TEST]]                                                                 | 1:54 PM - May 13, 2025  |
-| [[Iattachments/test.pdf\|test.pdf]]                                               | 9:29 AM - May 12, 2025  |
-| [[BMS\|BMS]]                                                                      | 11:23 AM - May 09, 2025 |
-| [[QHSE/PR (Procedures)/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]] | 10:42 AM - May 09, 2025 |
+| File                                                                                                                            | Last Modified             |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[BMS\|BMS]]                                                                                                                 | 12:48 PM - April 25, 2025 |
+| [[Templates/Test 456\|Test 456]]                                                                                             | 11:47 AM - April 25, 2025 |
+| [[Templates/Test 123\|Test 123]]                                                                                             | 11:01 AM - April 25, 2025 |
+| [[Templates/Template Werkinstructie\|Template Werkinstructie]]                                                               | 1:29 PM - April 24, 2025  |
+| [[Templates/AutoRecovery save of ITPR_9.2.1_Personeelsmutaties_ICT\|AutoRecovery save of ITPR_9.2.1_Personeelsmutaties_ICT]] | 3:34 PM - April 23, 2025  |
 
 { .block-language-dataview}
 ## Most Accessed Notes
@@ -319,11 +319,11 @@
 
 
 
-
+[Goedkeuringproces.xlsx](file:///Z:/BMS/Goedkeuringproces.xlsx)
 
 
 
 
 ## Search
 
-> [!tip] Place holder
+> [!tip] Place holder 
