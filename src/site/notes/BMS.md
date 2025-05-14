@@ -317,10 +317,13 @@
 
 { .block-language-dataview}
 
-
+[Goedkeuringproces.xlsx](/localfiles/Z:/BMS/Goedkeuringproces.xlsx)
 
 [Goedkeuringproces.xlsx](file:///Z:/BMS/Goedkeuringproces.xlsx)
 
+[Goedkeuringproces.xlsx]({{localfile:Z:/BMS/Goedkeuringproces.xlsx}})
+
+<a href="file:///Z:/BMS/Goedkeuringproces.xlsx" target="_blank">Goedkeuringproces.xlsx</a>
 
 
 
