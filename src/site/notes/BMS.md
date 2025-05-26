@@ -50,7 +50,7 @@
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h4>Vision/Mission</h4>
+        <h5>Vision/Mission</h5>
         <p></p>
       </div>
     </a>
@@ -62,7 +62,7 @@
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h4>Strategy Deployment</h4>
+        <h5>Strategy Deployment</h5>
         <p></p>
       </div>
     </a>
@@ -74,7 +74,7 @@
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h4>Risk Management</h4>
+        <h5>Risk Management</h5>
         <p></p>
       </div>
     </a>
@@ -286,8 +286,8 @@
 ## Recent Updates
 | File                                                                                                                                                        | Last Modified          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[BMS\|BMS]]                                                                                                                                             | 1:35 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management\|QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management]] | 1:34 PM - May 26, 2025 |
-| [[BMS\|BMS]]                                                                                                                                             | 1:34 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.\|QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.]]                                         | 1:34 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]]                                                                             | 1:01 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-001 Interne Audits\|QHSE-PRO-001 Interne Audits]]                                                                             | 1:01 PM - May 26, 2025 |
