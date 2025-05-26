@@ -181,6 +181,92 @@
 </div>
 
 
+<div class="flashcard-grid grid-7">
+  <div class="flashcard theme-blue">
+    <a href="/BMS">
+      <div class="flashcard-image">
+        <img src="/img/OfficeBollegraaf.png" alt="BMS">
+      </div>
+      <div class="flashcard-content">
+        <h3>Finance</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+  
+  <div class="flashcard theme-green">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>HR</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+  
+  <div class="flashcard theme-green">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>QHSE</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+  
+  <div class="flashcard theme-green">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>BI</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+    <div class="flashcard theme-green">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>IMP</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+    <div class="flashcard theme-green">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>Facilities</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+    <div class="flashcard theme-green">
+    <a href="/PDF-to-Obsidian">
+      <div class="flashcard-image">
+        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+      </div>
+      <div class="flashcard-content">
+        <h3>IT</h3>
+        <p></p>
+      </div>
+    </a>
+  </div>
+</div>
+
+
+
+
 > [!tip] Quick Navigation
 > 
 > - [[Weekly Meeting Notes\|Weekly Meeting Notes]]
@@ -202,7 +288,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:38 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:41 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
