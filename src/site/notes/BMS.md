@@ -17,7 +17,7 @@
         <img src="/img/OfficeBollegraaf.png" alt="BMS">
       </div>
       <div class="flashcard-content">
-        <h3>COTO</h3>
+        <h2>COTO</h2>
         <p></p>
       </div>
     </a>
@@ -29,7 +29,7 @@
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>Vision/Mission</h3>
+        <h4>Vision/Mission</h4>
         <p></p>
       </div>
     </a>
@@ -41,7 +41,7 @@
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>Stragey Deployment</h3>
+        <h4>Stragey Deployment</h4>
         <p></p>
       </div>
     </a>
@@ -53,7 +53,7 @@
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>Risk Management</h3>
+        <h4>Risk Management</h4>
         <p></p>
       </div>
     </a>
@@ -288,7 +288,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:41 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:43 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
