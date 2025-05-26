@@ -64,7 +64,7 @@
 
 
 <div class="flashcard-grid grid-10">
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/BMS">
       <div class="flashcard-image">
         <img 
@@ -77,7 +77,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -88,7 +88,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/Your-Third-Link">
       <div class="flashcard-image">
         <img src="/img/Your-Third-Image.png" alt="Third Card">
@@ -99,7 +99,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/Your-Fourth-Link">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
@@ -110,7 +110,7 @@
       </div>
     </a>
   </div>
-    <div class="theme-orange">
+    <div class="flashcard theme-orange">
     <a href="/Your-Fourth-Link">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
@@ -121,7 +121,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/BMS">
       <div class="flashcard-image">
         <img 
@@ -134,7 +134,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -145,7 +145,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/Your-Third-Link">
       <div class="flashcard-image">
         <img src="/img/Your-Third-Image.png" alt="Third Card">
@@ -156,7 +156,7 @@
       </div>
     </a>
   </div>
-  <div class="theme-orange">
+  <div class="flashcard theme-orange">
     <a href="/Your-Fourth-Link">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
@@ -167,7 +167,7 @@
       </div>
     </a>
   </div>
-    <div class="theme-orange">
+    <div class="flashcard theme-orange">
     <a href="/Your-Fourth-Link">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
@@ -202,7 +202,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:33 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:35 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
