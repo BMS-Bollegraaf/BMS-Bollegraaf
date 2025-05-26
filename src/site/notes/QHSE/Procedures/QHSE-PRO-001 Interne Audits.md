@@ -5,7 +5,7 @@
 
 # Procedure: **Interne Audits**
 
-> **Proces:** QHSE  (Quality, Health, Safety & Environment)
+> **Proces: QHSE  (Quality, Health, Safety & Environment)**
 
 
 ## DOEL
