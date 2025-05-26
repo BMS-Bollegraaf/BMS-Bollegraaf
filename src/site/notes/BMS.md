@@ -23,7 +23,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-green">
+  <div class="flashcard theme-blue">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -35,7 +35,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-green">
+  <div class="flashcard theme-blue">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -47,7 +47,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-green">
+  <div class="flashcard theme-blue">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -182,7 +182,7 @@
 
 
 <div class="flashcard-grid grid-7">
-  <div class="flashcard theme-blue">
+  <div class="flashcard theme-red">
     <a href="/BMS">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="BMS">
@@ -194,7 +194,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-green">
+  <div class="flashcard theme-red">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -206,7 +206,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-green">
+  <div class="flashcard theme-red">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -218,7 +218,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-green">
+  <div class="flashcard theme-red">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -229,7 +229,7 @@
       </div>
     </a>
   </div>
-    <div class="flashcard theme-green">
+    <div class="flashcard theme-red">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -240,7 +240,7 @@
       </div>
     </a>
   </div>
-    <div class="flashcard theme-green">
+    <div class="flashcard theme-red">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -251,7 +251,7 @@
       </div>
     </a>
   </div>
-    <div class="flashcard theme-green">
+    <div class="flashcard theme-red">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
@@ -288,7 +288,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:43 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:45 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
