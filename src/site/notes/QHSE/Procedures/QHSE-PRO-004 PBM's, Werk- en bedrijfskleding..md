@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-004-pbm-s-werk-en-bedrijfskleding/","tags":["procedure","QHSE/PRO"],"noteIcon":"default"}
 ---
 
-# Procedure: [PBM's, Werk- en bedrijfskleding.]
+# Procedure: **PBM's, Werk- en bedrijfskleding.**
 
 > **ProcesProces:** [Invullen] 
 > **QA:** [Invullen] 
