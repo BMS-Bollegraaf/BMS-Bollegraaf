@@ -85,7 +85,7 @@ NVT
 | PROC-FRM-001 Bestelformulier: Verstrekking van werkkleding, Otoplastieken en schoenen per medewerker | Digitaal; locatie ntb |
 ## GERELATEERDE DOCUMENTEN
 
-| ** Document**           | **Locatie en/of systeem**                                                                                                                                                                                                           |
+| **Document**            | **Locatie en/of systeem**                                                                                                                                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Beleid                  | [QHSE-GOV-002 PBM en bedrijfskledingbeleid](https://bollegraaf-my.sharepoint.com/personal/g_scheper_bollegraaf_com/Documents/Quality/BMS/QHSE-GOV-002%20PBM%20en%20kleding%20beleid.docx)                                           |
 | Proces                  | [HSE-FLO-001 Procesflow Quality, Health, Safety, Environment](file:///C:/Users/g.scheper/OneDrive%20-%20Bollegraaf%20Recycling%20Solutions/Quality/BMS/QHSE-FLO-001%20Procesflow%20Quality,%20Health,%20Safety,%20Environment.vsdx) |
@@ -113,17 +113,17 @@ NVT
 
 ## Bijlage A; Kleding voor medewerkers Assemblage, Voorbewerking, Lasafdeling en Elektro:
 
-|                                                                                                                   |                                                                          |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 5x  T-shirt Tricorp zwart                                                                                         | ![Pasted image 20250526134908.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526134908.png)                                     |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 2x Polosweater of Sweater                                                                                         | ![Pasted image 20250526134954.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526134954.png)![Pasted image 20250526135003.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526135003.png) |
 | 3x Werkbroek, of Amerikaanse Overall, of Overall of Lasoverall*<br><br>*Kledingtype afhankelijk van werkzaamheden | ![Pasted image 20250526135232.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526135232.png)                                     |
 | Voorstel van Rudolf: 1 x Vest Dassy Convex D-flex                                                                 |                                                                          |
+
 ## Bijlage B; Kleding voor medewerkers Kantoor:
 
-|                                                                                                          |                                          |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1 x Vest Dassy Convex D-flex<br><br>Alleen indien nodig en met toestemming leidinggevende (handtekening) | ![Pasted image 20250526134219.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526134219.png)<br> |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+
 
 ## Bijlage C; Kleding voor medewerkers Logistiek:
 
@@ -136,9 +136,7 @@ NVT
 | 1 x Winterjas Hyper Dassy                        | ![Pasted image 20250526141255.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141255.png) |
 
 
-
-
-## Bijlage D; Kleding voor projectlocaties: Aantallen?
+## Bijlage D; Kleding voor projectlocaties: 
 
 ![Pasted image 20250526135651.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526135651.png)
 
