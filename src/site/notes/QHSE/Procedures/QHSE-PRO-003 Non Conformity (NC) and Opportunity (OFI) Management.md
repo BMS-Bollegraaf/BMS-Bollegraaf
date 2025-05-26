@@ -84,7 +84,7 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
 
-| Omschrijving                              | Initiator | Actiehouder | Proceseigenaar/<br><br>Procesexpert | QHSE Manager | Auditor |
+| **Omschrijving**                              | **Initiator** | **Actiehouder** | **Proceseigenaar/<br><br>Procesexpert** | **QHSE Manager** | **Auditor** |
 | ----------------------------------------- | :-------: | :---------: | :---------------------------------: | :----------: | :-----: |
 | 1) Vastleggen van de NC/OFI               |     R     |             |                  A                  |              |         |
 | 2) Markeren product met ‘Afkeur’ label    |     R     |             |                  A                  |              |         |
@@ -118,7 +118,7 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 
 ## GERELATEERDE DOCUMENTEN
 
-| **Type**                    | **Document**                                                       |
+| **Type**                | **Document**                                                   |
 | ----------------------- | -------------------------------------------------------------- |
 | Proces                  | QHSE-FLO-001- Procesflow: Quality, Health, Safety, Environment |
 | Werkinstructie          | NVT                                                            |
