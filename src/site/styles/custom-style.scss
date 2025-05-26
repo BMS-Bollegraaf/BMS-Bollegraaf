@@ -499,7 +499,6 @@ blockquote {
     }
 }
 /* Enhanced Flashcard Grid System - Individual Card Colors */
-
 /* Enhanced Flashcard Grid System - Individual Card Colors */
 
 /* Base flashcard variables (default theme) */
@@ -520,7 +519,7 @@ blockquote {
   padding: 0 1rem;
 }
 
-/* Grid variations with smart responsive logic - Max 4 per row */
+/* Grid variations with optimal sizing - Max 4 cards per row */
 .grid-2 { 
   grid-template-columns: repeat(2, 1fr);
   max-width: 800px;
@@ -534,45 +533,39 @@ blockquote {
   max-width: 1400px;
 }
 .grid-5 { 
-  grid-template-columns: repeat(3, 1fr); /* 3 + 2 layout */
+  grid-template-columns: repeat(3, 1fr);
   max-width: 1200px;
 }
 .grid-6 { 
-  grid-template-columns: repeat(3, 1fr); /* 3 + 3 layout */
+  grid-template-columns: repeat(3, 1fr);
   max-width: 1200px;
 }
 .grid-7 { 
-  grid-template-columns: repeat(4, 1fr); /* 4 + 3 layout */
+  grid-template-columns: repeat(4, 1fr);
   max-width: 1400px;
 }
 .grid-8 { 
-  grid-template-columns: repeat(4, 1fr); /* 4 + 4 layout */
+  grid-template-columns: repeat(4, 1fr);
   max-width: 1400px;
 }
 .grid-9 { 
-  grid-template-columns: repeat(3, 1fr); /* 3 + 3 + 3 layout */
+  grid-template-columns: repeat(3, 1fr);
   max-width: 1200px;
 }
 .grid-10 { 
-  grid-template-columns: repeat(4, 1fr); /* 4 + 3 + 3 layout */
-  max-width: 1400px;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 800px;
 }
 
-/* Responsive breakpoints with smart logic */
+/* Responsive breakpoints */
 @media (max-width: 1400px) {
-  .grid-4, .grid-7, .grid-8, .grid-10 { 
-    grid-template-columns: repeat(3, 1fr); 
-  }
+  .grid-4, .grid-7, .grid-8 { grid-template-columns: repeat(3, 1fr); }
 }
-@media (max-width: 1000px) {
-  .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { 
-    grid-template-columns: repeat(2, 1fr); 
-  }
+@media (max-width: 1200px) {
+  .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9 { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 650px) {
-  .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { 
-    grid-template-columns: 1fr; 
-  }
+  .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { grid-template-columns: 1fr; }
   .flashcard-grid { gap: 1rem; }
 }
 
@@ -681,8 +674,8 @@ blockquote {
   }
 }
 
-/* Size adjustments for smaller cards (when using 4-column layouts) */
-.grid-7, .grid-8, .grid-10 {
+/* Size adjustments for grids with many cards */
+.grid-5, .grid-6, .grid-7, .grid-8, .grid-9 {
   .flashcard {
     min-height: 260px;
     max-height: 320px;
@@ -852,6 +845,168 @@ blockquote {
   }
 }
 
+/* Indigo Theme */
+.flashcard.theme-indigo {
+  background: rgba(40, 30, 80, 0.85);
+  border-color: rgba(63, 81, 181, 0.4);
+
+  .flashcard-image {
+    background: rgba(30, 20, 60, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #3F51B5;
+  }
+
+  &:hover {
+    border-color: #3F51B5;
+  }
+}
+
+/* Cyan Theme */
+.flashcard.theme-cyan {
+  background: rgba(20, 60, 70, 0.85);
+  border-color: rgba(0, 188, 212, 0.4);
+
+  .flashcard-image {
+    background: rgba(10, 40, 50, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #00BCD4;
+  }
+
+  &:hover {
+    border-color: #00BCD4;
+  }
+}
+
+/* Lime Theme */
+.flashcard.theme-lime {
+  background: rgba(60, 70, 30, 0.85);
+  border-color: rgba(205, 220, 57, 0.4);
+
+  .flashcard-image {
+    background: rgba(40, 50, 20, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #CDDC39;
+  }
+
+  &:hover {
+    border-color: #CDDC39;
+  }
+}
+
+/* Amber Theme */
+.flashcard.theme-amber {
+  background: rgba(70, 60, 20, 0.85);
+  border-color: rgba(255, 193, 7, 0.4);
+
+  .flashcard-image {
+    background: rgba(50, 40, 10, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #FFC107;
+  }
+
+  &:hover {
+    border-color: #FFC107;
+  }
+}
+
+/* Deep Orange Theme */
+.flashcard.theme-deep-orange {
+  background: rgba(80, 35, 20, 0.85);
+  border-color: rgba(255, 87, 34, 0.4);
+
+  .flashcard-image {
+    background: rgba(60, 25, 10, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #FF5722;
+  }
+
+  &:hover {
+    border-color: #FF5722;
+  }
+}
+
+/* Brown Theme */
+.flashcard.theme-brown {
+  background: rgba(60, 45, 35, 0.85);
+  border-color: rgba(121, 85, 72, 0.4);
+
+  .flashcard-image {
+    background: rgba(40, 30, 25, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #795548;
+  }
+
+  &:hover {
+    border-color: #795548;
+  }
+}
+
+/* Blue Grey Theme */
+.flashcard.theme-blue-grey {
+  background: rgba(45, 50, 55, 0.85);
+  border-color: rgba(96, 125, 139, 0.4);
+
+  .flashcard-image {
+    background: rgba(30, 35, 40, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #607D8B;
+  }
+
+  &:hover {
+    border-color: #607D8B;
+  }
+}
+
+/* Light Green Theme */
+.flashcard.theme-light-green {
+  background: rgba(40, 70, 50, 0.85);
+  border-color: rgba(139, 195, 74, 0.4);
+
+  .flashcard-image {
+    background: rgba(25, 50, 35, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #8BC34A;
+  }
+
+  &:hover {
+    border-color: #8BC34A;
+  }
+}
+
+/* Deep Purple Theme */
+.flashcard.theme-deep-purple {
+  background: rgba(50, 30, 80, 0.85);
+  border-color: rgba(103, 58, 183, 0.4);
+
+  .flashcard-image {
+    background: rgba(35, 20, 60, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #673AB7;
+  }
+
+  &:hover {
+    border-color: #673AB7;
+  }
+}
+
 /* Loading animation */
 @keyframes fadeInUp {
   from {
@@ -871,11 +1026,6 @@ blockquote {
   &:nth-child(3) { animation-delay: 0.2s; }
   &:nth-child(4) { animation-delay: 0.3s; }
   &:nth-child(5) { animation-delay: 0.4s; }
-  &:nth-child(6) { animation-delay: 0.5s; }
-  &:nth-child(7) { animation-delay: 0.6s; }
-  &:nth-child(8) { animation-delay: 0.7s; }
-  &:nth-child(9) { animation-delay: 0.8s; }
-  &:nth-child(10) { animation-delay: 0.9s; }
 }
 
 /* Focus accessibility */
