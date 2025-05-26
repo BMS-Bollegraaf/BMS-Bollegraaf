@@ -110,36 +110,32 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 
 ## REGISTRATIES EN OPSLAG
 
-| Document           | Locatie en/of systeem |
+| **Document**           | **Locatie en/of systeem** |
 | ------------------ | --------------------- |
-|                    |                       |
 | NC’s / OFI’s       | NC systeem            |
 | Onderzoeksanalyses | NC systeem            |
 
 
 ## GERELATEERDE DOCUMENTEN
 
-| Type                    | Document                                                       |
+| **Type**                    | **Document**                                                       |
 | ----------------------- | -------------------------------------------------------------- |
-|                         |                                                                |
 | Proces                  | QHSE-FLO-001- Procesflow: Quality, Health, Safety, Environment |
 | Werkinstructie          | NVT                                                            |
 | Formulieren & Templates | NC formulier… in systeem….                                     |
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
-| Type                 | Document                                                                                                                                                                                                                            |
+| **Type**             | **Document**                                                                                                                                                                                                                        |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                      |                                                                                                                                                                                                                                     |
 | Management standards | NVT                                                                                                                                                                                                                                 |
 | Externe standaarden  | ISO 9001:2015 § 6.1: Acties om risico’s en kansen aan te pakken  <br>ISO 9001: 2015 §9.1.3: Analyse en evaluatie  <br>ISO 9001: 2015 § 10.1: Algemene verbetering  <br>ISO 9001:2015 § 10.2: Afwijkende en corrigerende maatregelen |
 | Wet & regelgeving    | [verwijzing naar wet & regelgeving]                                                                                                                                                                                                 |
 
 ## DEFINITIES
 
-| Definitie                                            | Beschrijving                                                                                                                                                                                                                 |
+| **Definitie**                                        | **Beschrijving**                                                                                                                                                                                                             |
 | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                      |                                                                                                                                                                                                                              |
 | Non Conformity  / Niet Conformiteit  <br>(NC)        | Elk product, dienst of proces dat niet voldoet aan vastgestelde normen of eisen, zoals wettelijke voorschriften, klanteisen of interne kwaliteitsnormen.                                                                     |
 | Opportunity for Improvement / Verbetervoorstel (OFI) | Een gestructureerd voorstel voor het verbeteren van een proces, product, dienst of managementsysteem binnen de organisatie, met als doel de effectiviteit en efficiëntie te verhogen en te voldoen aan de eisen van de norm. |
 | Corrective Action / Correctieve Aktie (CA)           | De maatregelen die worden genomen om de oorzaak van de afwijking te identificeren en te elimineren.                                                                                                                          |
