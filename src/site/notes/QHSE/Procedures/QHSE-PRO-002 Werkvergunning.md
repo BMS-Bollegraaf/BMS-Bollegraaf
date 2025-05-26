@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-002-werkvergunning/","tags":["procedure","QHSE/PRO"],"noteIcon":"default"}
 ---
 
-# Procedure: Werkvergunning
+# Procedure: **Werkvergunning**
 
 > **ProcesProces:** [Invullen] 
 > **QA:** [Invullen] 
