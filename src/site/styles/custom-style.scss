@@ -498,103 +498,356 @@ blockquote {
         }
     }
 }
-/* Flashcard Grid System - Responsive */
+/* Enhanced Flashcard Grid System - Individual Card Colors */
+
+/* Base flashcard variables (default theme) */
+:root {
+  --flashcard-gap: 1.5rem;
+  --flashcard-shadow: rgba(0, 0, 0, 0.3);
+  --flashcard-shadow-hover: rgba(0, 0, 0, 0.5);
+  --flashcard-text: #ffffff;
+  --flashcard-text-muted: rgba(255, 255, 255, 0.9);
+}
+
+/* Enhanced Flashcard Grid System */
 .flashcard-grid {
   display: grid;
-  gap: 1.5rem;
-  margin: 2rem 0;
+  gap: var(--flashcard-gap);
+  margin: 2rem auto;
+  max-width: 1400px;
+  padding: 0 1rem;
 }
 
-/* Grid column variations */
-.grid-2 { grid-template-columns: repeat(2, 1fr); }
-.grid-3 { grid-template-columns: repeat(3, 1fr); }
-.grid-4 { grid-template-columns: repeat(4, 1fr); }
+/* Grid variations with optimal sizing */
+.grid-2 { 
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 800px;
+}
+.grid-3 { 
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 1200px;
+}
+.grid-4 { 
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1400px;
+}
+.grid-5 { 
+  grid-template-columns: repeat(5, 1fr);
+  max-width: 1600px;
+}
 
 /* Responsive breakpoints */
-@media (max-width: 1200px) {
-  .grid-4 { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 1600px) {
+  .grid-5 { grid-template-columns: repeat(4, 1fr); }
+}
+@media (max-width: 1400px) {
+  .grid-4, .grid-5 { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 1000px) {
+  .grid-3, .grid-4, .grid-5 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 650px) {
+  .grid-2, .grid-3, .grid-4, .grid-5 { grid-template-columns: 1fr; }
+  .flashcard-grid { gap: 1rem; }
 }
 
-@media (max-width: 900px) {
-  .grid-3, .grid-4 { grid-template-columns: repeat(2, 1fr); }
-}
-
-@media (max-width: 600px) {
-  .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
-}
-
-/* Flashcard container */
+/* Base Flashcard Container */
 .flashcard {
-  background: rgba(30, 37, 78, 0.75);
-  backdrop-filter: blur(8px);
-  border-radius: 12px;
+  background: rgba(30, 37, 78, 0.85); /* Default color */
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
   overflow: hidden;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
-  border: 1px solid rgba(224, 178, 255, 0.3);
-  transition: all 0.3s ease;
-}
+  box-shadow: 0 8px 32px var(--flashcard-shadow);
+  border: 2px solid rgba(224, 178, 255, 0.4); /* Default border */
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  min-height: 280px;
+  max-height: 350px;
+  display: flex;
+  flex-direction: column;
 
-/* Make sure the anchor fills the entire card */
-.flashcard a {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  height: 100%;
-}
+  /* Subtle gradient overlay */
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 50%, rgba(255,255,255,0.02) 100%);
+    pointer-events: none;
+    border-radius: 16px;
+    z-index: 1;
+  }
 
-/* Remove underline effect from links */
-.flashcard a::after {
-  display: none;
-}
+  /* Link styling */
+  a {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    height: 100%;
+    position: relative;
+    z-index: 2;
 
-/* Hover effects */
-.flashcard:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.4);
-  border-color: var(--link-color);
+    &::after {
+      display: none;
+    }
+  }
+
+  /* Base hover effects */
+  &:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 20px 40px var(--flashcard-shadow-hover);
+    border-color: #E0B2FF; /* Default hover border */
+
+    &::before {
+      background: linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0.08) 50%, rgba(255,255,255,0.04) 100%);
+    }
+
+    .flashcard-image img {
+      transform: scale(1.08) rotate(1deg);
+      filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
+    }
+  }
 }
 
 /* Image container */
 .flashcard-image {
-  background: rgba(18, 20, 42, 0.6);
+  background: rgba(18, 20, 42, 0.8); /* Default image area color */
   padding: 1.5rem;
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  height: 160px;
-}
+  height: 180px;
+  position: relative;
 
-/* Image styling */
-.flashcard-image img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5));
-  transition: transform 0.3s ease;
-}
-
-.flashcard:hover .flashcard-image img {
-  transform: scale(1.05);
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.4));
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 8px;
+  }
 }
 
 /* Content area */
 .flashcard-content {
   padding: 1.5rem;
   flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  h3 {
+    margin: 0 0 0.75rem;
+    color: #E0B2FF; /* Default accent color */
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+  }
+
+  p {
+    margin: 0;
+    color: var(--flashcard-text-muted);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    font-style: italic;
+  }
 }
 
-.flashcard-content h3 {
-  margin: 0 0 0.75rem;
-  color: var(--text-accent);
-  font-size: 1.4rem;
-  font-weight: 600;
+/* Size adjustments for 5-card grids */
+.grid-5 .flashcard {
+  min-height: 260px;
+  max-height: 320px;
+
+  .flashcard-image {
+    height: 160px;
+    padding: 1.25rem;
+  }
+
+  .flashcard-content {
+    padding: 1.25rem;
+
+    h3 {
+      font-size: 1.1rem;
+    }
+
+    p {
+      font-size: 0.85rem;
+    }
+  }
 }
 
-.flashcard-content p {
-  margin: 0;
-  color: var(--text-normal);
-  font-size: 0.95rem;
-  line-height: 1.4;
-  opacity: 0.9;
+/* Individual Color Themes for Cards */
+
+/* Purple Theme (Default) */
+.flashcard.theme-purple {
+  background: rgba(30, 37, 78, 0.85);
+  border-color: rgba(224, 178, 255, 0.4);
+
+  .flashcard-image {
+    background: rgba(18, 20, 42, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #E0B2FF;
+  }
+
+  &:hover {
+    border-color: #E0B2FF;
+  }
+}
+
+/* Blue/Ocean Theme */
+.flashcard.theme-blue {
+  background: rgba(20, 50, 80, 0.85);
+  border-color: rgba(100, 181, 246, 0.4);
+
+  .flashcard-image {
+    background: rgba(10, 30, 60, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #64B5F6;
+  }
+
+  &:hover {
+    border-color: #64B5F6;
+  }
+}
+
+/* Green/Forest Theme */
+.flashcard.theme-green {
+  background: rgba(30, 60, 40, 0.85);
+  border-color: rgba(129, 199, 132, 0.4);
+
+  .flashcard-image {
+    background: rgba(20, 40, 30, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #81C784;
+  }
+
+  &:hover {
+    border-color: #81C784;
+  }
+}
+
+/* Orange/Sunset Theme */
+.flashcard.theme-orange {
+  background: rgba(80, 40, 30, 0.85);
+  border-color: rgba(255, 138, 101, 0.4);
+
+  .flashcard-image {
+    background: rgba(60, 30, 20, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #FF8A65;
+  }
+
+  &:hover {
+    border-color: #FF8A65;
+  }
+}
+
+/* Red Theme */
+.flashcard.theme-red {
+  background: rgba(80, 30, 40, 0.85);
+  border-color: rgba(244, 67, 54, 0.4);
+
+  .flashcard-image {
+    background: rgba(60, 20, 30, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #F44336;
+  }
+
+  &:hover {
+    border-color: #F44336;
+  }
+}
+
+/* Teal Theme */
+.flashcard.theme-teal {
+  background: rgba(30, 60, 60, 0.85);
+  border-color: rgba(77, 182, 172, 0.4);
+
+  .flashcard-image {
+    background: rgba(20, 40, 40, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #4DB6AC;
+  }
+
+  &:hover {
+    border-color: #4DB6AC;
+  }
+}
+
+/* Yellow/Gold Theme */
+.flashcard.theme-yellow {
+  background: rgba(70, 60, 30, 0.85);
+  border-color: rgba(255, 235, 59, 0.4);
+
+  .flashcard-image {
+    background: rgba(50, 40, 20, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #FFEB3B;
+  }
+
+  &:hover {
+    border-color: #FFEB3B;
+  }
+}
+
+/* Pink Theme */
+.flashcard.theme-pink {
+  background: rgba(70, 30, 60, 0.85);
+  border-color: rgba(233, 30, 99, 0.4);
+
+  .flashcard-image {
+    background: rgba(50, 20, 40, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #E91E63;
+  }
+
+  &:hover {
+    border-color: #E91E63;
+  }
+}
+
+/* Loading animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.flashcard {
+  animation: fadeInUp 0.6s ease-out;
+
+  &:nth-child(2) { animation-delay: 0.1s; }
+  &:nth-child(3) { animation-delay: 0.2s; }
+  &:nth-child(4) { animation-delay: 0.3s; }
+  &:nth-child(5) { animation-delay: 0.4s; }
+}
+
+/* Focus accessibility */
+.flashcard:focus-within {
+  outline: 3px solid #E0B2FF;
+  outline-offset: 4px;
 }
