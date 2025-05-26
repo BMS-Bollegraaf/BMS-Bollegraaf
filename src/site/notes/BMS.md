@@ -19,7 +19,7 @@
         alt="BMS">
       </div>
       <div class="flashcard-content">
-        <h3>BMS</h3>
+        <h3>COTO</h3>
         <p>"Office Bollegraaf" — BMS workflow overview</p>
       </div>
     </a>
@@ -30,7 +30,7 @@
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>PDF to Obsidian</h3>
+        <h3>Vision/Mission</h3>
         <p>"Shield Structure" — How to import PDFs</p>
       </div>
     </a>
@@ -41,7 +41,7 @@
         <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
       <div class="flashcard-content">
-        <h3>Third Card Title</h3>
+        <h3>Strategy Deployment</h3>
         <p>"Third Card Description" — Additional information</p>
       </div>
     </a>
@@ -52,7 +52,7 @@
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
-        <h3>Fourth Card Title</h3>
+        <h3>Risk Management</h3>
         <p>"Fourth Card Description" — Additional information</p>
       </div>
     </a>
@@ -274,13 +274,13 @@
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
 ## Recent Updates
-| File                                                                                                                            | Last Modified             |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[BMS\|BMS]]                                                                                                                 | 12:48 PM - April 25, 2025 |
-| [[Templates/Test 456\|Test 456]]                                                                                             | 11:47 AM - April 25, 2025 |
-| [[Templates/Test 123\|Test 123]]                                                                                             | 11:01 AM - April 25, 2025 |
-| [[Templates/Template Werkinstructie\|Template Werkinstructie]]                                                               | 1:29 PM - April 24, 2025  |
-| [[Templates/AutoRecovery save of ITPR_9.2.1_Personeelsmutaties_ICT\|AutoRecovery save of ITPR_9.2.1_Personeelsmutaties_ICT]] | 3:34 PM - April 23, 2025  |
+| File                                                                                                                                            | Last Modified           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[BMS\|BMS]]                                                                                                                                 | 8:42 AM - May 26, 2025  |
+| [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
+| [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
+| [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
+| [[IT/Instructions/ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk\|ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk]] | 8:34 AM - May 22, 2025  |
 
 { .block-language-dataview}
 ## Most Accessed Notes
