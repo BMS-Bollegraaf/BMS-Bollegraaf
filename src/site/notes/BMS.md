@@ -72,7 +72,7 @@
         alt="BMS">
       </div>
       <div class="flashcard-content">
-        <h3>BMS</h3>
+        <h3>Sales</h3>
         <p>"Sales" — BMS workflow overview</p>
       </div>
     </a>
@@ -83,7 +83,7 @@
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>PDF to Obsidian</h3>
+        <h3>Sales Engineering</h3>
         <p>"Sales Engineering" — How to import PDFs</p>
       </div>
     </a>
@@ -94,7 +94,7 @@
         <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
       <div class="flashcard-content">
-        <h3>Third Card Title</h3>
+        <h3>Engineering</h3>
         <p>"Engineering" — Additional information</p>
       </div>
     </a>
@@ -105,7 +105,7 @@
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
-        <h3>Fourth Card Title</h3>
+        <h3>Procurement</h3>
         <p>"Procurement" — Additional information</p>
       </div>
     </a>
@@ -116,7 +116,7 @@
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
-        <h3>Fourth Card Title</h3>
+        <h3>Business Office</h3>
         <p>"Business Office" — Additional information</p>
       </div>
     </a>
@@ -129,7 +129,7 @@
         alt="BMS">
       </div>
       <div class="flashcard-content">
-        <h3>BMS</h3>
+        <h3>Production</h3>
         <p>"Production" — BMS workflow overview</p>
       </div>
     </a>
@@ -140,7 +140,7 @@
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h3>PDF to Obsidian</h3>
+        <h3>Assembly</h3>
         <p>"Assembly" — How to import PDFs</p>
       </div>
     </a>
@@ -151,7 +151,7 @@
         <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
       <div class="flashcard-content">
-        <h3>Third Card Title</h3>
+        <h3>Logistics</h3>
         <p>"Logistics" — Additional information</p>
       </div>
     </a>
@@ -162,7 +162,7 @@
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
-        <h3>Fourth Card Title</h3>
+        <h3>Service & After Sales</h3>
         <p>"Service & After Sales" — Additional information</p>
       </div>
     </a>
@@ -173,7 +173,7 @@
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
-        <h3>Fourth Card Title</h3>
+        <h3>Projects</h3>
         <p>"Projects" — Additional information</p>
       </div>
     </a>
@@ -202,7 +202,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:35 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:37 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
