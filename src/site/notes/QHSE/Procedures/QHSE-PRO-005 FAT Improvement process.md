@@ -22,8 +22,7 @@ Bollegraaf
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
 
-![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
-
+![Pasted image 20250526143539.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526143539.png)
 
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
