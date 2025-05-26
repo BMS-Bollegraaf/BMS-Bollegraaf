@@ -63,7 +63,7 @@
 
 
 
-<div class="flashcard-grid grid-4">
+<div class="flashcard-grid grid-5">
   <div class="flashcard">
     <a href="/BMS">
       <div class="flashcard-image">
@@ -218,7 +218,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 9:55 AM - May 26, 2025  |
+| [[BMS\|BMS]]                                                                                                                                 | 9:57 AM - May 26, 2025  |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
