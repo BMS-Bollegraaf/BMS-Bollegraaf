@@ -128,6 +128,13 @@ NVT
 
 ## Bijlage C; Kleding voor medewerkers Logistiek:
 
+| 3 x T-shirt Clique zwart Rudolf wil naar 5 stuks | ![Pasted image 20250526141229.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141229.png) |
+| ------------------------------------------------ | ------------------------------------ |
+| 2x Dassy Felix Sweater Zwart                     | ![Pasted image 20250526141238.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141238.png) |
+| 2x Werkbroek Havep Attitude 80229                | ![Pasted image 20250526141244.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141244.png) |
+| 1 x Vest Dassy Convex D-flex                     | ![Pasted image 20250526141250.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141250.png) |
+| 1 x Winterjas Hyper Dassy                        | ![Pasted image 20250526141255.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141255.png) |
+
 
 
 
@@ -135,7 +142,8 @@ NVT
 
 ![Pasted image 20250526135651.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526135651.png)
 
+![Pasted image 20250526141041.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141041.png)
 
+## Bijlage E; Extra kleding ten behoeve van projectlocaties:
 
-|     | ![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png) |
-| --- | -------------------------------------------------------------------------------------- |
+![Pasted image 20250526141436.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141436.png)
