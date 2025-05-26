@@ -124,5 +124,5 @@ NVT
 ## Bijlage B; Kleding voor medewerkers Kantoor:
 
 
-| 1 x Vest Dassy Convex D-flex<br><br>Alleen indien nodig en met toestemming leidinggevende (handtekening) | ![Afbeelding met kleding, jasje, buitenkleding, mouw<br>Automatisch gegenereerde beschrijving](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |
-| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 x Vest Dassy Convex D-flex<br><br>Alleen indien nodig en met toestemming leidinggevende (handtekening) | ![Pasted image 20250526133913.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526133913.png) |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------ |
