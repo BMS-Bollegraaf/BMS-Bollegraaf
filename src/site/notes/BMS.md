@@ -73,7 +73,7 @@
       </div>
       <div class="flashcard-content">
         <h3>BMS</h3>
-        <p>"Office Bollegraaf" — BMS workflow overview</p>
+        <p>"Sales" — BMS workflow overview</p>
       </div>
     </a>
   </div>
@@ -84,7 +84,7 @@
       </div>
       <div class="flashcard-content">
         <h3>PDF to Obsidian</h3>
-        <p>"Shield Structure" — How to import PDFs</p>
+        <p>"Sales Engineering" — How to import PDFs</p>
       </div>
     </a>
   </div>
@@ -95,7 +95,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Third Card Title</h3>
-        <p>"Third Card Description" — Additional information</p>
+        <p>"Engineering" — Additional information</p>
       </div>
     </a>
   </div>
@@ -106,7 +106,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Fourth Card Title</h3>
-        <p>"Fourth Card Description" — Additional information</p>
+        <p>"Procurement" — Additional information</p>
       </div>
     </a>
   </div>
@@ -117,7 +117,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Fourth Card Title</h3>
-        <p>"Fourth Card Description" — Additional information</p>
+        <p>"Business Office" — Additional information</p>
       </div>
     </a>
   </div>
@@ -130,7 +130,7 @@
       </div>
       <div class="flashcard-content">
         <h3>BMS</h3>
-        <p>"Office Bollegraaf" — BMS workflow overview</p>
+        <p>"Production" — BMS workflow overview</p>
       </div>
     </a>
   </div>
@@ -141,7 +141,7 @@
       </div>
       <div class="flashcard-content">
         <h3>PDF to Obsidian</h3>
-        <p>"Shield Structure" — How to import PDFs</p>
+        <p>"Assembly" — How to import PDFs</p>
       </div>
     </a>
   </div>
@@ -152,7 +152,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Third Card Title</h3>
-        <p>"Third Card Description" — Additional information</p>
+        <p>"Logistics" — Additional information</p>
       </div>
     </a>
   </div>
@@ -163,7 +163,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Fourth Card Title</h3>
-        <p>"Fourth Card Description" — Additional information</p>
+        <p>"Service & After Sales" — Additional information</p>
       </div>
     </a>
   </div>
@@ -174,7 +174,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Fourth Card Title</h3>
-        <p>"Fourth Card Description" — Additional information</p>
+        <p>"Projects" — Additional information</p>
       </div>
     </a>
   </div>
@@ -202,7 +202,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:31 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:33 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
