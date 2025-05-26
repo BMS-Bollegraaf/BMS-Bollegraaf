@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-005-fat-improvement-process/","tags":["procedure"],"noteIcon":"default"}
 ---
 
-	# Procedure: FAT Improvement process
+# Procedure: FAT Improvement process
 
 > **ProcesProces:** [Invullen] 
 > **QA:** [Invullen] 
