@@ -32,7 +32,7 @@
 > - [[Production Schedule\|Production Schedule]]
 > - [[Financial Reports\|Financial Reports]]
 <div class="flashcard-grid grid-4">
-  <div class="flashcard theme-orange">
+  <div class="flashcard theme-cyan">
     <a href="/BMS">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="BMS">
@@ -44,7 +44,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-orange">
+  <div class="flashcard theme-cyan">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
@@ -56,7 +56,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-orange">
+  <div class="flashcard theme-cyan">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
@@ -68,7 +68,7 @@
     </a>
   </div>
   
-  <div class="flashcard theme-orange">
+  <div class="flashcard theme-cyan">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                                                                                                                        | Last Modified          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [[BMS\|BMS]]                                                                                                                                             | 1:31 PM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                             | 1:32 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.\|QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.]]                                         | 1:31 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management\|QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management]] | 1:29 PM - May 26, 2025 |
 | [[QHSE/Procedures/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]]                                                                             | 1:01 PM - May 26, 2025 |
