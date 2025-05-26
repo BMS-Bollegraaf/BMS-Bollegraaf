@@ -5,9 +5,8 @@
 
 # Procedure: **Interne Audits**
 
-> **ProcesProces:** [Invullen] 
-> **QA:** [Invullen] 
-> **Quality:** [Invullen]
+> **Proces:** QHSE  (Quality, Health, Safety & Environment)
+
 
 ## DOEL
 
