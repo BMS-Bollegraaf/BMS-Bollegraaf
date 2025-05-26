@@ -125,3 +125,13 @@ NVT
 |                                                                                                          |                                          |
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1 x Vest Dassy Convex D-flex<br><br>Alleen indien nodig en met toestemming leidinggevende (handtekening) | ![Pasted image 20250526134219.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526134219.png)<br> |
+
+## Bijlage C; Kleding voor medewerkers Logistiek:
+
+
+
+
+## Bijlage D; Kleding voor projectlocaties: Aantallen?
+
+![Pasted image 20250526135651.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526135651.png)
+
