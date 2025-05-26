@@ -110,7 +110,7 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 
 ## REGISTRATIES EN OPSLAG
 
-| **Document**           | **Locatie en/of systeem** |
+| Document           | Locatie en/of systeem |
 | ------------------ | --------------------- |
 | NC’s / OFI’s       | NC systeem            |
 | Onderzoeksanalyses | NC systeem            |
