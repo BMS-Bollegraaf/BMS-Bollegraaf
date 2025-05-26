@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 11:25 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 11:26 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
@@ -304,13 +304,6 @@
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
 
-## Upcoming Events
-
-| File | Date | Event |
-| ---- | ---- | ----- |
-
-{ .block-language-dataview}
-
 [Goedkeuringproces.xlsx](/localfiles/Z:/BMS/Goedkeuringproces.xlsx)
 
 [Goedkeuringproces.xlsx](file:///Z:/BMS/Goedkeuringproces.xlsx)
@@ -320,9 +313,3 @@
 <a href="file:///Z:/BMS/Goedkeuringproces.xlsx" target="_blank">Goedkeuringproces.xlsx</a>
 
 <a href="javascript:window.location='file:///Z:/BMS/Goedkeuringproces.xlsx'">Goedkeuringproces.xlsx</a>
-
-
-
-## Search
-
-> [!tip] Place holder 
