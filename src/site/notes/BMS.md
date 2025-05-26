@@ -32,46 +32,50 @@
 > - [[Production Schedule\|Production Schedule]]
 > - [[Financial Reports\|Financial Reports]]
 <div class="flashcard-grid grid-4">
-  <div class="flashcard theme-blue">
+  <div class="flashcard theme-orange">
     <a href="/BMS">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="BMS">
       </div>
       <div class="flashcard-content">
-        <h2>COTO</h2>
+        <h3>COTO</h3>
+        <p></p>
       </div>
     </a>
   </div>
   
-  <div class="flashcard theme-blue">
+  <div class="flashcard theme-orange">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
-        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h4>Vision/Mission</h4>
+        <h3>Vision/Mission</h3>
+        <p></p>
       </div>
     </a>
   </div>
   
-  <div class="flashcard theme-blue">
+  <div class="flashcard theme-orange">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
-        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h4>Stragey Deployment</h4>
+        <h3>Strategy Deployment</h3>
+        <p></p>
       </div>
     </a>
   </div>
   
-  <div class="flashcard theme-blue">
+  <div class="flashcard theme-orange">
     <a href="/PDF-to-Obsidian">
       <div class="flashcard-image">
-        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
+        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
-        <h4>Risk Management</h4>
+        <h3>Risk Management</h3>
+        <p></p>
       </div>
     </a>
   </div>
@@ -280,13 +284,13 @@
 </div>
 
 ## Recent Updates
-| File                                                                            | Last Modified           |
-| ------------------------------------------------------------------------------- | ----------------------- |
-| [[QHSE/Procedures/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]] | 1:01 PM - May 26, 2025  |
-| [[QHSE/Procedures/QHSE-PRO-001 Interne Audits\|QHSE-PRO-001 Interne Audits]] | 1:01 PM - May 26, 2025  |
-| [[BMS\|BMS]]                                                                 | 11:39 AM - May 26, 2025 |
-| [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]          | 10:13 AM - May 23, 2025 |
-| [[Untitled 4\|Untitled 4]]                                                   | 10:06 AM - May 22, 2025 |
+| File                                                                                                                                                        | Last Modified          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[BMS\|BMS]]                                                                                                                                             | 1:31 PM - May 26, 2025 |
+| [[QHSE/Procedures/QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.\|QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.]]                                         | 1:31 PM - May 26, 2025 |
+| [[QHSE/Procedures/QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management\|QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management]] | 1:29 PM - May 26, 2025 |
+| [[QHSE/Procedures/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]]                                                                             | 1:01 PM - May 26, 2025 |
+| [[QHSE/Procedures/QHSE-PRO-001 Interne Audits\|QHSE-PRO-001 Interne Audits]]                                                                             | 1:01 PM - May 26, 2025 |
 
 { .block-language-dataview}
 
