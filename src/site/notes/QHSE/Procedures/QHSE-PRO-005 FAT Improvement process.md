@@ -28,24 +28,37 @@ Bollegraaf
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
 
-[Een stapsgewijze beschrijving van de activiteiten/handelingen die moeten worden uitgevoerd. Beschrijf hier ook de "Triggers" van het proces, met andere woorden, waar start en eindigt het proces mee. Tot slot moeten ook de uitgangspunten van het proces worden beschreven en de bijbehorende rollen in het proces. Verder kan hier ook een inleidende tekst worden toegevoegd]
+## 1) Feedback: vanuit de organisatie en vanaf bouwlocaties
 
-### [Stap 1]
+Het FAT team is verantwoordelijk voor de beoordeling van de ontvangen feedback. De beoordeling houdt in dat er wordt gekeken of de informatie verbetermogelijkheden bevat die moet worden omgezet in wijziging van de FAT lijst. Als het FAT team besluit dat niet het geval is, dan zal dit worden teruggekoppeld naar de indiener.
 
-[Beschrijf hier de eerste stap van het proces.]
+## 2) Beoordeling of aanpassing noodzakelijk is.
 
-### [Stap 2]
+Het FAT team zal een validatie beoordeling uitvoeren op de ontvangen feedback. Het FAT team zal de beoordelingen vast leggen in een overzicht met te verwerken wijzigingen. De lijst dient als input voor de aanpassing van de huidige FAT lijst, zodat na verwerking een hogere revisie van de FAT lijst ontstaat.
 
-[Beschrijf hier de tweede stap van het proces.]
+## 3) Verwerken van de aanpassingen
+
+De input voor het verwerken van aanpassingen in een nieuwe FAT lijst, is de lijst die is opgesteld door het FAT team. De verwerker van de wijzigingen verwerkt de aanpassingen in de FAT lijst en koppelt deze terug naar het FAT team.
+
+## 4) Beoordeling van de aanpassingen
+
+ Het team zal beoordelen of de wijzigingen verwerkt zijn als bedoeld. Als blijkt dat de wijzigingen niet correct zijn verwerkt, dan zal de worden teruggekoppeld aan de verwerker van de wijzigingen. Bij een akkoord van de verwerking, zal de lijst worden geformaliseerd door deze te ‘publiceren’ met een hogere revisie.
+
+## 5) Implementatie
+
+De FAT testers zullen middels een implementatiesessie worden geïnformeerd/geïnstrueerd over de aanpassingen van het FAT protocol. De inrichting van de implementatiesessie  zal worden afgestemd op de omvang van de wijzigingen. Ook de initiators ontvangen een bericht van de nieuwe release van de FAT.
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
 
-[In deze paragraaf worden de functies vermeld die bij het gebruik van de procedure zijn betrokken, met daarbij aangegeven hun verantwoordelijkheden en bevoegdheden (RASCI)]
+| Omschrijving                         | FAT team | Beheerder FAT Lijsten | FAT tester | Director Operations |
+| ------------------------------------ | -------- | --------------------- | ---------- | ------------------- |
+| 1) Beoordeling validiteit            | R        | -                     | C          | A                   |
+| 2) Beoordelen<br><br>Ontvangen input | R        | -                     | C          | A                   |
+| 3) Verwerken aanpassingen            | A        | R                     | -          | -                   |
+| 4) Beoordeling aanpassingen          | R        | -                     | C          | A                   |
+| 5) Implementatie                     | A        | -                     | I          | R                   |
 
-|Omschrijving|Functie 1|Functie 2|Functie 3|Functie 4|Functie 5|
-|---|---|---|---|---|---|
-|Stap 1|R|A|S|C|I|
-|Stap 2||||||
+
 
 > [!note] RASCI:
 > 
@@ -57,36 +70,35 @@ Bollegraaf
 
 ## (KEY) PERFORMANCE INDICATORS
 
-[Beschrijving van de (Key) Performance indicatoren waarop gemeten gaat worden tijdens het proces]
+NVT
 
 ## REGISTRATIES EN OPSLAG
 
-[Hierin is aangegeven welke registraties er in het kader van de werkinstructie moeten worden op-/samengesteld en de wijze waarop de informatie die beschikbaar moet komen en dient te worden bewaard. Opmerking: Rapportages kennen vele vormen, hardcopie, elektronisch, foto, etc]
+| ## Document           | ## Locatie en/of systeem |
+| --------------------- | ------------------------ |
+| Getekende FAT lijsten | xxx                      |
 
-|Document|Locatie en/of systeem|
-|---|---|
-|||
-|||
+
 
 ## GERELATEERDE DOCUMENTEN
 
-|Type|Document|
-|---|---|
-|Proces|[verwijzing naar bovenliggende procesplaat]|
-|Werkinstructie|[verwijzing naar onderliggende werkinstructie, indien deze bestaan]|
-|Formulieren & Templates|[verwijzing naar onderliggende formulieren & templates, indien deze bestaan]|
+| Type                    | Document                                                                                                                                                                                                        |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proces                  | N                                                                                                                                                                                                               |
+| Werkinstructie          |                                                                                                                                                                                                                 |
+| Formulieren & Templat PROD-FRM-001 Drumfeeder, FAT protocol  <br>PROD-FRM-002 Glijband, FAT protocol  <br>PROD-FRM-003 Kettingband, FAT protocol  <br>PROD-FRM-004 Persen, FAT protocol<br>PROD-FRM-005  Final Quality Report Balers 005  |
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
-|Type|Document|
-|---|---|
-|Management standards|[verwijzing naar management standard]|
-|Externe standaarden|[verwijzing naar externe standaarden]|
-|Wet & regelgeving|[verwijzing naar wet & regelgeving]|
+| Type                 | Document |
+| -------------------- | -------- |
+| Management standards | NVT      |
+| Externe standaarden  | NVT      |
+| Wet & regelgeving    | NVT      |
 
 ## DEFINITIES
 
-|Definitie|Beschrijving|
-|---|---|
-|[Definitie]|[Samenvattende nauwkeurige omschrijving van de kenmerken van een begrip, zodanig verwoord dat het niet meer met iets anders verward kan worden]|
-|||
+| Definitie   | Beschrijving            |
+| ----------- | ----------------------- |
+| [Definitie] | Factory Acceptance Test |
+|             |                         |
