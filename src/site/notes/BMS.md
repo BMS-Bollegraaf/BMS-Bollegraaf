@@ -18,7 +18,7 @@
       </div>
       <div class="flashcard-content">
         <h3>COTO</h3>
-        <p>"Office Bollegraaf" — BMS workflow overview</p>
+        <p></p>
       </div>
     </a>
   </div>
@@ -30,7 +30,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Vision/Mission</h3>
-        <p>"Shield Structure" — How to import PDFs</p>
+        <p></p>
       </div>
     </a>
   </div>
@@ -42,7 +42,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Stragey Deployment</h3>
-        <p>"Shield Structure" — How to import PDFs</p>
+        <p></p>
       </div>
     </a>
   </div>
@@ -54,7 +54,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Risk Management</h3>
-        <p>"Shield Structure" — How to import PDFs</p>
+        <p></p>
       </div>
     </a>
   </div>
@@ -202,7 +202,7 @@
 ## Recent Updates
 | File                                                                                                                                            | Last Modified           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:37 AM - May 26, 2025 |
+| [[BMS\|BMS]]                                                                                                                                 | 10:38 AM - May 26, 2025 |
 | [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
 | [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
 | [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
