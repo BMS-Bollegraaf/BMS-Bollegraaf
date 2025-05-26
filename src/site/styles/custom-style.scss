@@ -500,8 +500,6 @@ blockquote {
 }
 /* Enhanced Flashcard Grid System - Individual Card Colors */
 
-/* Enhanced Flashcard Grid System - Individual Card Colors */
-
 /* Base flashcard variables (default theme) */
 :root {
   --flashcard-gap: 1.5rem;
@@ -520,7 +518,7 @@ blockquote {
   padding: 0 1rem;
 }
 
-/* Grid variations with smart responsive logic - Max 4 per row */
+/* Grid variations with smart layouts (max 4 per row) */
 .grid-2 { 
   grid-template-columns: repeat(2, 1fr);
   max-width: 800px;
@@ -534,38 +532,39 @@ blockquote {
   max-width: 1400px;
 }
 .grid-5 { 
-  grid-template-columns: repeat(3, 1fr); /* 3 + 2 layout */
+  grid-template-columns: repeat(3, 1fr); /* 3+2 layout */
   max-width: 1200px;
 }
 .grid-6 { 
-  grid-template-columns: repeat(3, 1fr); /* 3 + 3 layout */
+  grid-template-columns: repeat(3, 1fr); /* 3+3 layout */
   max-width: 1200px;
 }
 .grid-7 { 
-  grid-template-columns: repeat(4, 1fr); /* 4 + 3 layout */
+  grid-template-columns: repeat(4, 1fr); /* 4+3 layout */
   max-width: 1400px;
 }
 .grid-8 { 
-  grid-template-columns: repeat(4, 1fr); /* 4 + 4 layout */
+  grid-template-columns: repeat(4, 1fr); /* 4+4 layout */
   max-width: 1400px;
 }
 .grid-9 { 
-  grid-template-columns: repeat(3, 1fr); /* 3 + 3 + 3 layout */
+  grid-template-columns: repeat(3, 1fr); /* 3+3+3 layout */
   max-width: 1200px;
 }
 .grid-10 { 
-  grid-template-columns: repeat(4, 1fr); /* 4 + 3 + 3 layout */
-  max-width: 1400px;
+  grid-template-columns: repeat(2, 1fr); /* 2+2+2+2+2 layout */
+  max-width: 800px;
 }
 
-/* Responsive breakpoints with smart logic */
+/* Responsive breakpoints */
 @media (max-width: 1400px) {
-  .grid-4, .grid-7, .grid-8, .grid-10 { 
-    grid-template-columns: repeat(3, 1fr); 
-  }
+  .grid-4, .grid-7, .grid-8 { grid-template-columns: repeat(3, 1fr); }
 }
-@media (max-width: 1000px) {
-  .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { 
+@media (max-width: 1200px) {
+  .grid-3, .grid-5, .grid-6, .grid-9 { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 800px) {
+  .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { 
     grid-template-columns: repeat(2, 1fr); 
   }
 }
@@ -681,8 +680,8 @@ blockquote {
   }
 }
 
-/* Size adjustments for smaller cards (when using 4-column layouts) */
-.grid-7, .grid-8, .grid-10 {
+/* Size adjustments for grids with many cards */
+.grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 {
   .flashcard {
     min-height: 260px;
     max-height: 320px;
