@@ -535,19 +535,45 @@ blockquote {
   grid-template-columns: repeat(5, 1fr);
   max-width: 1600px;
 }
+.grid-6 { 
+  grid-template-columns: repeat(6, 1fr);
+  max-width: 1800px;
+}
+.grid-7 { 
+  grid-template-columns: repeat(7, 1fr);
+  max-width: 2000px;
+}
+.grid-8 { 
+  grid-template-columns: repeat(4, 1fr);
+  max-width: 1400px;
+}
+.grid-9 { 
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 1200px;
+}
+.grid-10 { 
+  grid-template-columns: repeat(5, 1fr);
+  max-width: 1600px;
+}
 
 /* Responsive breakpoints */
+@media (max-width: 2000px) {
+  .grid-7 { grid-template-columns: repeat(4, 1fr); }
+}
+@media (max-width: 1800px) {
+  .grid-6, .grid-7 { grid-template-columns: repeat(4, 1fr); }
+}
 @media (max-width: 1600px) {
-  .grid-5 { grid-template-columns: repeat(4, 1fr); }
+  .grid-5, .grid-6, .grid-7, .grid-10 { grid-template-columns: repeat(4, 1fr); }
 }
 @media (max-width: 1400px) {
-  .grid-4, .grid-5 { grid-template-columns: repeat(3, 1fr); }
+  .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { grid-template-columns: repeat(3, 1fr); }
 }
 @media (max-width: 1000px) {
-  .grid-3, .grid-4, .grid-5 { grid-template-columns: repeat(2, 1fr); }
+  .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 650px) {
-  .grid-2, .grid-3, .grid-4, .grid-5 { grid-template-columns: 1fr; }
+  .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10 { grid-template-columns: 1fr; }
   .flashcard-grid { gap: 1rem; }
 }
 
@@ -656,25 +682,52 @@ blockquote {
   }
 }
 
-/* Size adjustments for 5-card grids */
-.grid-5 .flashcard {
-  min-height: 260px;
-  max-height: 320px;
+/* Size adjustments for higher card counts */
+.grid-5, .grid-6, .grid-7, .grid-10 {
+  .flashcard {
+    min-height: 260px;
+    max-height: 320px;
 
-  .flashcard-image {
-    height: 160px;
-    padding: 1.25rem;
-  }
-
-  .flashcard-content {
-    padding: 1.25rem;
-
-    h3 {
-      font-size: 1.1rem;
+    .flashcard-image {
+      height: 160px;
+      padding: 1.25rem;
     }
 
-    p {
-      font-size: 0.85rem;
+    .flashcard-content {
+      padding: 1.25rem;
+
+      h3 {
+        font-size: 1.1rem;
+      }
+
+      p {
+        font-size: 0.85rem;
+      }
+    }
+  }
+}
+
+/* Extra compact for 7+ cards */
+.grid-7 {
+  .flashcard {
+    min-height: 240px;
+    max-height: 300px;
+
+    .flashcard-image {
+      height: 140px;
+      padding: 1rem;
+    }
+
+    .flashcard-content {
+      padding: 1rem;
+
+      h3 {
+        font-size: 1rem;
+      }
+
+      p {
+        font-size: 0.8rem;
+      }
     }
   }
 }
@@ -807,6 +860,54 @@ blockquote {
   }
 }
 
+/* Dark/Slate Theme */
+.flashcard.theme-slate {
+  background: rgba(45, 55, 72, 0.85);
+  border-color: rgba(160, 174, 192, 0.4);
+
+  .flashcard-image {
+    background: rgba(26, 32, 44, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #A0AEC0;
+  }
+
+  &:hover {
+    border-color: #A0AEC0;
+  }
+}
+
+/* Indigo Theme */
+.flashcard.theme-indigo {
+  background: rgba(49, 46, 129, 0.85);
+  border-color: rgba(129, 140, 248, 0.4);
+
+  .flashcard-image {
+    background: rgba(30, 27, 75, 0.8);
+  }
+
+  .flashcard-content h3 {
+    color: #818CF8;
+  }
+
+  &:hover {
+    border-color: #818CF8;
+  }
+}
+
+/* Loading animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* Pink Theme */
 .flashcard.theme-pink {
   background: rgba(70, 30, 60, 0.85);
@@ -825,18 +926,6 @@ blockquote {
   }
 }
 
-/* Loading animation */
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 .flashcard {
   animation: fadeInUp 0.6s ease-out;
 
@@ -844,6 +933,11 @@ blockquote {
   &:nth-child(3) { animation-delay: 0.2s; }
   &:nth-child(4) { animation-delay: 0.3s; }
   &:nth-child(5) { animation-delay: 0.4s; }
+  &:nth-child(6) { animation-delay: 0.5s; }
+  &:nth-child(7) { animation-delay: 0.6s; }
+  &:nth-child(8) { animation-delay: 0.7s; }
+  &:nth-child(9) { animation-delay: 0.8s; }
+  &:nth-child(10) { animation-delay: 0.9s; }
 }
 
 /* Focus accessibility */
