@@ -9,7 +9,6 @@
 > **Quality:** [Invullen]
 
 
-
 ## DOEL
 
 Het doel van deze procedure is het vastleggen van het verbeterproces met betrekking tot de FAT lijsten, uit ontvangen feedback vanuit alle lagen van de organisatie, inclusief de feedback vanaf project-/bouwlocaties.
@@ -99,7 +98,7 @@ NVT
 
 ## DEFINITIES
 
-| Definitie   | Beschrijving            |
-| ----------- | ----------------------- |
-| [Definitie] | Factory Acceptance Test |
-|             |                         |
+| Definitie | Beschrijving            |
+| --------- | ----------------------- |
+| FAT       | Factory Acceptance Test |
+|           |                         |
