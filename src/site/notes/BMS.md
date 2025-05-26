@@ -9,7 +9,28 @@
 
 
 > [!info] Bollegraaf - Document Management System
+## Key Resources
 
+> [!note]- Company Policies
+> 
+> - [[Employee Handbook\|Employee Handbook]]
+> - [[Safety Procedures\|Safety Procedures]]
+> - [[Quality Standards\|Quality Standards]]
+> - [[Company Values\|Company Values]]
+
+> [!note]- Templates
+> 
+> - [[Meeting Minutes Template\|Meeting Minutes Template]]
+> - [[Project Brief Template\|Project Brief Template]]
+> - [[Weekly Report Template\|Weekly Report Template]]
+> - [[Employee Onboarding Checklist\|Employee Onboarding Checklist]]
+
+> [!note]- Department Quick Links
+> 
+> - [[Sales Pipeline\|Sales Pipeline]]
+> - [[Engineering Projects\|Engineering Projects]]
+> - [[Production Schedule\|Production Schedule]]
+> - [[Financial Reports\|Financial Reports]]
 <div class="flashcard-grid grid-4">
   <div class="flashcard theme-blue">
     <a href="/BMS">
@@ -59,8 +80,6 @@
     </a>
   </div>
 </div>
-
-
 
 
 <div class="flashcard-grid grid-10">
@@ -181,6 +200,7 @@
 </div>
 
 
+
 <div class="flashcard-grid grid-7">
   <div class="flashcard theme-red">
     <a href="/BMS">
@@ -263,19 +283,17 @@
     </a>
   </div>
 </div>
+## Recent Updates
+| File                                                                                                                                            | Last Modified           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[BMS\|BMS]]                                                                                                                                 | 11:25 AM - May 26, 2025 |
+| [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
+| [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
+| [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
+| [[IT/Instructions/ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk\|ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk]] | 8:34 AM - May 22, 2025  |
 
+{ .block-language-dataview}
 
-
-
-> [!tip] Quick Navigation
-> 
-> - [[Weekly Meeting Notes\|Weekly Meeting Notes]]
-> - [[Current Projects\|Current Projects]]
-> - [[Company Calendar\|Company Calendar]]
-> - [[Internal Policies\|Internal Policies]]
-## Management Structure
-
-> [!info] Bollegraaf - Document Management System
 
 > [!success] Strategic Level [[COTO Dashboard\|COTO Dashboard]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management Dashboard\|Risk Management Dashboard]]
 
@@ -285,42 +303,6 @@
 
 > [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
-## Recent Updates
-| File                                                                                                                                            | Last Modified           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 10:55 AM - May 26, 2025 |
-| [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
-| [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
-| [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
-| [[IT/Instructions/ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk\|ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk]] | 8:34 AM - May 22, 2025  |
-
-{ .block-language-dataview}
-## Most Accessed Notes
-
-<p><span>Top accessed notes will appear here once you implement access tracking</span></p>
-
-## Key Resources
-
-> [!note]- Company Policies
-> 
-> - [[Employee Handbook\|Employee Handbook]]
-> - [[Safety Procedures\|Safety Procedures]]
-> - [[Quality Standards\|Quality Standards]]
-> - [[Company Values\|Company Values]]
-
-> [!note]- Templates
-> 
-> - [[Meeting Minutes Template\|Meeting Minutes Template]]
-> - [[Project Brief Template\|Project Brief Template]]
-> - [[Weekly Report Template\|Weekly Report Template]]
-> - [[Employee Onboarding Checklist\|Employee Onboarding Checklist]]
-
-> [!note]- Department Quick Links
-> 
-> - [[Sales Pipeline\|Sales Pipeline]]
-> - [[Engineering Projects\|Engineering Projects]]
-> - [[Production Schedule\|Production Schedule]]
-> - [[Financial Reports\|Financial Reports]]
 
 ## Upcoming Events
 
