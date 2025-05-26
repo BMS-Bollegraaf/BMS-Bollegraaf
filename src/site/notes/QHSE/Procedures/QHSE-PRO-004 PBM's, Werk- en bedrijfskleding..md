@@ -18,8 +18,7 @@ Bollegraaf Holding B.V., Bollegraaf RS en Lubo
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
 
-
-![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![Pasted image 20250526142012.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526142012.png)
 
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
@@ -127,6 +126,7 @@ NVT
 | 1 x Vest Dassy Convex D-flex<br><br>Alleen indien nodig en met toestemming leidinggevende (handtekening) | ![Pasted image 20250526134219.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526134219.png)<br> |
 
 ## Bijlage C; Kleding voor medewerkers Logistiek:
+
 
 | 3 x T-shirt Clique zwart Rudolf wil naar 5 stuks | ![Pasted image 20250526141229.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250526141229.png) |
 | ------------------------------------------------ | ------------------------------------ |
