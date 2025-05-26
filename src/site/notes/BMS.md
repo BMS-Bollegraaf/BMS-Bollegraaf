@@ -280,13 +280,13 @@
 </div>
 
 ## Recent Updates
-| File                                                                                                                                            | Last Modified           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[BMS\|BMS]]                                                                                                                                 | 11:39 AM - May 26, 2025 |
-| [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]                                                                          | 10:13 AM - May 23, 2025 |
-| [[Untitled 4\|Untitled 4]]                                                                                                                   | 10:06 AM - May 22, 2025 |
-| [[Untitled 3\|Untitled 3]]                                                                                                                   | 9:47 AM - May 22, 2025  |
-| [[IT/Instructions/ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk\|ISMS-IN-TOP-001 Configuration Naming Convention for TOPdesk]] | 8:34 AM - May 22, 2025  |
+| File                                                                            | Last Modified           |
+| ------------------------------------------------------------------------------- | ----------------------- |
+| [[QHSE/Procedures/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]] | 1:01 PM - May 26, 2025  |
+| [[QHSE/Procedures/QHSE-PRO-001 Interne Audits\|QHSE-PRO-001 Interne Audits]] | 1:01 PM - May 26, 2025  |
+| [[BMS\|BMS]]                                                                 | 11:39 AM - May 26, 2025 |
+| [[Excalidraw/How to work with Obsidian\|How to work with Obsidian]]          | 10:13 AM - May 23, 2025 |
+| [[Untitled 4\|Untitled 4]]                                                   | 10:06 AM - May 22, 2025 |
 
 { .block-language-dataview}
 
