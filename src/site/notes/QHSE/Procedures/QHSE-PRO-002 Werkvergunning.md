@@ -132,16 +132,18 @@ NVT
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Afgetekende werkvergunningen | [Teams site: Werkvergunningen](https://teams.microsoft.com/l/channel/19%3AZWWHDRs6l9GLeqgnp_qMIHaLEoPr0O3PHEsBVmAhW3s1%40thread.tacv2/Werkvergunningen?groupId=c8193168-30a6-461a-86d1-3ff42681b9f8&tenantId=e98c41b7-97e3-43d1-a314-5c4f81332a03) |
 |                              |                                                                                                                                                                                                                                                    |
-
+[QHSE-FRM-005 TRA](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-005 TRA Template.xlsx)
 ## GERELATEERDE DOCUMENTEN
 
 | Type                    | Document                                                                                                                                                                                                                               |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Proces                  | [QHSE-FLO-001 Processflow Quality, Health, Safety & Environment](file:///C:/Users/g.scheper/OneDrive%20-%20Bollegraaf%20Recycling%20Solutions/Quality/BMS/QHSE-FLO-001%20Procesflow%20Quality,%20Health,%20Safety,%20Environment.vsdx) |
 | Werkinstructie          | NVT                                                                                                                                                                                                                                    |
-| Formulieren & Templates | [QHSE-FRM-004 Werkvergunning - met achterzijde.pdf](Z:\QHSE\BMS\QHSE\QHSE-FRM-004 Werkvergunning - met achterzijde.pdf)<br>[QHSE-FRM-005 TRA](Z:\QHSE\BMS\QHSE\QHSE-FRM-005 TRA Template.xlsx)                                         |
+| Formulieren & Templates | [QHSE-FRM-004 Werkvergunning - met achterzijde.pdf](Z:\QHSE\BMS\QHSE\QHSE-FRM-004 Werkvergunning - met achterzijde.pdf)<br>[QHSE-FRM-005 TRA](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-005 TRA Template.xlsx)                                 |
 |                         |                                                                                                                                                                                                                                        |
-
+|                         |                                                                                                                                                                                                                                        |
+[Goedkeuringproces.xlsx](file:///Z:/BMS/Goedkeuringproces.xlsx)
+[QHSE-FRM-005 TRA](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-005 TRA Template.xlsx)
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
 | Type                 | Document |
