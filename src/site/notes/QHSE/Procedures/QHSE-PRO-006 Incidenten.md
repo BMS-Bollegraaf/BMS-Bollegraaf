@@ -13,35 +13,77 @@
 > **document_eigenaren**:      Gert Scheper
 > **geverifieerd_door**:            Monica Smith
 > **geautoriseerd_door**:        Gert Scheper
-> **ProcesProces:**                   QHSE (Quality, Health, Safety & Environment)
+> **Proces:**                              QHSE (Quality, Health, Safety & Environment)
 
+>
+
+| **status** | gepubliceerd |
+| ---------- | ------------ |
+| document   | QHSE-PRO-006 |
+|            |              |
 
 
 ## DOEL
 
-[Dit is een beknopte SMAR(T) gemaakte afgebakende beschrijving van het beoogde doel en de belangrijkste risico's die beheerst worden door deze procedure. Tevens moet in deze omschrijving duidelijk worden wat het eindresultaat moet zijn van hetgeen moet worden gerealiseerd]
+Deze procedure beschrijft de stappen die moeten worden gevolgd bij een incident bij Bollegraaf Recycling Solutions. Het doel is om snel en effectief te reageren op incidenten, letsel en schade te minimaliseren, en herhaling te voorkomen door een grondige analyse en opvolging.
 
 ## TOEPASSINGSGEBIED
 
-[Dit is een beknopte beschrijving voor wie en/of waarvoor de procedure is bedoeld en hoe deze dient te worden gebruikt]
+Bollegraaf RM Appingedam
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
-
-[Flowchart van het proces / activiteiten, kan gecombineerd worden met tekst]
-
+![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
 
-[Een stapsgewijze beschrijving van de activiteiten/handelingen die moeten worden uitgevoerd. Beschrijf hier ook de "Triggers" van het proces, met andere woorden, waar start en eindigt het proces mee. Tot slot moeten ook de uitgangspunten van het proces worden beschreven en de bijbehorende rollen in het proces. Verder kan hier ook een inleidende tekst worden toegevoegd]
+## 1.    Wat wordt beschouwd als een incident?
 
-### [Stap 1]
+Een incident is elke onveilige situatie of gebeurtenis die heeft geleid tot, of had kunnen leiden tot:
 
-[Beschrijf hier de eerste stap van het proces.]
+·        Letsel of gezondheidsschade bij medewerkers, bezoekers of derden.
+·        Schade aan eigendommen of installaties.
+·        Milieu-incidenten zoals lekkages van gevaarlijke stoffen.
+·        Brand, explosie of andere calamiteiten.  
+  
 
-### [Stap 2]
+Voorbeelden van incidenten:
 
-[Beschrijf hier de tweede stap van het proces.]
+•       Vallen of struikelen.
+•       Onjuiste bediening van machines met letsel als gevolg.
+•       Blootstelling aan gevaarlijke stoffen.
+•       Brand- of explosiegevaar door elektrische apparatuur.
+
+## 2.  Eerste acties bij een incident
+
+Bij elk incident is het belangrijk om snel en correct te handelen. De volgende stappen moeten direct worden genomen:
+
+2.1 Blijf kalm en beoordeel de situatie:
+
+•       Zorg voor eigen veiligheid en die van anderen. Handel alleen als het veilig is.
+•       Veiligheidsmaatregelen: Schakel machines uit, gebruik noodstops of verlaat het gebied.
+
+2.2 Verleen eerste hulp:
+
+•       EHBO en BHV: Als er gewonden zijn, waarschuw direct een EHBO’er of een bedrijfshulpverlener (BHV). Verleen alleen eerste hulp als je hiervoor getraind bent.
+
+•       Bel hulpdiensten: Bij ernstig letsel, brand, of andere levensbedreigende situaties moeten de hulpdiensten onmiddellijk worden gewaarschuwd (112). _(zie_ [_communicatieschema_](#_10._Communicatieschema_bij) _bij § 10)_
+
+2.3 Meld het incident:
+
+•       **Incident met letsel**: Informeer direct de BHV’er van dienst over het incident. (schema 10.1 treed in werking)
+
+•       **Incident zonder letsel**: Informeer direct je leidinggevende of supervisor. (schema 10.2 treed in werking)
+
+Alle incidenten:
+
+•       Afzetten van het incidentgebied: Beveilig het gebied om verdere incidenten te voorkomen. Zet het gebied af met waarschuwingslinten of hekken. Niemand is gerechtigd het gebied nog te betreden.
+
+•       Laat de situatie van het incident in tact, verander niets aan de werkplek zodat incident onderzoek naar de toedracht mogelijk blijft.
+
+2.4 Begeleiding van het slachtoffer:
+
+Als een bezoek aan de huisarts nodig is, kan de leidinggevende in overleg met het slachtoffer een begeleider aanwijzen. Na het huisartsbezoek vindt bij terugkomst op locatie een gesprek plaats tussen het slachtoffer en het onderzoeksteam. Op basis van medisch advies wordt vervolgens bepaald of de werkzaamheden kunnen worden hervat of aangepast werk nodig is
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
 
