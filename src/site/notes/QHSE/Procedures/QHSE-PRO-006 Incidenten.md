@@ -60,13 +60,13 @@ Bij elk incident is het belangrijk om snel en correct te handelen. De volgende s
 
 2.2 Verleen eerste hulp:
 
-•       EHBO en BHV: Als er gewonden zijn, waarschuw direct een EHBO’er of een bedrijfshulpverlener (BHV). Verleen alleen eerste hulp als je hiervoor getraind bent.
-•       Bel hulpdiensten: Bij ernstig letsel, brand, of andere levensbedreigende situaties moeten de hulpdiensten onmiddellijk worden gewaarschuwd (112). _(zie_ [_communicatieschema_](#_10._Communicatieschema_bij) _bij § 10)_
+-  EHBO en BHV: Als er gewonden zijn, waarschuw direct een EHBO’er of een bedrijfshulpverlener (BHV). Verleen alleen eerste hulp als je hiervoor getraind bent.
+-  Bel hulpdiensten: Bij ernstig letsel, brand, of andere levensbedreigende situaties moeten de hulpdiensten onmiddellijk worden gewaarschuwd (112). _(zie_ [_communicatieschema_](#_10._Communicatieschema_bij) _bij § 10)_
 
 2.3 Meld het incident:
 
-•       **Incident met letsel**: Informeer direct de BHV’er van dienst over het incident. (schema 10.1 treed in werking)
-•       **Incident zonder letsel**: Informeer direct je leidinggevende of supervisor. (schema 10.2 treed in werking)
+ - **Incident met letsel**: Informeer direct de BHV’er van dienst over het incident. (schema 10.1 treed in werking)
+ -  **Incident zonder letsel**: Informeer direct je leidinggevende of supervisor. (schema 10.2 treed in werking)
 
 <u>Alle incidenten:</u>
 
@@ -76,6 +76,47 @@ Bij elk incident is het belangrijk om snel en correct te handelen. De volgende s
 2.4 Begeleiding van het slachtoffer:
 
 Als een bezoek aan de huisarts nodig is, kan de leidinggevende in overleg met het slachtoffer een begeleider aanwijzen. Na het huisartsbezoek vindt bij terugkomst op locatie een gesprek plaats tussen het slachtoffer en het onderzoeksteam. Op basis van medisch advies wordt vervolgens bepaald of de werkzaamheden kunnen worden hervat of aangepast werk nodig is
+
+## 3. Meldingsprocedure voor incidenten
+
+Na een incident moeten alle betrokkenen ervoor zorgen dat het incident wordt gemeld, zodat een formeel onderzoek kan worden uitgevoerd. De stappen zijn als volgt:
+
+3.1 Incidentrapport invullen:
+
+Wie vult het rapport in? Het incident moet door de direct betrokkenen of leidinggevenden worden gemeld via het incidentrapport.
+
+Wat moet het rapport bevatten?
+
+-  Datum, tijd en locatie van het incident.
+-  Namen van betrokkenen en getuigen.
+-  Een gedetailleerde beschrijving van het incident (wat gebeurde er precies?).
+-  Eventuele verwondingen of schade.
+-  Acties die zijn ondernomen direct na het incident. 
+-  Mogelijke oorzaken van het incident.  
+  
+
+3.2 Het veiligheidsteam op de hoogte stellen:
+
+-  Veiligheidscoördinator: overhandig het incidentrapport aan de veiligheidscoördinator* voor een verdere analyse.
+-  Tijdige melding: Zorg ervoor dat alle incidenten **zo spoedig mogelijk**, maar uiterlijk binnen 24 uur na het voorval gemeld worden.  
+  
+* Op een projectlocatie bij de Bollegraaf locatieverantwoordelijke. De locatieverantwoordelijke informeert de QHSE afdeling en stuurt het incidentrapport per e-mail.
+
+
+## 4. Onderzoek naar het incident
+
+Het veiligheidsteam of een aangewezen onderzoeksteam zal een diepgaand onderzoek uitvoeren om de oorzaak van het incident te achterhalen en maatregelen te nemen om herhaling te voorkomen.
+
+Stappen in het onderzoek:
+
+1. Verzamelen van informatie: Interview betrokkenen en getuigen. Verzamel bewijsmateriaal, zoals foto's van de locatie, apparatuur of gevaarlijke stoffen die betrokken waren.
+2. Oorzaakanalyse: Voer een root cause analysis (RCA) uit om de onderliggende oorzaak van het incident te identificeren.
+3. Opstellen van een actieplan: Aan de hand van de resultaten van het onderzoek wordt een actieplan opgesteld om de oorzaken aan te pakken. Dit kan bestaan uit:
+
+-  Aanpassingen in werkwijzen.
+-  Extra training of voorlichting.
+-  Aanpassingen aan machines of installaties. 
+-  Implementeren van aanvullende veiligheidsmaatregelen.
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
 
