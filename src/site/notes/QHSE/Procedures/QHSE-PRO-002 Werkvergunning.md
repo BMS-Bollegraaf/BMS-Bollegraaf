@@ -2,13 +2,10 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-002-werkvergunning/","tags":["procedure","QHSE/PRO"],"noteIcon":"default"}
 ---
 
+
 # Procedure: **Werkvergunning**
 
-
-
-> **ProcesProces:** [Invullen] 
-> **QA:** [Invullen] 
-> **Quality:** [Invullen]
+> **Proces:** QHSE  (Quality, Health, Safety & Environment)**
 
 ## DOEL
 
@@ -36,7 +33,9 @@ De werkvergunning procedure geldt niet voor transporteurs.
 - Grondwerken, hijswerkzaamheden, en werken aan elektrische installaties.
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
-![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![Pasted image 20250527161117.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250527161117.png)
+
+
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
 
 ## Procedure voor het verkrijgen van een werkvergunning:  
