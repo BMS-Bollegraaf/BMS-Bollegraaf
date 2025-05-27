@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-006-incidenten/","tags":["procedure"],"noteIcon":"default"}
 ---
 
+
 # Procedure: Incidenten
 
 > **status**:                               Gepubliceerd
@@ -15,12 +16,6 @@
 > **geautoriseerd_door**:        Gert Scheper
 > **Proces:**                              QHSE (Quality, Health, Safety & Environment)
 
->
-
-| **status** | gepubliceerd |
-| ---------- | ------------ |
-| document   | QHSE-PRO-006 |
-|            |              |
 
 
 ## DOEL
@@ -32,7 +27,7 @@ Deze procedure beschrijft de stappen die moeten worden gevolgd bij een incident 
 Bollegraaf RM Appingedam
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
-![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![Pasted image 20250527161234.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250527161234.png)
 
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
@@ -60,26 +55,23 @@ Bij elk incident is het belangrijk om snel en correct te handelen. De volgende s
 
 2.1 Blijf kalm en beoordeel de situatie:
 
-•       Zorg voor eigen veiligheid en die van anderen. Handel alleen als het veilig is.
-•       Veiligheidsmaatregelen: Schakel machines uit, gebruik noodstops of verlaat het gebied.
+-  Zorg voor eigen veiligheid en die van anderen. Handel alleen als het veilig is.
+-  Veiligheidsmaatregelen: Schakel machines uit, gebruik noodstops of verlaat het gebied.
 
 2.2 Verleen eerste hulp:
 
 •       EHBO en BHV: Als er gewonden zijn, waarschuw direct een EHBO’er of een bedrijfshulpverlener (BHV). Verleen alleen eerste hulp als je hiervoor getraind bent.
-
 •       Bel hulpdiensten: Bij ernstig letsel, brand, of andere levensbedreigende situaties moeten de hulpdiensten onmiddellijk worden gewaarschuwd (112). _(zie_ [_communicatieschema_](#_10._Communicatieschema_bij) _bij § 10)_
 
 2.3 Meld het incident:
 
 •       **Incident met letsel**: Informeer direct de BHV’er van dienst over het incident. (schema 10.1 treed in werking)
-
 •       **Incident zonder letsel**: Informeer direct je leidinggevende of supervisor. (schema 10.2 treed in werking)
 
-Alle incidenten:
+<u>Alle incidenten:</u>
 
-•       Afzetten van het incidentgebied: Beveilig het gebied om verdere incidenten te voorkomen. Zet het gebied af met waarschuwingslinten of hekken. Niemand is gerechtigd het gebied nog te betreden.
-
-•       Laat de situatie van het incident in tact, verander niets aan de werkplek zodat incident onderzoek naar de toedracht mogelijk blijft.
+- Afzetten van het incidentgebied: Beveilig het gebied om verdere incidenten te voorkomen. Zet het gebied af met waarschuwingslinten of hekken. Niemand is gerechtigd het gebied nog te betreden.
+- Laat de situatie van het incident in tact, verander niets aan de werkplek zodat incident onderzoek naar de toedracht mogelijk blijft.
 
 2.4 Begeleiding van het slachtoffer:
 
