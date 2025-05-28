@@ -142,6 +142,10 @@ NVT
 |                         | [QHSE-FRM-015%20Reporting%20Unsafe%20Act%20-%20Unsafe%20Situations.docx](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-015%20Reporting%20Unsafe%20Act%20-%20Unsafe%20Situations.docx)                                                              |
 |                         | [QHSE-FRM-014 Safety Alert.docx](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-014%20Safety%20Alert.docx)                                                                                                                                          |
 [PROD-FRM-005 Final Quality Report Balers.docx](file:///C:/Users/g.scheper/Downloads/PROD-FRM-005 Final Quality Report Balers.docx)
+
+<a href="file:///C:/Shared/High-Volume%20Automatable%20Remote%20Jobs.pdf">Open Local Report</a>
+
+
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
 | Type                 | Document |
