@@ -100,7 +100,7 @@ Wat moet het rapport bevatten?
 -  Veiligheidscoördinator: overhandig het incidentrapport aan de veiligheidscoördinator* voor een verdere analyse.
 -  Tijdige melding: Zorg ervoor dat alle incidenten **zo spoedig mogelijk**, maar uiterlijk binnen 24 uur na het voorval gemeld worden.  
   
-* Op een projectlocatie bij de Bollegraaf locatieverantwoordelijke. De locatieverantwoordelijke informeert de QHSE afdeling en stuurt het incidentrapport per e-mail.
+****Op een projectlocatie bij de Bollegraaf locatieverantwoordelijke. De locatieverantwoordelijke informeert de QHSE afdeling en stuurt het incidentrapport per e-mail.
 
 
 ## 4. Onderzoek naar het incident
@@ -117,6 +117,62 @@ Stappen in het onderzoek:
 -  Extra training of voorlichting.
 -  Aanpassingen aan machines of installaties. 
 -  Implementeren van aanvullende veiligheidsmaatregelen.
+
+## 5. Terugkoppeling naar medewerkers:
+
+•       Het veiligheidsteam communiceert de bevindingen en de corrigerende maatregelen aan alle betrokkenen en indien nodig aan de hele organisatie.
+
+## 6. Opvolging en preventieve maatregelen
+
+Na het incidentonderzoek is het van belang dat de voorgestelde maatregelen worden geïmplementeerd om toekomstige incidenten te voorkomen.
+
+6.1 Implementatie van verbeteringen:
+
+- Corrigerende maatregelen: Zorg ervoor dat de verbeteringen die voortkomen uit het actieplan worden ingevoerd.
+- Training en voorlichting: Waar nodig worden medewerkers getraind in de nieuwe werkwijzen of veiligheidsvoorschriften.
+
+6.2 Monitoren en evalueren:
+
+- Evaluatie van maatregelen: Controleer regelmatig of de genomen maatregelen effectief zijn en of de werkvloer veilig blijft.
+- Feedback verzamelen: Vraag feedback van medewerkers om te zien of de nieuwe maatregelen hun werk veilig en efficiënter maken.
+
+## 7. Gevolgen van niet naleven van de incidentenprocedure
+
+Het niet naleven van deze procedure kan ernstige gevolgen hebben voor zowel medewerkers als het bedrijf. Het is cruciaal dat iedereen zich houdt aan de meldings- en veiligheidsprocedures.
+
+Mogelijke gevolgen:
+
+- Verhoogd risico op herhaling van ongevallen.
+- Ernstigere letsels of schade als incidenten niet correct worden afgehandeld.
+- Mogelijke sancties van inspectiediensten bij herhaalde veiligheidsinbreuken.
+
+## 8. Rapportage en registratie van incidenten
+
+Alle incidenten, inclusief bijna-ongevallen, worden geregistreerd en bewaard in een incidentendatabase. Deze database helpt het bedrijf om trends te analyseren en preventieve maatregelen te nemen.
+
+Regelmatige rapportage:
+
+- Het veiligheidsteam rapporteert volgens afspraak over de incidenten en genomen maatregelen aan het managementteam.
+- Incidententrends worden regelmatig geanalyseerd om risico's vroegtijdig te identificeren.
+
+
+## 9. Afsluiting en bewustwording
+
+Het is belangrijk dat iedereen zich bewust blijft van de veiligheidsrisico's op de werkvloer en dat incidenten altijd serieus worden genomen. Door direct te melden, een grondig onderzoek uit te voeren en verbeteringen door te voeren, kunnen we samen zorgen voor een veilige werkomgeving.
+
+
+## 10. Communicatieschema bij incidenten
+
+## Wie informeert wie:
+
+### Schema 10.1 (incidenten met letsel)
+
+![Pasted image 20250603161426.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250603161426.png)
+
+### Schema 10.2 (incidenten zonder letsel, gevaarlijke situaties, onveilige handelingen)
+
+![Pasted image 20250603161559.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250603161559.png)
+
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
 
