@@ -7,7 +7,6 @@
 
 > **Proces: QHSE  (Quality, Health, Safety & Environment)**
 
-
 ## DOEL
 
 De interne audit procedure heeft specifieke doelen die gericht zijn op het evalueren en verbeteren van het Bedrijfs Management Systeem (BMS) van de organisatie. NEN-EN ISO 9001:2015 is een internationale norm die eisen stelt aan het BMS, met als doel de klanttevredenheid te verhogen door de effectieve toepassing van het systeem, inclusief processen voor voortdurende verbetering en waarborging van conformiteit met klantvereisten en wettelijke eisen.
@@ -42,7 +41,8 @@ De audits worden uitgevoerd namens de directie van Bollegraaf Holding. De audits
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
 
-![Pasted image 20250506115319.png](/img/user/attachments/Pasted%20image%2020250506115319.png)
+![Pasted image 20250603141826.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250603141826.png)
+
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
 
 Door de QHSE manager wordt in samenspraak met de directie, jaarlijks het auditplan opgesteld zie doc [QHSE-GOV-004](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/HG53OZINYV73SK3630HUSSLAVK2T7BV4FOH7E3RD3FI95/QHSE-GOV-004%20Auditplanning%20-%20Getekend%20door%20directie.pdf), waarbij rekening wordt gehouden met risico’s van de te auditen processen, maar ook met de resultaten van voorgaande interne- en externe audits worden hierin meegenomen. Het auditplan is een ‘rollende’ auditplanning om alle onderdelen van de certificeringen af te dekken. Het auditplan wordt ter accordering aangeboden aan de directie.
@@ -98,9 +98,9 @@ ZZZ =   audit volgnummer
 | Emmen      | EMN       |
 
 ## Behandeling van NC, OFI en RCCA  
-Voor alle gerapporteerde afwijkingen (NC’s) is een formele corrigerende maatregel vereist van de proces eigenaar(s) die de hoofdoorzaak van het probleem/de problemen aanpakt. Dit wordt vastgelegd op het RCCA formulier. Voor Verbeterkansen (OFI’s) wordt aanbevolen dat passende maatregelen worden genomen om te voorkomen dat de gerapporteerde situatie in de toekomst escaleert naar een niet-conforme situatie.
+Voor alle gerapporteerde afwijkingen (NC’s) is een formele corrigerende maatregel vereist van de proces eigenaar(s) die de hoofdoorzaak van het probleem/de problemen aanpakt. Dit wordt vastgelegd op het NCR/RCCA formulier. Voor Verbeterkansen (OFI’s) wordt aanbevolen dat passende maatregelen worden genomen om te voorkomen dat de gerapporteerde situatie in de toekomst escaleert naar een niet-conforme situatie.
 
-De NC’s worden aangeboden aan de auditor ter beoordeling. Het is aan de auditor om vast te stellen of de RCCA met voldoende diepgang is uitgevoerd om herhaling te voorkomen en te besluiten of de RCCA kan worden gesloten.
+De RCCA wordt na behandeling aangeboden aan de auditor ter beoordeling. Het is aan de auditor om vast te stellen of de RCCA met voldoende diepgang is uitgevoerd om herhaling te voorkomen en te besluiten of de RCCA kan worden gesloten.
 
 ## Opvolging van NC’s  
 Indien in tijdens een audit NC(s) worden vastgesteld, dan worden deze na implementatie opgevolgd en getoetst op effectiviteit. Als stelregel geldt dat de correctieve maatregel circa 3 maanden moet zijn geïmplementeerd alvorens deze te auditen. De QHSE manager is verantwoordelijk voor het indelen en laten uitvoeren van de opvolgaudits.
@@ -111,16 +111,12 @@ De auditor heeft een training ‘Interne auditor’ gevolgd. De competenties kun
 
 ## Classificatie van Non Conformities
 
-|                                                       |                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Conform                                               | Beoordeling dat het tijdens de audit verstrekte bewijsmateriaal aantoont dat aan de eisen wordt voldaan.                                                                                                                                                                                                                 |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Afwijking / Non-Conformity                            | NC is een enkele systeemfout of tekortkoming in de conformiteit om te voldoen aan de standaardvereisten, klantvereisten, BMS-vereisten of gedocumenteerde informatie zoals gedefinieerd door de organisatie. De afwijking is van invloed op het vermogen van het Management systeem om de beoogde resultaten te behalen. |
 | Verbetervoorstel / Opportunity for Improvement (OFI). | Een observatie van een element dat risico's met zich meebrengt van mogelijke discrepanties die kunnen leiden tot een non-conformiteit van het proces of systeem.                                                                                                                                                         |
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
-
-[In deze paragraaf worden de functies vermeld die bij het gebruik van de procedure zijn betrokken, met daarbij aangegeven hun verantwoordelijkheden en bevoegdheden (RASCI)]
-
 
 | Omschrijving             | QHSE Manager | Directie | Auditor | Auditee | Leidinggevende |
 | ------------------------ | ------------ | -------- | ------- | ------- | -------------- |
@@ -146,7 +142,7 @@ De auditor heeft een training ‘Interne auditor’ gevolgd. De competenties kun
 - Percentage audits uitgevoerd volgens de Auditplanning (getekende auditplanning): 80%
 - Percentage audits uitgevoerd volgens overeengekomen 1e afspraak met audittee: 80%
 - Rapportage gereed en verspreid binnen 14 dagen na sluitingsmeeting: 80%
-- Afwijkingen in xxx systeem binnen 3 dagen na sluitingsmeeting: 80%
+- Afwijkingen in  NC systeem binnen 3 dagen na sluitingsmeeting: 80%
 - Percentage afwijkingen beantwoord, binnen 1 maand door auditee/proceseigenaar: 80%
 - Percentage afwijkingen werkelijk gesloten binnen overeengekomen termijn: 80%
 
@@ -160,11 +156,11 @@ De auditor heeft een training ‘Interne auditor’ gevolgd. De competenties kun
 
 ## GERELATEERDE DOCUMENTEN
 
-| Type                    | Document                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Proces                  | [QHSE-GOV-004 Auditplanning](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/HG53OZINYV73SK3630HUSSLAVK2T7BV4FOH7E3RD3FI95/QHSE-GOV-004%20Auditplanning%20-%20Getekend%20door%20directie.pdf)<br>[QHSE-GOV-004 Auditplanning](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/NZLUTW9OJA5MERDH7FNAANJMJERG7FJA2UKOBBLK3OXTC/QHSE-GOV-004%20Auditplanning%20-%20Getekend%20door%20directie.pdf)                                                                                                                                                                                                      |
-| Werkinstructie          | [QHSE-INS-001 Openingsmeeting](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/CN37KNZZQHLDUBLIK0SR5RICQ8574OPB275AAUH8A4MVL/QHSE-INS-001%20Opening%20Vergadering.pptx)<br>[QHSE-INS-001 Openingsmeeting](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/17X30ZMPHM8S7YX03326CNQPDB57VGOCREC3EY974KPWO/QHSE-INS-001%20Opening%20Vergadering.pptx)<br>[QHSE-INS-002 Sluitingsmeeting](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/BHGB6FNCS52MVWDSPFSSVLPPDAX3AM9JY1C79MYJYYBSV/QHSE-INS-002%20Sluiting%20Vergadering.pptx)                                                   |
-| Formulieren & Templates | [QHSE-FRM-001 Auditrapport](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/BHSG7FDN7IYW7XX8ZGTG9AVRT121RRJLQ8C9AWIJEWOJ2/QHSE-FRM-001%20Audit%20rapport.docx)  <br>[QHSE-FRM-002 Tijdschema](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/GBKIW40V5KROCD4JGLEO8Z1XVI75EZ2BH8ZDRVEUIXJZS/QHSE-FRM-002%20Audit%20tijdschema.docx)  <br>[QHSE-FRM-003 Non Conformity](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/SOBF31ZJRV4IF11IABIHF9T7VIUNZUX6CTYMK9USZZT6T/QHSE-FRM-003%20NC%20document%2C%20audits.pdf)  <br>XXX Root Cause Corrective Action _[nog niet beschikbaar]_ |
+| Type                    | Document                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proces                  | [QHSE-GOV-004 Auditplanning](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/HG53OZINYV73SK3630HUSSLAVK2T7BV4FOH7E3RD3FI95/QHSE-GOV-004%20Auditplanning%20-%20Getekend%20door%20directie.pdf)<br>[QHSE-GOV-004 Auditplanning](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/NZLUTW9OJA5MERDH7FNAANJMJERG7FJA2UKOBBLK3OXTC/QHSE-GOV-004%20Auditplanning%20-%20Getekend%20door%20directie.pdf)                                                                                                                                                    |
+| Werkinstructie          | [QHSE-INS-001 Openingsmeeting](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/CN37KNZZQHLDUBLIK0SR5RICQ8574OPB275AAUH8A4MVL/QHSE-INS-001%20Opening%20Vergadering.pptx)<br>[QHSE-INS-001 Openingsmeeting](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/17X30ZMPHM8S7YX03326CNQPDB57VGOCREC3EY974KPWO/QHSE-INS-001%20Opening%20Vergadering.pptx)<br>[QHSE-INS-002 Sluitingsmeeting](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/BHGB6FNCS52MVWDSPFSSVLPPDAX3AM9JY1C79MYJYYBSV/QHSE-INS-002%20Sluiting%20Vergadering.pptx) |
+| Formulieren & Templates | [QHSE-FRM-001 Auditrapport](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/BHSG7FDN7IYW7XX8ZGTG9AVRT121RRJLQ8C9AWIJEWOJ2/QHSE-FRM-001%20Audit%20rapport.docx)  <br>[QHSE-FRM-002 Tijdschema](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/GBKIW40V5KROCD4JGLEO8Z1XVI75EZ2BH8ZDRVEUIXJZS/QHSE-FRM-002%20Audit%20tijdschema.docx)  <br>[QHSE-FRM-003 Non Conformity / RCCA](https://bollegraaf.topdesk.net/tas/public/dispatcherpublicservlet/SOBF31ZJRV4IF11IABIHF9T7VIUNZUX6CTYMK9USZZT6T/QHSE-FRM-003%20NC%20document%2C%20audits.pdf)       |
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
