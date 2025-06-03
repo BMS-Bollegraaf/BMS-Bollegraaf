@@ -33,7 +33,7 @@ De werkvergunning procedure geldt niet voor transporteurs.
 - Grondwerken, hijswerkzaamheden, en werken aan elektrische installaties.
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
-![Pasted image 20250603152858.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250603152858.png)
+![QHSE-FLO-002 Interne Audits.jpg](/img/user/QHSE/Procedures/attachments/QHSE-FLO-002%20Interne%20Audits.jpg)
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
 
