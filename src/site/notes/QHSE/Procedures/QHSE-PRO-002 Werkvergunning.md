@@ -33,34 +33,32 @@ De werkvergunning procedure geldt niet voor transporteurs.
 - Grondwerken, hijswerkzaamheden, en werken aan elektrische installaties.
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
-![Pasted image 20250527161117.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250527161117.png)
+![](file:///C:/Users/GB098~1.SCH/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
 
 
 ## PROCES-/ACTIVITEITEN BESCHRIJVING
 
 ## Procedure voor het verkrijgen van een werkvergunning:  
   
-## **1)   Aanmelding en beoordeling van werkzaamheden**
-
-- De werkvergunning wordt voorafgaand aan het werk door de werkvergunning verlener zo volledig mogelijk ingevuld. 
-- Na het opstellen van de werkvergunning wordt de receptie van Bollegraaf voorzien van een kopie van de werkvergunning.
-- Uitvoerder meldt zich bij de receptie/werkvergunningverlener van Bollegraaf voordat de werkzaamheden beginnen.
+## 1)   Aanmelding en beoordeling van werkzaamheden**
+- De werkvergunning wordt voorafgaand aan het werk door de werkvergunning verlener zo volledig mogelijk ingevuld.
 - Werkvergunningverlener beoordeelt de inhoud van de werkvergunning op basis van het type werkzaamheden, de risico's en de omgeving.
+- Uitvoerder meldt zich bij de receptie/werkvergunningverlener van Bollegraaf voordat de werkzaamheden beginnen.
 
-## **2)   Bepalen van de veiligheidsvoorzieningen**
 
- Werkvergunningverlener en vergunninghouder (uitvoerder) bepalen samen de benodigde veiligheidsmaatregelen, inclusief persoonlijke beschermingsmiddelen (PBM’s), afschermingen, ventilatie, en eventueel specifieke maatregelen voor besloten ruimten of grondwerken.  
-  
+## 2)   Bepalen van de veiligheidsvoorzieningen**
+
+ De toezichthouder en vergunninghouder (uitvoerder) bepalen samen de benodigde veiligheidsmaatregelen, inclusief persoonlijke beschermingsmiddelen (PBM’s), afschermingen, ventilatie, en eventueel specifieke maatregelen voor besloten ruimten of grondwerken.  
 
 ## 3)   Uitgifte en ondertekening van de werkvergunning
 
-Werkvergunningverlener en de vergunninghouder ondertekenen beiden de werkvergunning ter bevestiging dat de afspraken duidelijk zijn en nageleefd zullen worden.  
+De toezichthouder en de vergunninghouder bezoeken gezamenlijk de werkplek en controleren of hier veilig kan worden gewerkt en de risico’s tot een minimum blijven beperkt. Als beide partijen akkoord zijn, ondertekenen beiden de werkvergunning ter bevestiging dat de afspraken duidelijk zijn en nageleefd zullen worden.
   
 
 ## 4)   Start van de werkzaamheden
 
 - De vergunninghouder (uitvoerder) zorgt ervoor dat alle afgesproken veiligheidsmaatregelen zijn getroffen voordat de werkzaamheden beginnen.
-- De werkvergunningverlener (of toezichthouder) houdt toezicht of de werkzaamheden conform de vergunning worden uitgevoerd. Dit kan eventueel worden gedelegeerd aan een aangewezen medewerker.
+- De toezichthouder houdt toezicht of de werkzaamheden conform de vergunning worden uitgevoerd.
 
 ## Veiligheidsregels en verantwoordelijkheden:  
   
@@ -68,7 +66,7 @@ Werkvergunningverlener en de vergunninghouder ondertekenen beiden de werkvergunn
 ## 1)   Veiligheidsmaatregelen en toezicht
 
 - Vergunninghouder (uitvoerder) is verantwoordelijk voor het instrueren van zijn/haar team over de te nemen veiligheidsmaatregelen en het creëren van een veilige werkplek.
-- Werkvergunningverlener/toezichthouder of een aangewezen medewerker houdt toezicht op de naleving van de afspraken. Bij veranderde omstandigheden/calamiteit moeten de werkzaamheden onmiddellijk worden stilgelegd en opnieuw beoordeeld worden.
+- De toezichthouder houdt toezicht op de naleving van de afspraken. Bij veranderde omstandigheden/calamiteit moeten de werkzaamheden onmiddellijk worden stilgelegd en opnieuw beoordeeld worden.
 
 ## 2)   Stopzetten van de werkzaamheden
 
@@ -76,9 +74,9 @@ De vergunninghouder is verplicht de werkzaamheden direct te stoppen als de werko
 
 ## 3)   Opleveren en afsluiting van de werkvergunning
 
-- Wanneer de werkzaamheden voltooid zijn, meldt de vergunninghouder dit bij de werkvergunningverlener (of diens gedelegeerde).
-- Werkvergunningverlener (of diens gedelegeerde) controleert of de werkzaamheden conform afspraken zijn uitgevoerd. Tevens wordt gecontroleerd of de werkplek veilig en schoon is opgeleverd en of alle veiligheidsvoorzieningen zijn hersteld.
-- Na goedkeuring tekent de werkvergunningverlener (of diens gedelegeerde) de werkvergunning af en archiveert deze op de [Teams site](https://teams.microsoft.com/l/channel/19%3AZWWHDRs6l9GLeqgnp_qMIHaLEoPr0O3PHEsBVmAhW3s1%40thread.tacv2/Werkvergunningen?groupId=c8193168-30a6-461a-86d1-3ff42681b9f8&tenantId=e98c41b7-97e3-43d1-a314-5c4f81332a03). De receptie wordt geïnformeerd dat de derde partij de werkzaamheden heeft afgerond.
+- Wanneer de werkzaamheden voltooid zijn, meldt de vergunninghouder dit bij de toezichthouder.
+- De toezichhouder controleert of de werkzaamheden conform afspraken zijn uitgevoerd. Tevens wordt gecontroleerd of de werkplek veilig en schoon is opgeleverd en of alle veiligheidsvoorzieningen zijn hersteld.
+- Na goedkeuring tekent de toezichhouder de werkvergunning af en archiveert deze op de [Teams site](https://teams.microsoft.com/l/channel/19%3AZWWHDRs6l9GLeqgnp_qMIHaLEoPr0O3PHEsBVmAhW3s1%40thread.tacv2/Werkvergunningen?groupId=c8193168-30a6-461a-86d1-3ff42681b9f8&tenantId=e98c41b7-97e3-43d1-a314-5c4f81332a03). De receptie wordt geïnformeerd dat de derde partij de werkzaamheden heeft afgerond.
 
 ## Soorten werkvergunningen:  
   
@@ -134,16 +132,12 @@ NVT
 
 ## GERELATEERDE DOCUMENTEN
 
-| Type                    | Document                                                                                                                                                                                                                               |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Proces                  | [QHSE-FLO-001 Processflow Quality, Health, Safety & Environment](file:///C:/Users/g.scheper/OneDrive%20-%20Bollegraaf%20Recycling%20Solutions/Quality/BMS/QHSE-FLO-001%20Procesflow%20Quality,%20Health,%20Safety,%20Environment.vsdx) |
-| Werkinstructie          | NVT                                                                                                                                                                                                                                    |
-| Formulieren & Templates | [QHSE-FRM-004 Werkvergunning - met achterzijde.pdf](Z:\QHSE\BMS\QHSE\QHSE-FRM-004 Werkvergunning - met achterzijde.pdf)<br>[QHSE-FRM-005 TRA](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-005 TRA%20Template.xlsx)                               |
-|                         | [QHSE-FRM-015%20Reporting%20Unsafe%20Act%20-%20Unsafe%20Situations.docx](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-015%20Reporting%20Unsafe%20Act%20-%20Unsafe%20Situations.docx)                                                              |
-|                         | [QHSE-FRM-014 Safety Alert.docx](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-014%20Safety%20Alert.docx)                                                                                                                                          |
-[PROD-FRM-005 Final Quality Report Balers.docx](file:///C:/Users/g.scheper/Downloads/PROD-FRM-005 Final Quality Report Balers.docx)
-
-<a href="file:///C:/Users/k.mooibroek/Downloads/High-Volume%20Automatable%20Remote%20Jobs.pdf">Open Local Report</a>
+| Type                    | Document                                                                                                                                                                                                 |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proces                  | QHSE                                                                                                                                                                                                     |
+| Werkinstructie          | NVT                                                                                                                                                                                                      |
+| Formulieren & Templates | [QHSE-FRM-004 Werkvergunning - met achterzijde.pdf](Z:\QHSE\BMS\QHSE\QHSE-FRM-004 Werkvergunning - met achterzijde.pdf)<br>[QHSE-FRM-005 TRA](file:///Z:/QHSE/BMS/QHSE/QHSE-FRM-005 TRA%20Template.xlsx) |
+|                         |                                                                                                                                                                                                          |
 
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
