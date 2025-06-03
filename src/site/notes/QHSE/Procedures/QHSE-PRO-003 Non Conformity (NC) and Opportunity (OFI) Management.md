@@ -27,8 +27,8 @@ Deze doelstellingen zorgen ervoor dat ons Non Conformity (NC) and Opportunity (O
 Bollegraaf RS
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
+![[Behandeling van NC's - ELECTRONIC.pdf]]
 
-![Pasted image 20250506153810.png](/img/user/attachments/Pasted%20image%2020250506153810.png)
 
 
 
