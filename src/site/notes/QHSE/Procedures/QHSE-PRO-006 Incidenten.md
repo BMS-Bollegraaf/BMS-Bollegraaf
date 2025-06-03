@@ -173,15 +173,36 @@ Het is belangrijk dat iedereen zich bewust blijft van de veiligheidsrisico's op 
 
 ![Pasted image 20250603161559.png](/img/user/QHSE/Procedures/attachments/Pasted%20image%2020250603161559.png)
 
+Alle berichtgevingen altijd **direct en persoonlijk** doorgeven (niet via e-mail/teams/etc.)
+
+## 11 Verantwoordelijkheden van de leidinggevende
+
+Wanneer er een incident heeft plaatsgevonden waarbij jij de leidinggevende bent van het betrokken slachtoffer(s) of verantwoordelijk bent voor de situatie, worden de onderstaande acties van de leidinggevende verwacht.
+
+- Je voorkomt dat er wijzigingen plaatsvinden met betrekking tot de toedracht/situatie ten tijde van het incident. Je laat dus alles intact! Alleen na toestemming QHSE mag verder worden gewerkt.
+- Je brengt direct betrokken medewerkers op de hoogte en stelt ze gerust.
+- Je verzameld informatie en inzichten met betrekking tot de toedracht en verstrekt deze aan de onderzoeker van het incident.
+- Je geeft volledige ondersteuning bij de afhandeling van het incident.
+- Na onderzoek, geef je ondersteuning bij het doorvoeren van eventuele wijzigingen
+- Je bent te allen tijde een voorbeeld met betrekking tot gedrag in relatie tot veilig werken.
 
 ## VERANTWOORDELIJKHEDEN EN BEVOEGDHEDEN
 
-[In deze paragraaf worden de functies vermeld die bij het gebruik van de procedure zijn betrokken, met daarbij aangegeven hun verantwoordelijkheden en bevoegdheden (RASCI)]
 
-|Omschrijving|Functie 1|Functie 2|Functie 3|Functie 4|Functie 5|
-|---|---|---|---|---|---|
-|Stap 1|R|A|S|C|I|
-|Stap 2||||||
+| Omschrijving                     | EHBO/BHV | Hfd BHV | Medewerker(s)              | QHSE | Leidinggevende | Directie |
+| -------------------------------- | -------- | ------- | -------------------------- | ---- | -------------- | -------- |
+| 2.1 Schakel machines uit         | A        |         | R                          |      | I              |          |
+| 2.2 Eerste hulp                  | R        | A       | R (alleen indien getraind) |      | I              |          |
+| 2.2 Brandweer bellen             | A        |         | R                          |      | I              |          |
+| 2.2 Ambulance bellen             | R        | A       |                            |      | I              |          |
+| 2.3 Informeren                   | R        | A       |                            |      | I              |          |
+| 2.3 Afzetten incident gebied     | A        | C       | R                          |      | I              |          |
+| 3.1 Incident rapport invullen    | R        | A       | S                          | C    | I              |          |
+| 4 Onderzoek                      | C        | S       |                            | R    |                | A        |
+| 5 Terugkoppeling                 |          |         |                            | R    | I              | A        |
+| 6.1 Implem. prevent. maatregelen |          |         |                            | A    | R              |          |
+| 6.2 Monitoren                    |          |         |                            | R    |                | A        |
+| 8. Registratie                   |          |         |                            | R    |                | A        |
 
 > [!note] RASCI:
 > 
@@ -193,36 +214,38 @@ Het is belangrijk dat iedereen zich bewust blijft van de veiligheidsrisico's op 
 
 ## (KEY) PERFORMANCE INDICATORS
 
-[Beschrijving van de (Key) Performance indicatoren waarop gemeten gaat worden tijdens het proces]
+NVT
 
 ## REGISTRATIES EN OPSLAG
 
-[Hierin is aangegeven welke registraties er in het kader van de werkinstructie moeten worden op-/samengesteld en de wijze waarop de informatie die beschikbaar moet komen en dient te worden bewaard. Opmerking: Rapportages kennen vele vormen, hardcopie, elektronisch, foto, etc]
 
-|Document|Locatie en/of systeem|
-|---|---|
-|||
-|||
+| Document               | Locatie en/of systeem                                                                                                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Incidenten rapportage  | In incidenten database in Teams: [Rapportages](https://bollegraaf.sharepoint.com/:f:/s/BollegraafSafetyCommittee/Ei65lF8KflhCp2pybU_U0SoBGp5FfnY3RzhkKWsq1fqT3A?e=pGspSm)                 |
+| Incidenten registratie | In incidenten database in Teams: [Ongevallen registratie.xlsx](https://bollegraaf.sharepoint.com/:x:/s/BollegraafSafetyCommittee/EZcs7j7Q9k9KlpK2W5rnRHEBKYGviRdW39RmEUrQVSZsXw?e=bzWcHR) |
 
 ## GERELATEERDE DOCUMENTEN
 
-|Type|Document|
-|---|---|
-|Proces|[verwijzing naar bovenliggende procesplaat]|
-|Werkinstructie|[verwijzing naar onderliggende werkinstructie, indien deze bestaan]|
-|Formulieren & Templates|[verwijzing naar onderliggende formulieren & templates, indien deze bestaan]|
+| Type                    | Document                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Proces                  | QHSE                                                                                                                                                                                                                                                                                                                                               |
+| Werkinstructie          | NVT                                                                                                                                                                                                                                                                                                                                                |
+| Formulieren & Templates | [QHSE-FRM-010 Melding (bijna) arbeidsongeval](https://bollegraaf.sharepoint.com/:w:/s/BollegraafSafetyCommittee/EeJgzgQL4JJGiL8t-48b8fMBA4DPrYq18AquqBDWsA-cVw?e=xIW9FJ)  <br>[QHSE-FRM-010 Reporting (near) accidents](https://bollegraaf.sharepoint.com/:w:/s/BollegraafSafetyCommittee/ERubL9gHN91Ju9lLg7hbdI8Bg1lebapdc2jQWj2AmPI1Jg?e=DC19ee) |
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
-|Type|Document|
-|---|---|
-|Management standards|[verwijzing naar management standard]|
-|Externe standaarden|[verwijzing naar externe standaarden]|
-|Wet & regelgeving|[verwijzing naar wet & regelgeving]|
+| Type                 | Document |
+| -------------------- | -------- |
+| Management standards | NVT      |
+| Externe standaarden  | NVT      |
+| Wet & regelgeving    | NVT      |
 
 ## DEFINITIES
 
-|Definitie|Beschrijving|
-|---|---|
-|[Definitie]|[Samenvattende nauwkeurige omschrijving van de kenmerken van een begrip, zodanig verwoord dat het niet meer met iets anders verward kan worden]|
-|||
+| Definitie | Beschrijving                                              |
+| --------- | --------------------------------------------------------- |
+| SO]       | Slachtoffer                                               |
+| BHV       | Bedrijfs Hulp Verlening                                   |
+| EHBO      | Eerste Hulp Bij Ongelukken                                |
+| LTI       | Lost Time Incident                                        |
+| RASCI     | Responsible, Accountable, Supporting, Consulted, Informed |
