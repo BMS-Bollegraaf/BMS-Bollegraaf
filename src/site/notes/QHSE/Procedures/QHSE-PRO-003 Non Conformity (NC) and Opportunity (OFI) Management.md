@@ -103,7 +103,7 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 
 ## (KEY) PERFORMANCE INDICATORS
 
-·        % afwijkingen afgehandeld binnen x periode (tot stap 4 of 5, afhankelijk)
+·        % afwijkingen afgehandeld binnen 3 maandan (tot stap 4 of 5, afhankelijk)
 ·        % afwijkingen overdue
 ·        # afwijkingen overdue, in dagen (pareto)
 ·        # afwijkingen met proceswijziging tot gevolg
@@ -122,7 +122,7 @@ Nadat alle stappen van het proces zijn doorlopen, zal de QHSE manager beoordelen
 | ----------------------- | -------------------------------------------------------------- |
 | Proces                  | QHSE-FLO-001- Procesflow: Quality, Health, Safety, Environment |
 | Werkinstructie          | NVT                                                            |
-| Formulieren & Templates | NC formulier… in systeem….                                     |
+| Formulieren & Templates | *==NC formulier… in systeem….==*                               |
 
 ## GERELATEERDE NORMEN EN STANDAARDEN
 
