@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-003-non-conformity-nc-and-opportunity-ofi-management/","tags":["procedure"],"noteIcon":"default"}
 ---
 
+
 # Procedure: **Non Conformity (NC) and Opportunity (OFI) Management**
 
-> **ProcesProces:** [Invullen] 
-> **QA:** [Invullen] 
-> **Quality:** [Invullen]
+> **Proces:** QHSE  (Quality, Health, Safety & Environment)**
+
 
 ## DOEL
 
@@ -24,7 +24,7 @@ Deze doelstellingen zorgen ervoor dat ons Non Conformity (NC) and Opportunity (O
 
 ## TOEPASSINGSGEBIED
 
-Bollegraaf RS (Lubo…?) nog af te stemmen
+Bollegraaf RS
 
 ## FLOWCHART VAN HET PROCES/ACTIVITEITEN
 
@@ -50,7 +50,7 @@ Voor een OFI worden de stappen 2 en 3 overgeslagen.
 ## Stap 2: Het nemen van directe maatregelen (correctieve)
 
 **Producten:**
-Om onbedoeld verder bewerken/verwerken van het product te voorkomen, wordt het product ‘uit productie’ genomen en voorzien van een NC label met hierop het NC nummer. Het product wordt verplaatst naar het hiervoor ingerichte quarantaine gebied.
+Om onbedoeld verder bewerken/verwerken van het product te voorkomen, wordt het product ‘uit productie’ genomen en voorzien van een ==NC label== met hierop het NC nummer. Het product wordt verplaatst naar het hiervoor ingerichte ==quarantaine gebied==.
 
 
 ![Pasted image 20250506162000.png](/img/user/attachments/Pasted%20image%2020250506162000.png)
