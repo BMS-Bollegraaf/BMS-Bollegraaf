@@ -55,7 +55,7 @@ This policy applies to:
 | AI Developers    | Validate, document, and monitor model performance and risk   |
 | [[IT/IT\|IT]]           | Assess AI systems for vulnerabilities and data leakage risks |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure policy alignment and maintain risk registers          |
-| [[QHSE/QHSE\|QHSE]]         | Review regulatory and ethical implications of AI use         |
+| [[QHSE\|QHSE]]         | Review regulatory and ethical implications of AI use         |
 ## **5. REVIEW AND UPDATE**  
 This policy must be reviewed **annually**, or:
 - After deployment of new AI systems

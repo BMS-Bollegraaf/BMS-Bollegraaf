@@ -2,12 +2,11 @@
 {"dg-publish":true,"permalink":"/qhse/procedures/qhse-pro-005-fat-improvement-process/","tags":["procedure"],"noteIcon":"default"}
 ---
 
+
 # Procedure: **FAT Improvement process**
 
+> **Proces:** QHSE  (Quality, Health, Safety & Environment)**
 
-> **ProcesProces:** [Invullen] 
-> **QA:** [Invullen] 
-> **Quality:** [Invullen]
 
 
 ## DOEL

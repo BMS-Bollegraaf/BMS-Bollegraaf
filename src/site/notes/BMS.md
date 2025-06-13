@@ -271,7 +271,7 @@
     </a>
   </div>
     <div class="flashcard theme-red">
-    <a href="/PDF-to-Obsidian">
+    <a href="/IT-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -284,24 +284,24 @@
 </div>
 
 ## Recent Updates
-| File                                                                                                                                                        | Last Modified          |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [[BMS\|BMS]]                                                                                                                                             | 1:36 PM - May 26, 2025 |
-| [[QHSE/Procedures/QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management\|QHSE-PRO-003 Non Conformity (NC) and Opportunity (OFI) Management]] | 1:34 PM - May 26, 2025 |
-| [[QHSE/Procedures/QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.\|QHSE-PRO-004 PBM's, Werk- en bedrijfskleding.]]                                         | 1:34 PM - May 26, 2025 |
-| [[QHSE/Procedures/QHSE-PRO-002 Werkvergunning\|QHSE-PRO-002 Werkvergunning]]                                                                             | 1:01 PM - May 26, 2025 |
-| [[QHSE/Procedures/QHSE-PRO-001 Interne Audits\|QHSE-PRO-001 Interne Audits]]                                                                             | 1:01 PM - May 26, 2025 |
+| File                                                         | Last Modified            |
+| ------------------------------------------------------------ | ------------------------ |
+| [[BMS\|BMS]]                                              | 11:07 AM - June 13, 2025 |
+| [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | 11:01 AM - June 13, 2025 |
+| [[IMP/IMP Dashboard\|IMP Dashboard]]                      | 11:00 AM - June 13, 2025 |
+| [[BI/BI Dashboard\|BI Dashboard]]                         | 10:59 AM - June 13, 2025 |
+| [[HR/HR Dashboard\|HR Dashboard]]                         | 10:59 AM - June 13, 2025 |
 
 { .block-language-dataview}
 
 
-> [!success] Strategic Level [[COTO Dashboard\|COTO Dashboard]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management Dashboard\|Risk Management Dashboard]]
+> [!success] Strategic Level [[COTO/COTO\|COTO]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management Dashboard\|Risk Management Dashboard]]
 
-> [!warning] Primary Departments **Row 1:** [[Sales Dashboard\|Sales Dashboard]] | [[Sales Engineering Dashboard\|Sales Engineering Dashboard]] | [[Engineering Dashboard\|Engineering Dashboard]] | [[Procurement Dashboard\|Procurement Dashboard]] | [[Business Office Dashboard\|Business Office Dashboard]]
+> [!warning] Primary Departments **Row 1:** [[Sales/Sales Dashboard\|Sales Dashboard]] | [[Sales Engineering/Sales Engineering Dashboard\|Sales Engineering Dashboard]] | [[Engineering/Engineering Dashboard\|Engineering Dashboard]] | [[Procurement/Procurement Dashboard\|Procurement Dashboard]] | [[Business Office Dashboard\|Business Office Dashboard]]
 > 
-> **Row 2:** [[Production Dashboard\|Production Dashboard]] | [[Assembly Dashboard\|Assembly Dashboard]] | [[Logistics Dashboard\|Logistics Dashboard]] | [[Service and After Sales Dashboard\|Service and After Sales Dashboard]] | [[Projects Dashboard\|Projects Dashboard]]
+> **Row 2:** [[Production/Production Dashboard\|Production Dashboard]] | [[Assembly/Assembly Dashboard\|Assembly Dashboard]] | [[Logistics/Logistics Dashboard\|Logistics Dashboard]] | [[Service and After Sales Dashboard\|Service and After Sales Dashboard]] | [[Projects/Projects Dashboard\|Projects Dashboard]]
 
-> [!error] Support Functions [[Finance Dashboard\|Finance Dashboard]] | [[HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI Dashboard\|BI Dashboard]] | [[IMP Dashboard\|IMP Dashboard]] | [[Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
+> [!error] Support Functions [[Finance/Finance Dashboard\|Finance Dashboard]] | [[HR/HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI/BI Dashboard\|BI Dashboard]] | [[IMP/IMP Dashboard\|IMP Dashboard]] | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
 
 [Goedkeuringproces.xlsx](/localfiles/Z:/BMS/Goedkeuringproces.xlsx)
