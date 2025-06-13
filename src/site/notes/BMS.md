@@ -45,7 +45,7 @@
   </div>
   
   <div class="flashcard theme-cyan">
-    <a href="/Vision-Mission/Vision-Mission-Dashboard">
+    <a href="/Vision-Mission/Vision-Mission">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -97,7 +97,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/Sales-Engeneering/Sales-Engeneering-Dashboard">
+    <a href="/Sales-Engineering/Sales-Engineering-Dashboard">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
@@ -181,8 +181,8 @@
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
-        <h3>Service & After Sales</h3>
-        <p>"Service & After Sales" — Additional information</p>
+        <h3>Service and After Sales</h3>
+        <p>"Service and After Sales" — Additional information</p>
       </div>
     </a>
   </div>
@@ -284,20 +284,20 @@
 </div>
 
 ## Recent Updates
-| File                                                         | Last Modified            |
-| ------------------------------------------------------------ | ------------------------ |
-| [[BMS\|BMS]]                                              | 11:43 AM - June 13, 2025 |
-| [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | 11:01 AM - June 13, 2025 |
-| [[IMP/IMP Dashboard\|IMP Dashboard]]                      | 11:00 AM - June 13, 2025 |
-| [[BI/BI Dashboard\|BI Dashboard]]                         | 10:59 AM - June 13, 2025 |
-| [[HR/HR Dashboard\|HR Dashboard]]                         | 10:59 AM - June 13, 2025 |
+| File                                                                                    | Last Modified            |
+| --------------------------------------------------------------------------------------- | ------------------------ |
+| [[BMS\|BMS]]                                                                         | 11:54 AM - June 13, 2025 |
+| [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
+| [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
+| [[Facilities/Facilities Dashboard\|Facilities Dashboard]]                            | 11:01 AM - June 13, 2025 |
+| [[IMP/IMP Dashboard\|IMP Dashboard]]                                                 | 11:00 AM - June 13, 2025 |
 
 { .block-language-dataview}
 
 
-> [!success] Strategic Level [[COTO/COTO\|COTO]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management Dashboard\|Risk Management Dashboard]]
+> [!success] Strategic Level [[COTO/COTO Dashboard\|COTO Dashboard]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]
 
-> [!warning] Primary Departments **Row 1:** [[Sales/Sales Dashboard\|Sales Dashboard]] | [[Sales Engineering/Sales Engineering Dashboard\|Sales Engineering Dashboard]] | [[Engineering/Engineering Dashboard\|Engineering Dashboard]] | [[Procurement/Procurement Dashboard\|Procurement Dashboard]] | [[Business Office Dashboard\|Business Office Dashboard]]
+> [!warning] Primary Departments **Row 1:** [[Sales/Sales Dashboard\|Sales Dashboard]] | [[Sales Engineering/Sales Engineering Dashboard\|Sales Engineering Dashboard]] | [[Engineering/Engineering Dashboard\|Engineering Dashboard]] | [[Procurement/Procurement Dashboard\|Procurement Dashboard]] | [[Business Office/Business Office Dashboard\|Business Office Dashboard]]
 > 
 > **Row 2:** [[Production/Production Dashboard\|Production Dashboard]] | [[Assembly/Assembly Dashboard\|Assembly Dashboard]] | [[Logistics/Logistics Dashboard\|Logistics Dashboard]] | [[Service and After Sales Dashboard\|Service and After Sales Dashboard]] | [[Projects/Projects Dashboard\|Projects Dashboard]]
 
