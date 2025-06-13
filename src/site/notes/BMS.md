@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bms/","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
-# Bollegraaf Management System Dashboard
+#                        Bollegraaf Management System 
 
 
 ![Pasted image 20250417121531.png](/img/user/attachments/Pasted%20image%2020250417121531.png)
@@ -286,8 +286,8 @@
 ## Recent Updates
 | File                                                                                    | Last Modified            |
 | --------------------------------------------------------------------------------------- | ------------------------ |
+| [[BMS\|BMS]]                                                                         | 2:43 PM - June 13, 2025  |
 | [[Test\|Test]]                                                                       | 2:10 PM - June 13, 2025  |
-| [[BMS\|BMS]]                                                                         | 2:10 PM - June 13, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]]                            | 11:01 AM - June 13, 2025 |
