@@ -202,7 +202,7 @@
 
 <div class="flashcard-grid grid-7">
   <div class="flashcard theme-red">
-    <a href="/BMS">
+    <a href="/Finance/Finance-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="BMS">
       </div>
@@ -214,7 +214,7 @@
   </div>
   
   <div class="flashcard theme-red">
-    <a href="/PDF-to-Obsidian">
+    <a href="/HR/HR-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -226,7 +226,7 @@
   </div>
   
   <div class="flashcard theme-red">
-    <a href="/PDF-to-Obsidian">
+    <a href="/QHSE/QHSE-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -238,7 +238,7 @@
   </div>
   
   <div class="flashcard theme-red">
-    <a href="/PDF-to-Obsidian">
+    <a href="/BI/BI-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -249,7 +249,7 @@
     </a>
   </div>
     <div class="flashcard theme-red">
-    <a href="/PDF-to-Obsidian">
+    <a href="/IMP/IMP-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                         | Last Modified            |
 | ------------------------------------------------------------ | ------------------------ |
-| [[BMS\|BMS]]                                              | 11:25 AM - June 13, 2025 |
+| [[BMS\|BMS]]                                              | 11:27 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | 11:01 AM - June 13, 2025 |
 | [[IMP/IMP Dashboard\|IMP Dashboard]]                      | 11:00 AM - June 13, 2025 |
 | [[BI/BI Dashboard\|BI Dashboard]]                         | 10:59 AM - June 13, 2025 |
