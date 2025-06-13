@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bms/","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
-> [!info] # Bollegraaf - Document Management System
+# Bollegraaf - Document Management System
 
 ![Pasted image 20250417121531.png](/img/user/attachments/Pasted%20image%2020250417121531.png)
 
@@ -283,7 +283,7 @@
 ## Recent Updates
 | File                                                                                    | Last Modified            |
 | --------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                         | 2:46 PM - June 13, 2025  |
+| [[BMS\|BMS]]                                                                         | 2:47 PM - June 13, 2025  |
 | [[Test\|Test]]                                                                       | 2:10 PM - June 13, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
