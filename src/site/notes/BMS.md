@@ -3,13 +3,11 @@
 ---
 
 
-# Bollegraaf Management System 
-
+> [!info] # Bollegraaf - Document Management System
 
 ![Pasted image 20250417121531.png](/img/user/attachments/Pasted%20image%2020250417121531.png)
 
 
-> [!info] Bollegraaf - Document Management System
 ## Key Resources
 
 > [!note]- Company Policies
@@ -287,7 +285,7 @@
 ## Recent Updates
 | File                                                                                    | Last Modified            |
 | --------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                         | 2:44 PM - June 13, 2025  |
+| [[BMS\|BMS]]                                                                         | 2:45 PM - June 13, 2025  |
 | [[Test\|Test]]                                                                       | 2:10 PM - June 13, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
