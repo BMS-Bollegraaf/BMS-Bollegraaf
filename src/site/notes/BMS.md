@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                                                    | Last Modified            |
 | --------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                         | 11:57 AM - June 13, 2025 |
+| [[BMS\|BMS]]                                                                         | 1:50 PM - June 13, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]]                            | 11:01 AM - June 13, 2025 |
@@ -303,13 +303,3 @@
 
 > [!error] Support Functions [[Finance/Finance Dashboard\|Finance Dashboard]] | [[HR/HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI/BI Dashboard\|BI Dashboard]] | [[IMP/IMP Dashboard\|IMP Dashboard]] | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 
-
-[Goedkeuringproces.xlsx](/localfiles/Z:/BMS/Goedkeuringproces.xlsx)
-
-[Goedkeuringproces.xlsx](file:///Z:/BMS/Goedkeuringproces.xlsx)
-
-[Goedkeuringproces.xlsx]({{localfile:Z:/BMS/Goedkeuringproces.xlsx}})
-
-<a href="file:///Z:/BMS/Goedkeuringproces.xlsx" target="_blank">Goedkeuringproces.xlsx</a>
-
-<a href="javascript:window.location='file:///Z:/BMS/Goedkeuringproces.xlsx'">Goedkeuringproces.xlsx</a>
