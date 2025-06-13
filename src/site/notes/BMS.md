@@ -260,7 +260,7 @@
     </a>
   </div>
     <div class="flashcard theme-red">
-    <a href="/PDF-to-Obsidian">
+    <a href="/Facilities/Facilities-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -271,7 +271,7 @@
     </a>
   </div>
     <div class="flashcard theme-red">
-    <a href="/IT-Dashboard">
+    <a href="/IT/IT-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                         | Last Modified            |
 | ------------------------------------------------------------ | ------------------------ |
-| [[BMS\|BMS]]                                              | 11:07 AM - June 13, 2025 |
+| [[BMS\|BMS]]                                              | 11:25 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | 11:01 AM - June 13, 2025 |
 | [[IMP/IMP Dashboard\|IMP Dashboard]]                      | 11:00 AM - June 13, 2025 |
 | [[BI/BI Dashboard\|BI Dashboard]]                         | 10:59 AM - June 13, 2025 |
