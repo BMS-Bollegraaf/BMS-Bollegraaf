@@ -60,7 +60,7 @@ All third-party contracts must include:
 | Contract Owner   | Initiate assessments, coordinate onboarding, review performance |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Approve security controls, review risks, conduct audits         |
 | [[Procurement/Procurement\|Procurement]]  | Ensure security clauses are embedded in contracts               |
-| [[IT/IT\|IT]]           | Manage access provisioning, monitoring, and incident response   |
+| [[IT\|IT]]           | Manage access provisioning, monitoring, and incident response   |
 ## **6. NON-COMPLIANCE**  
 Non-compliance with this policy may result in:
 - Suspension or termination of supplier relationship

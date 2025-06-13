@@ -57,7 +57,7 @@ This procedure applies to:
 | ---------------- | -------------------------------------------------------- |
 | Users            | Use password manager for all company-related credentials |
 | Managers         | Approve vault access, review role changes                |
-| [[IT/IT\|IT]]           | Configure policies, monitor usage, respond to issues     |
+| [[IT\|IT]]           | Configure policies, monitor usage, respond to issues     |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure compliance and document reviews                   |
 ## **9. OFFBOARDING PROCESS**
 Upon employee departure:

@@ -61,7 +61,7 @@ This policy applies to:
 
 | **Role**          | **Responsibility**                                        |
 | ----------------- | --------------------------------------------------------- |
-| [[IT/IT\|IT]] / DevOps   | Implement and maintain hardened configurations            |
+| [[IT\|IT]] / DevOps   | Implement and maintain hardened configurations            |
 | [[Functions/IT Manager\|IT Manager]]    | Define baselines, audit compliance, and enforce standards |
 | [[Functions/System Owners\|System Owners]] | Approve deviations and support remediation                |
 | [[Functions/ISMS Manager\|ISMS Manager]]  | Monitor policy compliance and escalate risks              |

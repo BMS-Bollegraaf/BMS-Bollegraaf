@@ -286,20 +286,13 @@
 ## Recent Updates
 | File                                                                                    | Last Modified            |
 | --------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                         | 1:50 PM - June 13, 2025  |
+| [[Test\|Test]]                                                                       | 2:10 PM - June 13, 2025  |
+| [[BMS\|BMS]]                                                                         | 2:10 PM - June 13, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]]                            | 11:01 AM - June 13, 2025 |
-| [[IMP/IMP Dashboard\|IMP Dashboard]]                                                 | 11:00 AM - June 13, 2025 |
 
 { .block-language-dataview}
 
 
-> [!success] Strategic Level [[COTO/COTO Dashboard\|COTO Dashboard]] | [[Vision and Mission Dashboard\|Vision and Mission Dashboard]] | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]
-
-> [!warning] Primary Departments **Row 1:** [[Sales/Sales Dashboard\|Sales Dashboard]] | [[Sales Engineering/Sales Engineering Dashboard\|Sales Engineering Dashboard]] | [[Engineering/Engineering Dashboard\|Engineering Dashboard]] | [[Procurement/Procurement Dashboard\|Procurement Dashboard]] | [[Business Office/Business Office Dashboard\|Business Office Dashboard]]
-> 
-> **Row 2:** [[Production/Production Dashboard\|Production Dashboard]] | [[Assembly/Assembly Dashboard\|Assembly Dashboard]] | [[Logistics/Logistics Dashboard\|Logistics Dashboard]] | [[Service and After Sales Dashboard\|Service and After Sales Dashboard]] | [[Projects/Projects Dashboard\|Projects Dashboard]]
-
-> [!error] Support Functions [[Finance/Finance Dashboard\|Finance Dashboard]] | [[HR/HR Dashboard\|HR Dashboard]] | [[QHSE/QHSE Dashboard\|QHSE Dashboard]] | [[BI/BI Dashboard\|BI Dashboard]] | [[IMP/IMP Dashboard\|IMP Dashboard]] | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | [[IT/IT Dashboard\|IT Dashboard]]
 

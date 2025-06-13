@@ -54,7 +54,7 @@ Upon termination or change of role, all organizational devices, documents, crede
 | **Role**       | **Responsibility**                                |
 | -------------- | ------------------------------------------------- |
 | Users          | Comply with the AUP and report violations         |
-| [[IT/IT\|IT]]         | Enforce technical controls and monitor usageats   |
+| [[IT\|IT]]         | Enforce technical controls and monitor usageats   |
 | [[HR/HR\|HR]]         | Include AUP in onboarding/offboarding processes   |
 | [[Functions/IT Manager\|IT Manager]] | Maintain and review the policy periodicallyn laws |
 ## **5. COMPLIANCE**  

@@ -27,7 +27,7 @@ This applies to:
 
 | Step | Action                                                                                                                              |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **[[HR/HR\|HR]] or Manager notifies [[IT/IT\|IT]]/[[Functions/ISMS Manager\|ISMS Manager]] of departure** with offboarding date                                           |
+| 1    | **[[HR/HR\|HR]] or Manager notifies [[IT\|IT]]/[[Functions/ISMS Manager\|ISMS Manager]] of departure** with offboarding date                                           |
 | 2    | [[Functions/IT Support\|IT Support]] locates user in password manager and disables their account                                                          |
 | 3    | If user had access to shared/team vaults:<br>• Vault access is **revoked immediately**<br>• Shared passwords are **rotated** within |
 | 4    | Vault admin reviews if any credentials were added/exported by the user                                                              |
@@ -50,7 +50,7 @@ Each offboarding event must include:
 | --------------------- | ------------------------------------------------- |
 | Line Manager / [[HR/HR\|HR]] | Initiates offboarding notification                |
 | [[Functions/IT Support\|IT Support]]        | Disables vault access and rotates credentials     |
-| Vault Admin / [[IT/IT\|IT]]  | Reviews access and completes logging              |
+| Vault Admin / [[IT\|IT]]  | Reviews access and completes logging              |
 | [[Functions/ISMS Manager\|ISMS Manager]]      | Audits process and confirms access logs quarterly |
 ## **8. REVIEW AND COMPLIANCE**
 This procedure is reviewed **annually**, or after:

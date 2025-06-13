@@ -59,7 +59,7 @@ Monitoring is done in accordance with local laws and company privacy policies.
 | Role             | Responsibility                                                |
 | ---------------- | ------------------------------------------------------------- |
 | All Users        | Use communication tools securely and report issues            |
-| [[IT/IT\|IT]]           | Configure email security, encryption, DLP, and spam filtering |
+| [[IT\|IT]]           | Configure email security, encryption, DLP, and spam filtering |
 | [[HR/HR\|HR]]           | Investigate abuse or misconduct cases                         |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Maintain compliance with information security policies        |
 ## **8. COMPLIANCE**

@@ -35,7 +35,7 @@ This procedure applies to:
 - Store backups in **2 different physical or cloud locations**
 #### 4.2 Monitoring
 - Enable daily backup job notifications
-- [[IT/IT\|IT]] to review **backup status reports** every morning
+- [[IT\|IT]] to review **backup status reports** every morning
 - Log all failures and retry within SLA
 #### 4.3 Validation
 - Perform **restore tests monthly** for critical systems
@@ -57,7 +57,7 @@ This procedure applies to:
 
 | Role              | Responsibilty                                                  |
 | ----------------- | -------------------------------------------------------------- |
-| [[IT/IT\|IT]]            | Configure and manage backups, test restorations                |
+| [[IT\|IT]]            | Configure and manage backups, test restorations                |
 | [[Functions/System Owners\|System Owners]] | Identify recovery priorities, assist validation                |
 | [[Functions/ISMS Manager\|ISMS Manager]]  | Audit backup logs, ensure retention policies align             |
 | End Users         | Request restores via proper channels, verify data upon restore |

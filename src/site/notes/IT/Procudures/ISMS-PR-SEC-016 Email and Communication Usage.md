@@ -63,7 +63,7 @@ This procedure applies to:
 | Role             | Responsibility                                                    |
 | ---------------- | ----------------------------------------------------------------- |
 | End User         | Follow communication policy and report suspicious content         |
-| [[IT/IT\|IT]]           | Monitor email security, configure settings, and manage email logs |
+| [[IT\|IT]]           | Monitor email security, configure settings, and manage email logs |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Review incidents, audit mailbox controls, approve exceptions      |
 ## **10. RELATED DOCUMENTS**
 

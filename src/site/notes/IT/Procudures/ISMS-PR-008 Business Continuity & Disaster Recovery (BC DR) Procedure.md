@@ -53,7 +53,7 @@ DR/BC plans are activated when:
 | Role             | Responsibility                                  |
 | ---------------- | ----------------------------------------------- |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Maintain and test BC/DR plans                   |
-| [[IT/IT\|IT]]           | Execute recovery processes and validate systems |
+| [[IT\|IT]]           | Execute recovery processes and validate systems |
 | Department Heads | Maintain continuity of business functions       |
 | All Staff        | Follow communication and recovery instructions  |
 ## **8. COMMUNICATION DURING DISRUPTION**

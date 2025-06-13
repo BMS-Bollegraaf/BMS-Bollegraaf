@@ -36,7 +36,7 @@ Applies to all:
 | **Role**            | Responsobility                                                         |
 | ------------------- | ---------------------------------------------------------------------- |
 | [[Functions/IT Support\|IT Support]]      | Collect and store used cartridges securely                             |
-| [[IT/IT\|IT]]              | Check for data-bearing components; assist in secure handling           |
+| [[IT\|IT]]              | Check for data-bearing components; assist in secure handling           |
 | Supplier / Recycler | Provide collection service and (where applicable) disposal certificate |
 | [[Functions/ISMS Manager\|ISMS Manager]]    | Ensure secure disposal controls are enforced and logged during audits  |
 ## **6. REVIEW & COMPLIANCE**  

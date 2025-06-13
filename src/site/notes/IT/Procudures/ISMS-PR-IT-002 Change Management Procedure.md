@@ -73,7 +73,7 @@ Every change record must include:
 | Change Requester                | Submits detailed CR and coordinates with IT |
 | Technical Approver              | Reviews feasibility and risks               |
 | [[Functions/CAB - Change Advisory Board\|CAB - Change Advisory Board]] | Approves or rejects high-impact changes     |
-| [[IT/IT\|IT]]                          | Executes change and logs results            |
+| [[IT\|IT]]                          | Executes change and logs results            |
 | [[Functions/ISMS Manager\|ISMS Manager]]                | Ensures compliance, audits change records   |
 ## **8. AUDIT & REVIEW**
 - Change logs must be retained for **at least 12 months**

@@ -30,7 +30,7 @@ This procedure applies to:
 | ---- | ------------------------------------------------------------------------------------------- |
 | 1    | Submit a **Restore Request Form** or ticket to IT                                           |
 | 2    | Include the system name, file/data details, date/time of last known good state, and urgency |
-| 3    | Request reviewed by [[IT/IT\|IT]] + [[Functions/System Owners\|System Owners]]                                              |
+| 3    | Request reviewed by [[IT\|IT]] + [[Functions/System Owners\|System Owners]]                                              |
 | 4    | Approval documented for audit trail                                                         |
 ## **5. RESTORE EXECUTION PROCESS**  
 
@@ -42,7 +42,7 @@ This procedure applies to:
 | 4    | Document outcome and close request                                                       |
 | 5    | If restoration fails, escalate to backup vendor or initiate disaster recovery procedures |
 ## **6. RESTORE AND ACCESS CONTROL**  
-- Restore jobs can only be performed by authorized **[[IT/IT\|IT]]
+- Restore jobs can only be performed by authorized **[[IT\|IT]]
 - Access to restored files must be reviewed and logged
 - Sensitive data must only be restored to **approved systems**
 ## **7. LOGGING AND DOCUMENTATION**  

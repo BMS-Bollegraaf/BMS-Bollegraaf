@@ -77,7 +77,7 @@ Format: `ASSET-[TypeCode]-[LocationCode]-[SequentialNumber]`
 | Role             | Resonsibilities                            |
 | ---------------- | ------------------------------------------ |
 | [[Functions/IT Support\|IT Support]]   | Apply labels and update register           |
-| [[IT/IT\|IT]]           | Maintain inventory and ID structure        |
+| [[IT\|IT]]           | Maintain inventory and ID structure        |
 | Users            | Do not remove, alter, or deface asset tags |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Audit labeling process and compliance      |
 ## **9. NON -COMPLIANCE**

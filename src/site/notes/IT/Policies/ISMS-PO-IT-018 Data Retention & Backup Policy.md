@@ -64,7 +64,7 @@ Retention periods must comply with applicable laws, such as GDPR, SOX, HIPAA, et
 
 | Role             | Responsibility                                                     |
 | ---------------- | ------------------------------------------------------------------ |
-| [[IT/IT\|IT]]           | Manage backups, ensure restore capability, monitor success/failure |
+| [[IT\|IT]]           | Manage backups, ensure restore capability, monitor success/failure |
 | Data Owners      | Define retention needs and classify data appropriately             |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure policy compliance and conduct periodic audits               |
 | All Staff        | Avoid storing data in unauthorized locations                       |

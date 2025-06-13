@@ -53,7 +53,7 @@ This policy applies to:
 | ---------------- | ------------------------------------------------------------ |
 | AI Users         | Follow usage guidelines, avoid inputting sensitive data      |
 | AI Developers    | Validate, document, and monitor model performance and risk   |
-| [[IT/IT\|IT]]           | Assess AI systems for vulnerabilities and data leakage risks |
+| [[IT\|IT]]           | Assess AI systems for vulnerabilities and data leakage risks |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure policy alignment and maintain risk registers          |
 | [[QHSE\|QHSE]]         | Review regulatory and ethical implications of AI use         |
 ## **5. REVIEW AND UPDATE**  

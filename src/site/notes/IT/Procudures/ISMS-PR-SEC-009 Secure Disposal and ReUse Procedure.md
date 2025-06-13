@@ -63,7 +63,7 @@ All paper documents classified as **Confidential** or **Internal Use** must be:
 
 | **Role**            | **Responsibility**                               |
 | ------------------- | ------------------------------------------------ |
-| [[IT/IT\|IT]]              | Identify and manage disposal of IT assets        |
+| [[IT\|IT]]              | Identify and manage disposal of IT assets        |
 | Asset Owners        | Confirm readiness and authorization for disposal |
 | [[Functions/IT Manager\|IT Manager]]      | Verify secure data deletion or destruction       |
 | Third-party Vendors | Provide secure, certified disposal services      |

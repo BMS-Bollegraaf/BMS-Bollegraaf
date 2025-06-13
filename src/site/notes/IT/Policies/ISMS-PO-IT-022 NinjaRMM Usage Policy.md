@@ -51,7 +51,7 @@ To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for 
 - All remote sessions, script actions, and alerts must be logged
 - Logs must include user, date/time, action, and target system
 - Logs reviewed:
-    - Monthly (by [[IT/IT\|IT]] team)
+    - Monthly (by [[IT\|IT]] team)
     - Quarterly (by [[Functions/ISMS Manager\|ISMS Manager]] or internal auditor)
 ## **8. CHANGE & INCIDENT INTEGRATION**
 - Any major automation or agent config changes must follow **[[IT/Procudures/ISMS-PR-IT-002 Change Management Procedure\|ISMS-PR-IT-002 Change Management Procedure]]**
@@ -78,7 +78,7 @@ To define secure, auditable, and compliant usage of **NinjaRMM (NinjaOne)** for 
 | Role              | Responsibility                           |
 | ----------------- | ---------------------------------------- |
 | [[Functions/IT Engineer\|IT Engineer]]   | Maintain and use RMM securely            |
-| [[IT/IT\|IT]]            | Review alerts, logs, and integrations    |
+| [[IT\|IT]]            | Review alerts, logs, and integrations    |
 | [[Functions/ISMS Manager\|ISMS Manager]]  | Approve access and perform audits        |
 | [[Functions/System Owners\|System Owners]] | Coordinate patching and monitoring needs |
 ## **12. REVIEW AND MAINTENANCE**

@@ -29,13 +29,13 @@ This procedure applies to:
 
 | **Task**                                            | **Owner**                  | Notes                                         |
 | --------------------------------------------------- | -------------------------- | --------------------------------------------- |
-| Assign username/email and employee ID               | [[IT/IT\|IT]]                     | Follows standard naming convention            |
+| Assign username/email and employee ID               | [[IT\|IT]]                     | Follows standard naming convention            |
 | Assign laptop / PC and necessary peripherals        | [[Functions/IT Support\|IT Support]]             | Asset recorded in IT Asset Register (TOPdesk) |
-| Configure system access (AD, M365, SaaS, etc.)      | [[IT/IT\|IT]] / Application Owers | Role-based access (RBAC)                      |
-| Configure MFA and VPN                               | [[IT/IT\|IT]]                     | Mandatory for remote/cloud access             |
-| Set password and provide initial login instructions | [[IT/IT\|IT]]                     | Temporary password, enforce change on login   |
-| Email setup and communication tools configured      | [[IT/IT\|IT]]                     | MS Teams, Outlook, etc.                       |
-| Provide onboarding checklist + training links       | [[IT/IT\|IT]]  / [[HR/HR\|HR]]           | Includes security awareness onboarding        |
+| Configure system access (AD, M365, SaaS, etc.)      | [[IT\|IT]] / Application Owers | Role-based access (RBAC)                      |
+| Configure MFA and VPN                               | [[IT\|IT]]                     | Mandatory for remote/cloud access             |
+| Set password and provide initial login instructions | [[IT\|IT]]                     | Temporary password, enforce change on login   |
+| Email setup and communication tools configured      | [[IT\|IT]]                     | MS Teams, Outlook, etc.                       |
+| Provide onboarding checklist + training links       | [[IT\|IT]]  / [[HR/HR\|HR]]           | Includes security awareness onboarding        |
 ## **5. MANDATORY SECURITY ONBOARDING** 
 
 | Item                                    | Delivery Format                | Complention Deadline         |
@@ -53,10 +53,10 @@ This procedure applies to:
 
 | Review Task                                        | Owner                   |
 | -------------------------------------------------- | ----------------------- |
-| Confirm only approved access is granted            | [[IT/IT\|IT]]                  |
+| Confirm only approved access is granted            | [[IT\|IT]]                  |
 | Confirm training is complete                       | [[HR/HR\|HR]]                  |
 | Confirm assets are used securely and accounted for | [[Functions/IT Support\|IT Support]]          |
-| Close initial onboarding ticket                    | [[IT/IT\|IT]] / [[Functions/IT Support\|IT Support]] |
+| Close initial onboarding ticket                    | [[IT\|IT]] / [[Functions/IT Support\|IT Support]] |
 ## **8. EXCEPTIONS AND ESCALATIONS**
 - Any delays in onboarding steps must be reported to the **[[Functions/IT Manager\|IT Manager]]**
 - Exceptions to access or device policies must be **documented and approved**

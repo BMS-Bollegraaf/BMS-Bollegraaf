@@ -61,7 +61,7 @@ Applies to:
 | ------------------ | ------------------------------------------------------ |
 | All Users          | Classify and handle information correctly              |
 | Information Owners | Define classification level for assets                 |
-| [[IT/IT\|IT]]             | Enforce technical controls (e.g., encryption, backups) |
+| [[IT\|IT]]             | Enforce technical controls (e.g., encryption, backups) |
 | [[Functions/ISMS Manager\|ISMS Manager]]   | Monitor compliance and update classification rules     |
 ## **7. REVIEW**  
 This procedure must be reviewed **annually**, or after:

@@ -54,7 +54,7 @@ This procedure applies to:
 | Role             | Resonsibility                                                |
 | ---------------- | ------------------------------------------------------------ |
 | Facilies Team    | Maintain secure physical environment and controls            |
-| [[IT/IT\|IT]]           | Monitor access logs and environmental alarms                 |
+| [[IT\|IT]]           | Monitor access logs and environmental alarms                 |
 | Employees        | Follow physical security protocols and report violations     |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Audit compliance and investigate physical security incidents |
 ## **8. REVIEW**

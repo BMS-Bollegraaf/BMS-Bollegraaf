@@ -6,7 +6,7 @@
 **Version:** 1.0  
 **Last Updated:** 21-03-2025  
 **Approved By:** [Authority Name]  
-**Owner:** [[Functions/IT Manager\|IT Manager]] / [[IT/IT\|IT]]
+**Owner:** [[Functions/IT Manager\|IT Manager]] / [[IT\|IT]]
 **Classification:** [[Classification/Internal\|Internal]]
 **ISO/IEC 27001 Controls:**  5.1, 5.9, 5.15, 8.1.1, 8.2.2, 8.3, 8.9 
 
@@ -79,7 +79,7 @@ To ensure clarity and maintainability across Active Directory Group Policy Objec
 | ------------------ | --------------------------------------------------------------------- |
 | [[Functions/ISMS Manager\|ISMS Manager]]   | is responsible for defining and updating naming standards.            |
 | Application Owners | must request group creation following this standard                   |
-| [[IT/IT\|IT]]             | are responsible for implementing the convention during group creation |
+| [[IT\|IT]]             | are responsible for implementing the convention during group creation |
 ## **6. EXCEPTIONS**  
 Exceptions to this policy must be reviewed and approved by the IAM team and documented in the AD Exceptions Register.
 ## **7. ENFORCEMENT**  

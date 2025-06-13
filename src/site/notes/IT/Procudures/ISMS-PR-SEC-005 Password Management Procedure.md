@@ -67,7 +67,7 @@ All passwords must **not include dictionary words, usernames, or obvious pattern
 | Users            | Create, store, and use passwords responsibly      |
 | [[Functions/IT Support\|IT Support]]   | Enforce reset process and verify identities       |
 | Admins           | Rotate, audit, and protect privileged credentials |
-| [[IT/IT\|IT]]           | Monitor for leaked credentials or compromise      |
+| [[IT\|IT]]           | Monitor for leaked credentials or compromise      |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Audit compliance and review procedure annually    |
 ## **10. REVIEW & COMPLIANCE**
 This procedure must be reviewed **annually**, or after:

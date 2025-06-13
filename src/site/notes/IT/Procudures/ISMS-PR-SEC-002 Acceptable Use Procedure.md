@@ -48,7 +48,7 @@ This procedure applies to:
 - Users will be notified via onboarding and policy documentation
 - Monitoring includes: web usage, login/logout activity, email metadata, system access logs
 ## **6. INCIDENT HANDLING**  
-- Suspected violations should be reported to [[IT/IT\|IT]] or [[HR/HR\|HR]]
+- Suspected violations should be reported to [[IT\|IT]] or [[HR/HR\|HR]]
 - Security incidents will be investigated per the **[[IT/Procudures/ISMS-PR-SEC-010 Incident Response Procedure\|ISMS-PR-SEC-010 Incident Response Procedure]]**
 - Confirmed violations may result in disciplinary action
 ## **7. ROLES AND RESPONSIBILITIES**  

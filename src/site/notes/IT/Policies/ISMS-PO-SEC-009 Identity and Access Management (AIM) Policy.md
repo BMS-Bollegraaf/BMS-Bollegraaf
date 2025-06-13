@@ -58,7 +58,7 @@ To ensure that all access to organizational systems and data is authorized, secu
 
 | **Role**         | **Responsibility**                                              |
 | ---------------- | --------------------------------------------------------------- |
-| [[IT/IT\|IT]]           | Manage accounts, enforce policy, conduct reviews                |
+| [[IT\|IT]]           | Manage accounts, enforce policy, conduct reviews                |
 | [[HR/HR\|HR]]           | Notify IT of onboarding, offboarding, role changes              |
 | Department Heads | Approve access for team members and review role appropriateness |
 | [[Functions/ISMS Manager\|ISMS Manager]] | Ensure IAM compliance and audit readiness                       |

@@ -56,7 +56,7 @@ This procedure applies to:
 
 | Role             | Resonsibility                                                       |
 | ---------------- | ------------------------------------------------------------------- |
-| [[IT/IT\|IT]]           | Approve cryptographic use, review key lifecycle, maintain standards |
+| [[IT\|IT]]           | Approve cryptographic use, review key lifecycle, maintain standards |
 | Developers       | Implement approved encryption methods in applications               |
 | System Admins    | Securely store and rotate keys                                      |
 | End Users        | Use encrypted communication tools responsibly                       |
