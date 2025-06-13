@@ -33,7 +33,7 @@
 > - [[Financial Reports\|Financial Reports]]
 <div class="flashcard-grid grid-4">
   <div class="flashcard theme-cyan">
-    <a href="/BMS">
+    <a href="/COTO/COTO-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="BMS">
       </div>
@@ -45,7 +45,7 @@
   </div>
   
   <div class="flashcard theme-cyan">
-    <a href="/PDF-to-Obsidian">
+    <a href="/Vision-Mission/Vision-Mission-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -57,7 +57,7 @@
   </div>
   
   <div class="flashcard theme-cyan">
-    <a href="/PDF-to-Obsidian">
+    <a href="/Strategy-Deployment/Strategy-Deployment-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -69,7 +69,7 @@
   </div>
   
   <div class="flashcard theme-cyan">
-    <a href="/PDF-to-Obsidian">
+    <a href="/Risk-Management/Risk-Management-Dashboard">
       <div class="flashcard-image">
         <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                         | Last Modified            |
 | ------------------------------------------------------------ | ------------------------ |
-| [[BMS\|BMS]]                                              | 11:41 AM - June 13, 2025 |
+| [[BMS\|BMS]]                                              | 11:43 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | 11:01 AM - June 13, 2025 |
 | [[IMP/IMP Dashboard\|IMP Dashboard]]                      | 11:00 AM - June 13, 2025 |
 | [[BI/BI Dashboard\|BI Dashboard]]                         | 10:59 AM - June 13, 2025 |
