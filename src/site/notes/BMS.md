@@ -84,7 +84,7 @@
 
 <div class="flashcard-grid grid-10">
   <div class="flashcard theme-orange">
-    <a href="/BMS">
+    <a href="/Sales/Sales-Dashboard">
       <div class="flashcard-image">
         <img 
         src="/img/OfficeBollegraaf.png" 
@@ -97,7 +97,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/PDF-to-Obsidian">
+    <a href="/Sales-Engeneering/Sales-Engeneering-Dashboard">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
@@ -108,7 +108,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/Your-Third-Link">
+    <a href="/Engineering/Engineering-Dashboard">
       <div class="flashcard-image">
         <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
@@ -119,7 +119,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/Your-Fourth-Link">
+      <a href="/Procurement/Procurement-Dashboard">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
@@ -130,7 +130,7 @@
     </a>
   </div>
     <div class="flashcard theme-orange">
-    <a href="/Your-Fourth-Link">
+    <a href="/Business-Office/Business-Office-Dashboard">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
@@ -141,7 +141,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/BMS">
+    <a href="/Production/Production-Dashboard">
       <div class="flashcard-image">
         <img 
         src="/img/OfficeBollegraaf.png" 
@@ -154,7 +154,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/PDF-to-Obsidian">
+    <a href="/Assembly/Assembly-Dashboard">
       <div class="flashcard-image">
         <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
@@ -165,7 +165,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/Your-Third-Link">
+    <a href="/Logistics/Logistics-Dashboard">
       <div class="flashcard-image">
         <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
@@ -176,7 +176,7 @@
     </a>
   </div>
   <div class="flashcard theme-orange">
-    <a href="/Your-Fourth-Link">
+    <a href="/Service-&-After-Sales/Service-&-After-Sales-Dashboard">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
@@ -187,7 +187,7 @@
     </a>
   </div>
     <div class="flashcard theme-orange">
-    <a href="/Your-Fourth-Link">
+    <a href="/Projects/Projects-Dashboard">
       <div class="flashcard-image">
         <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
@@ -286,7 +286,7 @@
 ## Recent Updates
 | File                                                         | Last Modified            |
 | ------------------------------------------------------------ | ------------------------ |
-| [[BMS\|BMS]]                                              | 11:27 AM - June 13, 2025 |
+| [[BMS\|BMS]]                                              | 11:41 AM - June 13, 2025 |
 | [[Facilities/Facilities Dashboard\|Facilities Dashboard]] | 11:01 AM - June 13, 2025 |
 | [[IMP/IMP Dashboard\|IMP Dashboard]]                      | 11:00 AM - June 13, 2025 |
 | [[BI/BI Dashboard\|BI Dashboard]]                         | 10:59 AM - June 13, 2025 |
