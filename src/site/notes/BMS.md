@@ -75,7 +75,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Sales</h3>
-        <p>"Sales" — BMS workflow overview</p>
+        <p>"Sales" — Additional information</p>
       </div>
     </a>
   </div>
@@ -85,7 +85,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Sales Engineering</h3>
-        <p>"Sales Engineering" — How to import PDFs</p>
+        <p>"Sales Engineering" — Additional information</p>
       </div>
     </a>
   </div>
@@ -125,7 +125,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Production</h3>
-        <p>"Production" — BMS workflow overview</p>
+        <p>"Production" — Additional information</p>
       </div>
     </a>
   </div>
@@ -135,7 +135,7 @@
       </div>
       <div class="flashcard-content">
         <h3>Assembly</h3>
-        <p>"Assembly" — How to import PDFs</p>
+        <p>"Assembly" — Additional information</p>
       </div>
     </a>
   </div>
@@ -251,7 +251,7 @@
 ## Recent Updates
 | File                                                                                                                                                              | Last Modified            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                                                                                                   | 8:47 AM - June 27, 2025  |
+| [[BMS\|BMS]]                                                                                                                                                   | 12:44 PM - June 27, 2025 |
 | [[IT/Policies/ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy\|ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy]] | 3:42 PM - June 23, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]]                                                                           | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]                                                                                       | 11:51 AM - June 13, 2025 |
