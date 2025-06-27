@@ -498,14 +498,12 @@ blockquote {
         }
     }
 }
-/* Enhanced Flashcard Grid System - Individual Card Colors */
-/* Enhanced Flashcard Grid System - Individual Card Colors */
 
-/* Base flashcard variables (default theme) */
+/* Base flashcard variables (professional theme) */
 :root {
   --flashcard-gap: 1.5rem;
-  --flashcard-shadow: rgba(0, 0, 0, 0.3);
-  --flashcard-shadow-hover: rgba(0, 0, 0, 0.5);
+  --flashcard-shadow: rgba(0, 0, 0, 0.15);
+  --flashcard-shadow-hover: rgba(0, 0, 0, 0.25);
   --flashcard-text: #ffffff;
   --flashcard-text-muted: rgba(255, 255, 255, 0.9);
 }
@@ -569,31 +567,22 @@ blockquote {
   .flashcard-grid { gap: 1rem; }
 }
 
-/* Base Flashcard Container */
+/* Base Flashcard Container - Professional Style */
 .flashcard {
-  background: rgba(30, 37, 78, 0.85); /* Default color */
-  backdrop-filter: blur(12px);
-  border-radius: 16px;
+  background: #1e3a5f; /* Default professional blue */
+  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 8px 32px var(--flashcard-shadow);
-  border: 2px solid rgba(224, 178, 255, 0.4); /* Default border */
-  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px var(--flashcard-shadow);
+  border: 2px solid transparent;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
-  min-height: 280px;
-  max-height: 350px;
+  min-height: 120px;
+  max-height: 160px;
   display: flex;
   flex-direction: column;
-
-  /* Subtle gradient overlay */
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 50%, rgba(255,255,255,0.02) 100%);
-    pointer-events: none;
-    border-radius: 16px;
-    z-index: 1;
-  }
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 
   /* Link styling */
   a {
@@ -602,8 +591,12 @@ blockquote {
     text-decoration: none;
     color: inherit;
     height: 100%;
+    width: 100%;
     position: relative;
-    z-index: 2;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 1rem;
+    box-sizing: border-box;
 
     &::after {
       display: none;
@@ -612,406 +605,165 @@ blockquote {
 
   /* Base hover effects */
   &:hover {
-    transform: translateY(-8px) scale(1.02);
-    box-shadow: 0 20px 40px var(--flashcard-shadow-hover);
-    border-color: #E0B2FF; /* Default hover border */
-
-    &::before {
-      background: linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0.08) 50%, rgba(255,255,255,0.04) 100%);
-    }
-
-    .flashcard-image img {
-      transform: scale(1.08) rotate(1deg);
-      filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.6));
-    }
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px var(--flashcard-shadow-hover);
+    border-color: rgba(255, 255, 255, 0.3);
   }
 }
 
-/* Image container */
-.flashcard-image {
-  background: rgba(18, 20, 42, 0.8); /* Default image area color */
-  padding: 1.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  height: 180px;
-  position: relative;
-
-  img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: contain;
-    filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.4));
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    border-radius: 8px;
-  }
-}
-
-/* Content area */
+/* Content area - Simplified for professional look */
 .flashcard-content {
-  padding: 1.5rem;
-  flex-grow: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
 
   h3 {
-    margin: 0 0 0.75rem;
-    color: #E0B2FF; /* Default accent color */
-    font-size: 1.25rem;
-    font-weight: 700;
-    letter-spacing: 0.5px;
+    margin: 0 0 0.5rem 0;
+    color: var(--flashcard-text);
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
     line-height: 1.3;
   }
 
   p {
     margin: 0;
     color: var(--flashcard-text-muted);
-    font-size: 0.95rem;
-    line-height: 1.5;
-    font-style: italic;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    font-weight: 400;
+    opacity: 0.9;
+  }
+
+  /* Optional number/badge styling */
+  .flashcard-number {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.2);
+    color: var(--flashcard-text);
+    font-size: 0.7rem;
+    font-weight: 500;
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    margin-top: 0.5rem;
+    min-width: 20px;
+    text-align: center;
   }
 }
 
 /* Size adjustments for grids with many cards */
 .grid-5, .grid-6, .grid-7, .grid-8, .grid-9 {
   .flashcard {
-    min-height: 260px;
-    max-height: 320px;
+    min-height: 100px;
+    max-height: 140px;
 
-    .flashcard-image {
-      height: 160px;
-      padding: 1.25rem;
+    a {
+      padding: 1.25rem 0.75rem;
     }
 
     .flashcard-content {
-      padding: 1.25rem;
-
       h3 {
-        font-size: 1.1rem;
+        font-size: 1rem;
+        margin-bottom: 0.25rem;
       }
 
       p {
-        font-size: 0.85rem;
+        font-size: 0.75rem;
+      }
+
+      .flashcard-number {
+        font-size: 0.65rem;
+        padding: 0.15rem 0.4rem;
+        margin-top: 0.25rem;
       }
     }
   }
 }
 
-/* Individual Color Themes for Cards */
+/* Individual Color Themes for Cards - Professional Palette */
 
-/* Purple Theme (Default) */
-.flashcard.theme-purple {
-  background: rgba(30, 37, 78, 0.85);
-  border-color: rgba(224, 178, 255, 0.4);
-
-  .flashcard-image {
-    background: rgba(18, 20, 42, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #E0B2FF;
-  }
-
-  &:hover {
-    border-color: #E0B2FF;
-  }
+/* Default Blue Theme */
+.flashcard.theme-blue, .flashcard {
+  background: #1e3a5f;
 }
 
-/* Blue/Ocean Theme */
-.flashcard.theme-blue {
-  background: rgba(20, 50, 80, 0.85);
-  border-color: rgba(100, 181, 246, 0.4);
-
-  .flashcard-image {
-    background: rgba(10, 30, 60, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #64B5F6;
-  }
-
-  &:hover {
-    border-color: #64B5F6;
-  }
-}
-
-/* Green/Forest Theme */
-.flashcard.theme-green {
-  background: rgba(30, 60, 40, 0.85);
-  border-color: rgba(129, 199, 132, 0.4);
-
-  .flashcard-image {
-    background: rgba(20, 40, 30, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #81C784;
-  }
-
-  &:hover {
-    border-color: #81C784;
-  }
-}
-
-/* Orange/Sunset Theme */
+/* Orange Theme */
 .flashcard.theme-orange {
-  background: rgba(80, 40, 30, 0.85);
-  border-color: rgba(255, 138, 101, 0.4);
-
-  .flashcard-image {
-    background: rgba(60, 30, 20, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #FF8A65;
-  }
-
-  &:hover {
-    border-color: #FF8A65;
-  }
-}
-
-/* Red Theme */
-.flashcard.theme-red {
-  background: rgba(80, 30, 40, 0.85);
-  border-color: rgba(244, 67, 54, 0.4);
-
-  .flashcard-image {
-    background: rgba(60, 20, 30, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #F44336;
-  }
-
-  &:hover {
-    border-color: #F44336;
-  }
+  background: #d2691e;
 }
 
 /* Teal Theme */
 .flashcard.theme-teal {
-  background: rgba(30, 60, 60, 0.85);
-  border-color: rgba(77, 182, 172, 0.4);
-
-  .flashcard-image {
-    background: rgba(20, 40, 40, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #4DB6AC;
-  }
-
-  &:hover {
-    border-color: #4DB6AC;
-  }
+  background: #2f6b6b;
 }
 
-/* Yellow/Gold Theme */
-.flashcard.theme-yellow {
-  background: rgba(70, 60, 30, 0.85);
-  border-color: rgba(255, 235, 59, 0.4);
-
-  .flashcard-image {
-    background: rgba(50, 40, 20, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #FFEB3B;
-  }
-
-  &:hover {
-    border-color: #FFEB3B;
-  }
+/* Navy Theme */
+.flashcard.theme-navy {
+  background: #1e3a5f;
 }
 
-/* Pink Theme */
-.flashcard.theme-pink {
-  background: rgba(70, 30, 60, 0.85);
-  border-color: rgba(233, 30, 99, 0.4);
-
-  .flashcard-image {
-    background: rgba(50, 20, 40, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #E91E63;
-  }
-
-  &:hover {
-    border-color: #E91E63;
-  }
+/* Dark Blue Theme */
+.flashcard.theme-dark-blue {
+  background: #0f2941;
 }
 
-/* Indigo Theme */
-.flashcard.theme-indigo {
-  background: rgba(40, 30, 80, 0.85);
-  border-color: rgba(63, 81, 181, 0.4);
-
-  .flashcard-image {
-    background: rgba(30, 20, 60, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #3F51B5;
-  }
-
-  &:hover {
-    border-color: #3F51B5;
-  }
+/* Green Theme */
+.flashcard.theme-green {
+  background: #2d5a3d;
 }
 
-/* Cyan Theme */
-.flashcard.theme-cyan {
-  background: rgba(20, 60, 70, 0.85);
-  border-color: rgba(0, 188, 212, 0.4);
-
-  .flashcard-image {
-    background: rgba(10, 40, 50, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #00BCD4;
-  }
-
-  &:hover {
-    border-color: #00BCD4;
-  }
+/* Purple Theme */
+.flashcard.theme-purple {
+  background: #4a3d6b;
 }
 
-/* Lime Theme */
-.flashcard.theme-lime {
-  background: rgba(60, 70, 30, 0.85);
-  border-color: rgba(205, 220, 57, 0.4);
-
-  .flashcard-image {
-    background: rgba(40, 50, 20, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #CDDC39;
-  }
-
-  &:hover {
-    border-color: #CDDC39;
-  }
-}
-
-/* Amber Theme */
-.flashcard.theme-amber {
-  background: rgba(70, 60, 20, 0.85);
-  border-color: rgba(255, 193, 7, 0.4);
-
-  .flashcard-image {
-    background: rgba(50, 40, 10, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #FFC107;
-  }
-
-  &:hover {
-    border-color: #FFC107;
-  }
-}
-
-/* Deep Orange Theme */
-.flashcard.theme-deep-orange {
-  background: rgba(80, 35, 20, 0.85);
-  border-color: rgba(255, 87, 34, 0.4);
-
-  .flashcard-image {
-    background: rgba(60, 25, 10, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #FF5722;
-  }
-
-  &:hover {
-    border-color: #FF5722;
-  }
+/* Red Theme */
+.flashcard.theme-red {
+  background: #8b3a3a;
 }
 
 /* Brown Theme */
 .flashcard.theme-brown {
-  background: rgba(60, 45, 35, 0.85);
-  border-color: rgba(121, 85, 72, 0.4);
-
-  .flashcard-image {
-    background: rgba(40, 30, 25, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #795548;
-  }
-
-  &:hover {
-    border-color: #795548;
-  }
+  background: #6b4d2d;
 }
 
-/* Blue Grey Theme */
-.flashcard.theme-blue-grey {
-  background: rgba(45, 50, 55, 0.85);
-  border-color: rgba(96, 125, 139, 0.4);
-
-  .flashcard-image {
-    background: rgba(30, 35, 40, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #607D8B;
-  }
-
-  &:hover {
-    border-color: #607D8B;
-  }
+/* Grey Theme */
+.flashcard.theme-grey {
+  background: #4a5568;
 }
 
-/* Light Green Theme */
-.flashcard.theme-light-green {
-  background: rgba(40, 70, 50, 0.85);
-  border-color: rgba(139, 195, 74, 0.4);
-
-  .flashcard-image {
-    background: rgba(25, 50, 35, 0.8);
-  }
-
-  .flashcard-content h3 {
-    color: #8BC34A;
-  }
-
-  &:hover {
-    border-color: #8BC34A;
-  }
+/* Amber Theme */
+.flashcard.theme-amber {
+  background: #b8860b;
 }
 
-/* Deep Purple Theme */
-.flashcard.theme-deep-purple {
-  background: rgba(50, 30, 80, 0.85);
-  border-color: rgba(103, 58, 183, 0.4);
+/* Indigo Theme */
+.flashcard.theme-indigo {
+  background: #3a4d6b;
+}
 
-  .flashcard-image {
-    background: rgba(35, 20, 60, 0.8);
-  }
+/* Maroon Theme */
+.flashcard.theme-maroon {
+  background: #6b2d3a;
+}
 
-  .flashcard-content h3 {
-    color: #673AB7;
-  }
+/* Slate Theme */
+.flashcard.theme-slate {
+  background: #374151;
+}
 
-  &:hover {
-    border-color: #673AB7;
-  }
+/* Forest Theme */
+.flashcard.theme-forest {
+  background: #1f4e3d;
 }
 
 /* Loading animation */
 @keyframes fadeInUp {
   from {
     opacity: 0;
-    transform: translateY(30px);
+    transform: translateY(20px);
   }
   to {
     opacity: 1;
@@ -1020,16 +772,45 @@ blockquote {
 }
 
 .flashcard {
-  animation: fadeInUp 0.6s ease-out;
+  animation: fadeInUp 0.5s ease-out;
 
   &:nth-child(2) { animation-delay: 0.1s; }
   &:nth-child(3) { animation-delay: 0.2s; }
   &:nth-child(4) { animation-delay: 0.3s; }
   &:nth-child(5) { animation-delay: 0.4s; }
+  &:nth-child(6) { animation-delay: 0.5s; }
+  &:nth-child(7) { animation-delay: 0.6s; }
+  &:nth-child(8) { animation-delay: 0.7s; }
 }
 
 /* Focus accessibility */
 .flashcard:focus-within {
-  outline: 3px solid #E0B2FF;
-  outline-offset: 4px;
+  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline-offset: 2px;
+}
+
+/* Responsive text scaling */
+@media (max-width: 768px) {
+  .flashcard {
+    min-height: 100px;
+    max-height: 140px;
+
+    a {
+      padding: 1rem 0.75rem;
+    }
+
+    .flashcard-content {
+      h3 {
+        font-size: 1rem;
+      }
+
+      p {
+        font-size: 0.75rem;
+      }
+
+      .flashcard-number {
+        font-size: 0.65rem;
+      }
+    }
+  }
 }
