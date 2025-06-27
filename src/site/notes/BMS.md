@@ -15,13 +15,6 @@
 > - [[Quality Standards\|Quality Standards]]
 > - [[Company Values\|Company Values]]
 
-> [!note]- Templates
-> 
-> - [[Meeting Minutes Template\|Meeting Minutes Template]]
-> - [[Project Brief Template\|Project Brief Template]]
-> - [[Weekly Report Template\|Weekly Report Template]]
-> - [[Employee Onboarding Checklist\|Employee Onboarding Checklist]]
-
 > [!note]- Department Quick Links
 > 
 > - [[Sales Pipeline\|Sales Pipeline]]
@@ -258,7 +251,7 @@
 ## Recent Updates
 | File                                                                                                                                                              | Last Modified            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                                                                                                   | 8:46 AM - June 27, 2025  |
+| [[BMS\|BMS]]                                                                                                                                                   | 8:47 AM - June 27, 2025  |
 | [[IT/Policies/ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy\|ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy]] | 3:42 PM - June 23, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]]                                                                           | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]                                                                                       | 11:51 AM - June 13, 2025 |
