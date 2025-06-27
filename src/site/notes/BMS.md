@@ -79,8 +79,6 @@
   <div class="flashcard theme-orange">
     <a href="/Sales/Sales-Dashboard">
       <div class="flashcard-image">
-        <img 
-        alt="BMS">
       </div>
       <div class="flashcard-content">
         <h3>Sales</h3>
@@ -121,7 +119,6 @@
     <div class="flashcard theme-orange">
     <a href="/Business-Office/Business-Office-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
         <h3>Business Office</h3>
@@ -132,9 +129,6 @@
   <div class="flashcard theme-orange">
     <a href="/Production/Production-Dashboard">
       <div class="flashcard-image">
-        <img 
-        src="/img/OfficeBollegraaf.png" 
-        alt="BMS">
       </div>
       <div class="flashcard-content">
         <h3>Production</h3>
@@ -145,7 +139,6 @@
   <div class="flashcard theme-orange">
     <a href="/Assembly/Assembly-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>Assembly</h3>
@@ -156,7 +149,6 @@
   <div class="flashcard theme-orange">
     <a href="/Logistics/Logistics-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
       <div class="flashcard-content">
         <h3>Logistics</h3>
@@ -167,7 +159,6 @@
   <div class="flashcard theme-orange">
     <a href="/Service-and-After-Sales/Service-and-After-Sales-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
         <h3>Service and After Sales</h3>
@@ -178,7 +169,6 @@
     <div class="flashcard theme-orange">
     <a href="/Projects/Projects-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
         <h3>Projects</h3>
@@ -193,7 +183,6 @@
   <div class="flashcard theme-red">
     <a href="/Finance/Finance-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="BMS">
       </div>
       <div class="flashcard-content">
         <h3>Finance</h3>
@@ -205,7 +194,6 @@
   <div class="flashcard theme-red">
     <a href="/HR/HR-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>HR</h3>
@@ -217,7 +205,6 @@
   <div class="flashcard theme-red">
     <a href="/QHSE/QHSE-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>QHSE</h3>
@@ -229,7 +216,6 @@
   <div class="flashcard theme-red">
     <a href="/BI/BI-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>BI</h3>
@@ -240,7 +226,6 @@
     <div class="flashcard theme-red">
     <a href="/IMP/IMP-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>IMP</h3>
@@ -251,7 +236,6 @@
     <div class="flashcard theme-red">
     <a href="/Facilities/Facilities-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>Facilities</h3>
@@ -262,7 +246,6 @@
     <div class="flashcard theme-red">
     <a href="/IT/IT-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>IT</h3>
@@ -275,7 +258,7 @@
 ## Recent Updates
 | File                                                                                                                                                              | Last Modified            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                                                                                                   | 8:43 AM - June 27, 2025  |
+| [[BMS\|BMS]]                                                                                                                                                   | 8:46 AM - June 27, 2025  |
 | [[IT/Policies/ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy\|ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy]] | 3:42 PM - June 23, 2025  |
 | [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]]                                                                           | 11:52 AM - June 13, 2025 |
 | [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]                                                                                       | 11:51 AM - June 13, 2025 |
