@@ -32,7 +32,6 @@
   <div class="flashcard theme-cyan">
     <a href="/COTO/COTO-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="BMS">
       </div>
       <div class="flashcard-content">
         <h3>COTO</h3>
@@ -44,7 +43,6 @@
   <div class="flashcard theme-cyan">
     <a href="/Vision-Mission/Vision-Mission">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>Vision/Mission</h3>
@@ -56,7 +54,6 @@
   <div class="flashcard theme-cyan">
     <a href="/Strategy-Deployment/Strategy-Deployment-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>Strategy Deployment</h3>
@@ -68,7 +65,6 @@
   <div class="flashcard theme-cyan">
     <a href="/Risk-Management/Risk-Management-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/OfficeBollegraaf.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>Risk Management</h3>
@@ -281,13 +277,13 @@
 </div>
 
 ## Recent Updates
-| File                                                                                    | Last Modified            |
-| --------------------------------------------------------------------------------------- | ------------------------ |
-| [[BMS\|BMS]]                                                                         | 2:47 PM - June 20, 2025  |
-| [[Test\|Test]]                                                                       | 2:10 PM - June 13, 2025  |
-| [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]] | 11:52 AM - June 13, 2025 |
-| [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]             | 11:51 AM - June 13, 2025 |
-| [[Facilities/Facilities Dashboard\|Facilities Dashboard]]                            | 11:01 AM - June 13, 2025 |
+| File                                                                                                                                                              | Last Modified            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[BMS\|BMS]]                                                                                                                                                   | 8:43 AM - June 27, 2025  |
+| [[IT/Policies/ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy\|ISMS-PO-SEC-018  Control of Mobiel Storage Media and Interfaces Policy]] | 3:42 PM - June 23, 2025  |
+| [[Strategy Deployment/Strategy Deployment Dashboard\|Strategy Deployment Dashboard]]                                                                           | 11:52 AM - June 13, 2025 |
+| [[Risk Management/Risk Management Dashboard\|Risk Management Dashboard]]                                                                                       | 11:51 AM - June 13, 2025 |
+| [[Facilities/Facilities Dashboard\|Facilities Dashboard]]                                                                                                      | 11:01 AM - June 13, 2025 |
 
 { .block-language-dataview}
 
