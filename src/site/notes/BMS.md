@@ -80,7 +80,6 @@
     <a href="/Sales/Sales-Dashboard">
       <div class="flashcard-image">
         <img 
-        src="/img/OfficeBollegraaf.png" 
         alt="BMS">
       </div>
       <div class="flashcard-content">
@@ -92,7 +91,6 @@
   <div class="flashcard theme-orange">
     <a href="/Sales-Engineering/Sales-Engineering-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/BRS_Shield.png" alt="PDF to Obsidian">
       </div>
       <div class="flashcard-content">
         <h3>Sales Engineering</h3>
@@ -103,7 +101,6 @@
   <div class="flashcard theme-orange">
     <a href="/Engineering/Engineering-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/Your-Third-Image.png" alt="Third Card">
       </div>
       <div class="flashcard-content">
         <h3>Engineering</h3>
@@ -114,7 +111,6 @@
   <div class="flashcard theme-orange">
       <a href="/Procurement/Procurement-Dashboard">
       <div class="flashcard-image">
-        <img src="/img/Your-Fourth-Image.png" alt="Fourth Card">
       </div>
       <div class="flashcard-content">
         <h3>Procurement</h3>
