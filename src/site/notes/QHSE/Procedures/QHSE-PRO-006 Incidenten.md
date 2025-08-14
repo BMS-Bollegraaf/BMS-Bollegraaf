@@ -7,8 +7,8 @@
 
 > **status**:                               Gepubliceerd
 > **document**:                        QHSE-PRO-006
-> **revisie**:                               001
-> **revisiedatum**:                    01-12-2024
+> **revisie**:                               002
+> **revisiedatum**:                    12-08-2025
 > **toepassingsgebied**:          Bollegraaf RM
 > **reden_wijziging**:               Initiële versie 
 > **document_eigenaren**:      Gert Scheper
@@ -75,7 +75,7 @@ Bij elk incident is het belangrijk om snel en correct te handelen. De volgende s
 
 2.4 Begeleiding van het slachtoffer:
 
-Als een bezoek aan de huisarts nodig is, kan de leidinggevende in overleg met het slachtoffer een begeleider aanwijzen. Na het huisartsbezoek vindt bij terugkomst op locatie een gesprek plaats tussen het slachtoffer en het onderzoeksteam. Op basis van medisch advies wordt vervolgens bepaald of de werkzaamheden kunnen worden hervat of aangepast werk nodig is
+Als een bezoek aan de huisarts nodig is, kan de leidinggevende in overleg met het slachtoffer een begeleider aanwijzen. Na het huisartsbezoek vindt bij terugkomst op locatie een gesprek plaats tussen het slachtoffer en het onderzoeksteam. Op basis van medisch advies wordt vervolgens bepaald of de werkzaamheden kunnen worden hervat, of aangepast werk nodig is.
 
 ## 3. Meldingsprocedure voor incidenten
 
@@ -118,6 +118,8 @@ Stappen in het onderzoek:
 -  Aanpassingen aan machines of installaties. 
 -  Implementeren van aanvullende veiligheidsmaatregelen.
 
+Wanneer het incidenttype een MTI of een LTI betreft zal een TOP-set® analyse worden uitgevoerd. Dit type onderzoek wordt uitgevoerd in teamverband met daarbij oa (indien mogelijk) het slachtoffer, de direct betrokkenen en de leidinggevend(en).
+
 ## 5. Terugkoppeling naar medewerkers:
 
 •       Het veiligheidsteam communiceert de bevindingen en de corrigerende maatregelen aan alle betrokkenen en indien nodig aan de hele organisatie.
@@ -155,6 +157,13 @@ Regelmatige rapportage:
 - Het veiligheidsteam rapporteert volgens afspraak over de incidenten en genomen maatregelen aan het managementteam.
 - Incidententrends worden regelmatig geanalyseerd om risico's vroegtijdig te identificeren.
 
+**Incident Alert**
+
+Afhankelijk van het incident en de toedracht kan worden besloten tot het opstellen van een Incident Alert. Een incident Alert geeft weer: een korte omschrijving van wat er is gebeurt, de gevolgen van het incident, aanbevelingen en acties. De volgende voorwaarden worden gehanteerd voor het opstellen van een Incident Alert:·      
+
+- Zwaar letsel of blijvend letsel (bijvoorbeeld amputatie, ernstig brandwondletsel, blijvend gehoor- of gezichtsverlies)
+- Ernstig bijna ongeval waarbij het letsel alleen door geluk is voorkomen, maar de situatie had kunnen leiden tot overlijden of zwaar letsel. 
+- Ernstige gevaarlijke situatie met hoog potentieel risico (High Potential Incident / HiPo).
 
 ## 9. Afsluiting en bewustwording
 
